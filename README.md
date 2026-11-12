@@ -2,7 +2,7 @@
 
 The website for Dibs, a savings Mini App for Nimiq Pay.
 
-Plain HTML and CSS, no build step, no backend. Hosted on Vercel as a static site.
+Plain HTML and CSS, no build step. Hosted on Vercel. One small function, `api/stats.js`, reads the public Dibs totals and caches them for an hour so the Proof numbers stay current; it holds no secret and no user data.
 
 - `index.html`: the landing page
 - `privacy.html`, `terms.html`: legal pages

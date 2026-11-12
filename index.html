@@ -298,28 +298,38 @@
     <h2>It works, on mainnet</h2>
     <p class="lede">Real people have saved, unlocked and bought real cards with Dibs. Every step can be checked on the Nimiq chain.</p>
   </div>
-  <div class="stats">
-    <div class="stat">
-      <div class="big c-mint">3</div>
-      <div class="lbl">cards bought end to end</div>
-      <div class="sub">By three different people, from a goal to a working code.</div>
+  <div class="bento">
+    <div class="tile t-nim">
+      <div class="t-top"><span class="t-k">Deposited through Dibs</span><span class="live" id="stats-live"><span id="stats-badge">As of 12 Nov 2026</span></span></div>
+      <p class="t-big c-mint"><span data-stat="nimAddedVerified">216,000</span>+ <small>NIM</small></p>
+      <p class="t-sub">Every deposit checked on the Nimiq chain, all time. Dibs never holds any of it.</p>
+      <svg class="t-rings" aria-hidden="true" viewBox="0 0 400 400" fill="none"><circle cx="200" cy="200" r="190" stroke="#3FC79B" stroke-opacity=".10" stroke-width="2"/><circle cx="200" cy="200" r="140" stroke="#3FC79B" stroke-opacity=".14" stroke-width="2"/><circle cx="200" cy="200" r="90" stroke="#3FC79B" stroke-opacity=".20" stroke-width="2"/></svg>
     </div>
-    <div class="stat">
-      <div class="big c-butter">12<small>h</small> 4<small>min</small></div>
-      <div class="lbl">measured unlock wait</div>
-      <div class="sub">From "Stop staking" to NIM released, on Nimiq mainnet.</div>
+    <div class="tile t-wait">
+      <div class="gauge">
+        <svg aria-hidden="true" viewBox="0 0 120 120" fill="none"><circle cx="60" cy="60" r="50" stroke="#36323F" stroke-width="9"/><circle cx="60" cy="60" r="50" stroke="#FFC94D" stroke-width="9" stroke-linecap="round" stroke-dasharray="158 314.2" transform="rotate(-90 60 60)"/></svg>
+        <p class="g-num c-butter">12<small>h</small> 4<small>min</small></p>
+      </div>
+      <div class="t-wait-txt">
+        <span class="t-k">Measured unlock wait</span>
+        <ol class="tl">
+          <li><b>Stop staking</b><span>6 Nov 2026, 12:44 UTC</span></li>
+          <li><b>NIM released</b><span>7 Nov 2026, 00:48 UTC</span></li>
+        </ol>
+        <p class="t-sub">The network allows 12 to 24 hours. Ours took the short end.</p>
+      </div>
     </div>
-    <div class="stat">
-      <div class="big">22</div>
-      <div class="lbl">brands in the catalog</div>
-      <div class="sub">With card versions for different account regions.</div>
-    </div>
+    <div class="tile t-s"><span class="t-ico" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0M16 4.800a3.5 3.5 0 0 1 0 6.400M18.5 14.500A6.5 6.5 0 0 1 21.5 20"/></svg></span><p class="t-num"><span data-text="ratio">3 in 4</span></p><p class="t-lbl">who shared stats made a deposit</p><p class="t-foot"><span data-stat="savers" data-exact>21</span> savers out of <span data-stat="people" data-exact>27</span> people who shared stats</p></div>
+    <div class="tile t-s"><span class="t-ico" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="7" height="7" rx="2"/><rect x="13.5" y="3.5" width="7" height="7" rx="2"/><rect x="3.5" y="13.5" width="7" height="7" rx="2"/><rect x="13.5" y="13.5" width="7" height="7" rx="2"/></svg></span><p class="t-num">22</p><p class="t-lbl">brands in the catalog</p><p class="t-foot">Games, streaming, travel, shopping and food. <a href="#catalog">See the catalog</a></p></div>
+    <div class="tile t-s"><span class="t-ico" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r=".800" fill="currentColor"/></svg></span><p class="t-num"><span data-stat="goalsCreated">70</span>+</p><p class="t-lbl">goals created</p><p class="t-foot"><span data-stat="goalsActive" data-exact>48</span> active right now, <span data-stat="goalsReached" data-exact>5</span> saved up to 100%</p></div>
+    <div class="tile t-s"><span class="t-ico" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="8" width="18" height="12" rx="2.5"/><path d="M3 12h18M12 8v12M12 8c-1.5-3.5-5-3.5-5-1.300C7 8 9.5 8 12 8zm0 0c1.5-3.5 5-3.5 5-1.300C17 8 14.5 8 12 8z"/></svg></span><p class="t-num"><span data-stat="cardsBought" data-exact>3</span></p><p class="t-lbl">cards bought end to end</p><p class="t-foot">By three different people, from a goal to a working code</p></div>
   </div>
+  <p class="asof"><span id="stats-asof">As of 12 Nov 2026.</span> Counted only from people who chose to share anonymous stats, so the real totals are higher.</p>
   <div class="chain">
     <div class="chain-head">
       <h3>Check it on the chain</h3>
       <p>Links open nimiq.watch, a Nimiq chain explorer. More purchases are added as each buyer agrees to share theirs.</p>
-      <p>Live totals: <a href="https://dibs-qi5y.onrender.com/stats" target="_blank" rel="noopener">Dibs in numbers</a></p>
+      <p>Exact totals: <a href="https://dibs-qi5y.onrender.com/stats" target="_blank" rel="noopener">Dibs in numbers</a></p>
     </div>
     <ul>
       <li><a href="https://nimiq.watch/#c97bfa545d4faf238f1a6a9911f24a5085754337099bd354f5384837f149e146" target="_blank" rel="noopener"><span class="when">4 Nov 2026</span><span class="what">The team's first card, paid in NIM</span><span class="arr">View transaction <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M9 7h8v8"/></svg></span></a></li>
@@ -414,6 +424,50 @@
   </div></div>
 </footer>
 
+<script>
+(function () {
+  var els = [].slice.call(document.querySelectorAll('[data-stat]'));
+  if (!els.length) return;
+  var still = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var fmt = function (n) { return Math.round(n).toLocaleString('en-US'); };
+  function floor(n) { var step = n < 100 ? 5 : n < 1000 ? 50 : 1000; return Math.floor(n / step) * step; }
+  els.forEach(function (el) { el._to = parseInt(el.textContent.replace(/,/g, ''), 10) || 0; el._seen = false; });
+  function run(el) {
+    if (still) { el.textContent = fmt(el._to); return; }
+    var t0 = null, to = el._to;
+    function step(t) {
+      if (t0 === null) t0 = t;
+      var p = Math.min(1, (t - t0) / 1100), e = 1 - Math.pow(1 - p, 3);
+      el.textContent = fmt(to * e);
+      if (p < 1 && el._to === to) requestAnimationFrame(step); else el.textContent = fmt(el._to);
+    }
+    requestAnimationFrame(step);
+  }
+  if ('IntersectionObserver' in window && !still) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (x) { if (x.isIntersecting) { x.target._seen = true; run(x.target); io.unobserve(x.target); } });
+    }, { threshold: 0.6 });
+    els.forEach(function (el) { el.textContent = '0'; io.observe(el); });
+  } else { els.forEach(function (el) { el._seen = true; }); }
+  if (!window.fetch) return;
+  fetch('/api/stats').then(function (r) { return r.ok ? r.json() : Promise.reject(); }).then(function (d) {
+    if (d.savers > 0 && d.people > 0) {
+      var r = d.savers / d.people, txt = r >= 0.9 ? '9 in 10' : r >= 0.8 ? '4 in 5' : r >= 0.75 ? '3 in 4' : r >= 2 / 3 ? '2 in 3' : r >= 0.5 ? '1 in 2' : Math.floor(r * 100) + '%';
+      [].slice.call(document.querySelectorAll('[data-text="ratio"]')).forEach(function (el) { el.textContent = txt; });
+    }
+    els.forEach(function (el) {
+      var v = d[el.getAttribute('data-stat')];
+      if (typeof v !== 'number' || !(v >= 0)) return;
+      el._to = el.hasAttribute('data-exact') ? Math.round(v) : floor(v);
+      if (el._seen) el.textContent = fmt(el._to);
+    });
+    var live = document.getElementById('stats-live'), badge = document.getElementById('stats-badge');
+    if (live && badge) { live.classList.add('on'); badge.textContent = 'Live, updated hourly'; }
+    var t = d.updatedAt && new Date(d.updatedAt), asof = document.getElementById('stats-asof');
+    if (asof && t && !isNaN(t)) asof.textContent = 'As of ' + t.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' }) + '.';
+  }).catch(function () {});
+})();
+</script>
 <script>
 (function () {
   var list = document.getElementById('brands');
