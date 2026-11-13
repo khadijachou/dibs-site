@@ -59,14 +59,20 @@
     <div class="stage">
       <div class="glow" aria-hidden="true"></div>
       <svg class="rings" aria-hidden="true" viewBox="0 0 660 660" fill="none">
-        <circle cx="330" cy="330" r="322" stroke="#36323F" stroke-width="1.5" stroke-dasharray="1.5 13" stroke-linecap="round"/>
+        <circle class="r-dots" cx="330" cy="330" r="322" stroke="#36323F" stroke-width="1.5" stroke-dasharray="1.5 13" stroke-linecap="round"/>
         <circle cx="330" cy="330" r="268" stroke="#2A2732" stroke-width="12"/>
-        <circle cx="330" cy="330" r="268" stroke="#E8482A" stroke-width="12" stroke-linecap="round" stroke-dasharray="1095 1684" transform="rotate(-90 330 330)"/>
+        <circle class="r-arc" id="hero-arc" cx="330" cy="330" r="268" stroke="#E8482A" stroke-width="12" stroke-linecap="round" pathLength="100" stroke-dasharray="65 100" transform="rotate(-90 330 330)"/>
       </svg>
       <div class="phone back" aria-hidden="true"><img src="assets/step-1-catalog.webp" width="780" height="1120" alt=""></div>
       <div class="phone front">
-        <img src="assets/screen-home.webp" srcset="assets/screen-home-390.webp 390w, assets/screen-home.webp 780w" sizes="280px" width="780" height="1600" alt="Dibs home screen: a savings goal with its progress ring and an Add NIM button">
+        <div class="screens" id="hero-screens">
+          <img class="scr on" data-p="25" src="assets/screen-home.webp" srcset="assets/screen-home-390.webp 390w, assets/screen-home.webp 780w" sizes="280px" width="780" height="1600" alt="Dibs home screen: a savings goal with its progress ring and an Add NIM button">
+          <img class="scr" data-p="50" src="assets/hero-2-catalog.webp" srcset="assets/hero-2-catalog-390.webp 390w, assets/hero-2-catalog.webp 780w" sizes="280px" width="780" height="1600" alt="" aria-hidden="true" loading="lazy">
+          <img class="scr" data-p="75" src="assets/hero-3-add.webp" srcset="assets/hero-3-add-390.webp 390w, assets/hero-3-add.webp 780w" sizes="280px" width="780" height="1600" alt="" aria-hidden="true" loading="lazy">
+          <img class="scr" data-p="100" src="assets/hero-4-ready.webp" srcset="assets/hero-4-ready-390.webp 390w, assets/hero-4-ready.webp 780w" sizes="280px" width="780" height="1600" alt="" aria-hidden="true" loading="lazy">
+        </div>
       </div>
+      <ol class="scr-dots" aria-hidden="true"><li class="on">Home</li><li>Pick</li><li>Add</li><li>Ready</li></ol>
     </div>
   </div>
 </section>
@@ -449,6 +455,34 @@
   </div></div>
 </footer>
 
+<script>
+(function () {
+  var box = document.getElementById('hero-screens'), arc = document.getElementById('hero-arc');
+  if (!box || !arc) return;
+  var still = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var imgs = [].slice.call(box.querySelectorAll('.scr')), dots = [].slice.call(document.querySelectorAll('.scr-dots li'));
+  var i = 0, timer = null;
+  function show(n) {
+    if (n !== i) {
+      var prev = imgs[i];
+      prev.classList.remove('on'); prev.classList.add('out');
+      setTimeout(function () { prev.classList.add('reset'); prev.classList.remove('out'); prev.offsetWidth; prev.classList.remove('reset'); }, 850);
+      dots[i] && dots[i].classList.remove('on');
+    }
+    i = n; imgs[i].classList.add('on'); dots[i] && dots[i].classList.add('on');
+    var p = +imgs[i].getAttribute('data-p');
+    arc.style.strokeDasharray = p + ' 100';
+    arc.classList.toggle('done', p >= 100);
+  }
+  if (still) return;
+  arc.style.strokeDasharray = '0 100';
+  requestAnimationFrame(function () { requestAnimationFrame(function () { show(0); }); });
+  function start() { if (!timer) timer = setInterval(function () { show((i + 1) % imgs.length); }, 3200); }
+  function stop() { clearInterval(timer); timer = null; }
+  document.addEventListener('visibilitychange', function () { document.hidden ? stop() : start(); });
+  start();
+})();
+</script>
 <script>
 (function () {
   var els = [].slice.call(document.querySelectorAll('[data-stat]'));
