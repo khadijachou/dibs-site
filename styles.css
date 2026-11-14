@@ -1080,7 +1080,7 @@ footer{border-top:1px solid var(--line-soft);background:rgba(17,15,21,.55)}
 .g-code{font:600 18px/1 var(--body);letter-spacing:.12em;color:rgba(255,246,236,.85)}
 .story{display:block;max-width:880px;padding-bottom:24px}
 .miles-sec{display:flex;flex-direction:column;gap:36px}
-.miles{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:18px;position:relative}
+.miles{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:18px;position:relative}
 .miles::before{content:"";position:absolute;left:0;right:0;top:7px;height:2px;background:linear-gradient(90deg,var(--edge),var(--coral))}
 .miles li{position:relative;padding-top:30px;display:flex;flex-direction:column;gap:8px}
 .miles li::before{content:"";position:absolute;left:0;top:0;width:16px;height:16px;border-radius:50%;background:var(--ground);border:2px solid var(--coral)}

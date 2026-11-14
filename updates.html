@@ -13,7 +13,7 @@
 <meta property="og:title" content="Dibs: call dibs, save up, it's yours">
 <meta property="og:description" content="A savings Mini App for Nimiq Pay. Save NIM toward something you want. It earns while you wait. One tap to get it.">
 <meta property="og:url" content="https://calldibs-ashen.vercel.app/updates.html">
-<meta property="og:image" content="https://calldibs-ashen.vercel.app/assets/og-card.jpg">
+<meta property="og:image" content="https://calldibs-ashen.vercel.app/assets/og-card.jpg?v=3">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
@@ -70,7 +70,6 @@
   <aside class="next-col">
     <h2 class="rel-h">Coming <span class="o">next</span></h2>
     <ul class="up-next">
-          <li><span class="up-ico"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg></span><div><span class="up-tag">v1.2</span><h4>Daily quests</h4><p>Small quests every day, on top of the weekly one, with XP to earn.</p></div></li>
           <li><span class="up-ico"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 17l5-5 4 4 7-7"/><path d="M15 9h5v5"/></svg></span><div><span class="up-tag">v1.3</span><h4>See what your NIM could earn</h4><p>A plain estimate of what the NIM sitting in your wallet could earn if you put it toward a goal.</p></div></li>
           <li><span class="up-ico"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3.5" y="3.5" width="7" height="7" rx="2"/><rect x="13.5" y="3.5" width="7" height="7" rx="2"/><rect x="3.5" y="13.5" width="7" height="7" rx="2"/><path d="M17 14v6M14 17h6"/></svg></span><div><span class="up-tag">v1.4</span><h4>More to save for</h4><p>New categories and more brands in the catalog.</p></div></li>
           <li><span class="up-ico"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 0 0-3.6 10.8c.7.6 1.1 1.3 1.1 2.2h5c0-.9.4-1.6 1.1-2.2A6 6 0 0 0 12 3z"/></svg></span><div><span class="up-tag">v1.5</span><h4>Did you know?</h4><p>Quick facts about Dibs, NIM and Nimiq Pay, plus the brands you save for most. Into gaming? Expect facts on Steam, Valorant and more.</p></div></li>
@@ -183,7 +182,7 @@
 (function () {
   var list = document.getElementById('all-rel'), live = document.getElementById('up-live');
   if (!list || !window.fetch) return;
-  var TITLES = { '1.1': '27 brands and a whole new feel', '1.0': 'Dibs goes live on mainnet' };
+  var TITLES = { '1.2': 'Daily quests are here', '1.1': '27 brands and a whole new feel', '1.0': 'Dibs goes live on mainnet' };
   var esc = function (x) { return String(x).replace(/[&<>]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]; }); };
   var fmt = function (d, o) { try { return new Intl.DateTimeFormat('en-GB', o || { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' }).format(new Date(d + 'T12:00:00Z')); } catch (e) { return d; } };
   var filt = document.querySelectorAll('.rf');
