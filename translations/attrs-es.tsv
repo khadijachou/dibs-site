@@ -1,0 +1,65 @@
+001::Dibs es una Mini App de ahorro para Nimiq Pay. Ahorra NIM para una tarjeta de regalo. Las recompensas de staking no están garantizadas. Consíguela con un toque. Tus NIM siguen en tu billetera.
+002::Dibs: resérvalo, ahorra, es tuyo
+003::Una Mini App de ahorro para Nimiq Pay. Ahorra NIM para lo que quieras. Las recompensas de staking no están garantizadas. Consíguelo con un toque.
+004::Dibs, inicio
+005::Navegación principal
+006::Idioma: español
+007::Menú
+008::Navegación principal para móviles
+009::Catálogo de Electrónica en Dibs, detrás de la pantalla de una meta activa
+010::Inicio de Dibs con dos metas de ahorro activas y anillos de progreso
+011::Catálogo Dibs filtrado por Electrónica, con tarjetas de regalo para elegir
+012::Pantalla Añadir NIM de Dibs, con vista previa del depósito y pool de staking
+013::Meta de Dibs al 100 %, lista para desbloquear
+014::Dibs en resumen
+015::Catálogo Dibs de Electrónica con tarjetas de regalo y filtros
+016::Pantalla Añadir NIM con vista previa del depósito y fila del pool
+017::Pantalla Ahorros de Dibs con NIM totales, próxima recompensa y conversor
+018::Pantalla de compra completada en Dibs con el código de la tarjeta oculto
+019::Cosas para las que podrías ahorrar
+020::Perfil de Dibs con avatar, nivel, insignias y lista de deseos
+021::Código QR de la dirección de la app Dibs, dibs-sepia.vercel.app
+022::Pie de página
+023::Idioma
+024::Tus NIM nunca salen de tu billetera. Qué puede hacer Dibs, cómo funciona el pago y cómo comprobar los pasos en la cadena.
+025::Qué puede y qué no puede hacer Dibs
+026::Pantalla Ahorros de Dibs con próxima recompensa, nombre del pool y conversor NIM
+027::El Litepaper de Dibs explica cómo ahorrar NIM para tarjetas de regalo, autocustodia, staking, pagos, privacidad y próximos planes.
+028::Litepaper de Dibs | Resérvalo. Ahorra. Es tuyo.
+029::Por qué creamos Dibs, cómo funciona el ahorro con NIM y las decisiones de diseño del producto.
+030::Una meta de ahorro real mostrada en Dibs
+031::Pantalla Inicio de Dibs v1.7.7 con dos metas activas, progreso y opción de añadir NIM
+032::Principios de Dibs
+033::Índice del Litepaper
+034::Ir a la sección
+035::Pantalla del catálogo Electrónica de Dibs
+036::Pantalla Añadir NIM con vista previa del depósito y pool
+037::Meta completada al 100 % en Dibs
+038::Pantalla de tarjeta de regalo pagada con el código oculto
+039::La Mini App Dibs interactúa con Nimiq Pay para aprobar transacciones de billetera y staking, mientras que el servicio Dibs obtiene información y pedidos de tarjetas de regalo de Bitrefill. Los pagos se confirman en Nimiq Pay mediante Lightning.
+040::Respuestas breves sobre ahorrar NIM con Dibs: dónde están tus NIM, por qué hay una espera, origen de las tarjetas, comisiones y tus datos.
+041::Buscar, por ejemplo: comisión, espera, Bitrefill
+042::Temas
+043::Cómo funciona Dibs: elegir una tarjeta, aprobar depósitos de NIM, elegir un pool, desbloquear y comprar. Las recompensas de staking no están garantizadas.
+044::Pantalla Añadir NIM de Dibs con vista previa del depósito
+045::Meta de Dibs al 100 %, con el botón Desbloquear
+046::Pantalla Listo de Dibs con el código de la tarjeta de regalo oculto
+047::Nueve pasos semanales, una semana omitida y recuperada después
+048::Desglose de costos
+049::Pantallas de la aplicación Dibs
+050::Ficha de marca en Dibs con valores y detalles de entrega
+051::Pantalla de planificación de Dibs con valor, objetivo y fecha
+052::Pantalla Ahorros de Dibs con próxima recompensa de staking y conversor de cambio actual
+053::Pantalla Desbloquear de Dibs con tres pasos y hora estimada de liberación en la red
+054::Pantalla Mi estilo de Dibs con opciones de acento según el rango
+055::Condiciones del sitio Dibs y resumen de las condiciones de la app.
+056::Cómo trata Dibs los datos en el sitio y la app, incluidos Amigos opcional, controles para compartir y regalos cifrados.
+057::Por qué existe Dibs, nuestra historia hasta v{{LIVE_VERSION}}, nuestros principios y cómo contactarnos.
+058::Un saldo frente a lo que querías obtener
+059::Consulta los {{RELEASE_COUNT}} lanzamientos de Dibs, sus notas oficiales y los planes futuros.
+060::Número de lanzamientos
+061::Mostrar
+062::Consulta {{BRAND_COUNT}} marcas de tarjetas de regalo en {{CATEGORY_COUNT}} categorías, incluida Electrónica. Elige la versión adecuada para tu cuenta.
+063::Catálogo de Electrónica en Dibs con {{ELECTRONICS_COUNT}} marcas
+064::Categoría
+065::Buscar una marca

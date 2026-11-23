@@ -1131,3 +1131,80 @@ footer{border-top:1px solid var(--line-soft);background:rgba(17,15,21,.55)}
 .fq-help .btn svg{width:18px;height:18px}
 @media (max-width:900px){.fq-wrap{grid-template-columns:1fr}.fq-side{position:static;flex-direction:row;flex-wrap:wrap}.fq-side a{border:1px solid var(--line);padding:9px 14px}.fq-side a span{margin-left:4px}}
 .cat-h1{font-size:clamp(48px,8vw,104px);line-height:.95;letter-spacing:-.05em}.cat-top.page{padding-top:96px}.cat-top.page .lede{max-width:46ch}@media (max-width:900px){.cat-top.page{padding-top:56px}}
+
+/* Dibs v1.7.7 additions: reuse the existing palette and type scale. */
+.cc-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.cc-stack .b-logo img{width:100%;height:100%;object-fit:contain}
+.b-logo.b-letter{display:inline-grid;place-items:center;font:700 20px/1 var(--display)}
+.cc-stack .b-logo.b-letter{font-size:15px}
+.b-logo.contain img{width:100%;height:100%;object-fit:contain}
+.brand .b-logo{overflow:hidden}
+.brand .b-logo img{object-fit:contain;width:100%;height:100%}
+.friends-section{padding-top:84px;padding-bottom:108px}
+.friends-layout{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,.7fr);gap:clamp(32px,6vw,90px);align-items:center;margin-top:36px;padding:clamp(24px,4vw,52px);border-radius:var(--r-lg);border:1px solid var(--line-soft);background:rgba(38,35,48,.72)}
+.friends-copy{display:flex;flex-direction:column;align-items:flex-start;gap:11px}
+.friends-copy h3{font:600 21px/1.3 var(--display);letter-spacing:-.015em;margin-top:10px}
+.friends-copy p{color:var(--muted);font-size:16.5px;line-height:1.6}
+.friends-copy .more{margin-top:16px}
+.friends-photo{margin:0;display:flex;flex-direction:column;align-items:center;gap:16px}
+.friends-photo img{width:min(100%,285px);height:auto;filter:drop-shadow(0 16px 24px rgba(0,0,0,.34));border-radius:24px}
+.friends-photo figcaption{color:var(--quiet);text-align:center;font-size:14px}
+.gifts-block,.friends-safety{padding-top:52px;padding-bottom:100px}
+.gift-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:28px}
+.gift-grid article{background:rgba(38,35,48,.75);border:1px solid var(--line-soft);border-radius:var(--r-md);padding:clamp(22px,3vw,34px)}
+.gift-grid h3{font:600 clamp(19px,2vw,24px)/1.3 var(--display);letter-spacing:-.02em;margin-bottom:10px}
+.gift-grid p{font-size:16px;line-height:1.6;color:var(--muted)}
+.screen-tour{padding-top:52px;padding-bottom:74px}
+.screen-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:18px;margin-top:36px;align-items:start}
+.screen-grid figure{margin:0;min-width:0;text-align:center}
+.screen-grid img{width:100%;height:auto;border-radius:22px;box-shadow:0 10px 28px rgba(0,0,0,.22);border:1px solid var(--line)}
+.screen-grid figcaption{color:var(--muted);font:600 14px var(--body);margin-top:14px}
+.safety-screen{display:flex;flex-direction:column;align-items:center;gap:12px;margin:45px 0 0}
+.safety-screen img{width:min(100%,230px);height:auto;border-radius:20px}
+.safety-screen figcaption{font-size:14px;color:var(--muted);text-align:center;max-width:440px}
+.cat-preview{float:right;clear:right;max-width:180px;margin:0 0 18px 32px;text-align:center}
+.cat-preview img{width:100%;height:auto;border:1px solid var(--line);border-radius:20px}
+.cat-preview figcaption{font-size:13px;color:var(--quiet);margin-top:10px}
+.cat-guidance{color:var(--muted);font-size:15.5px;line-height:1.5;max-width:64ch}
+.rel[hidden],.day[hidden]{display:none!important}
+@media (max-width:1080px){
+  .cc-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .cc-all-li{grid-column:1/-1}
+  .screen-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media (max-width:760px){
+  .friends-section{padding-top:58px;padding-bottom:72px}
+  .friends-layout{grid-template-columns:1fr;padding:24px;gap:28px}
+  .friends-photo{order:-1}
+  .friends-photo img{width:min(100%,210px)}
+  .gift-grid{grid-template-columns:1fr}
+  .screen-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+  .screen-grid img{border-radius:16px}
+  .gifts-block,.friends-safety{padding-bottom:70px}
+}
+@media (max-width:420px){
+  .cat-preview{max-width:112px;margin-left:12px}
+  .cc{padding:14px}
+  .cc-grid{gap:10px}
+  .cc-ex{font-size:12px}
+  .cc strong{font-size:15px}
+  .friends-copy h3{font-size:19px}
+}
+
+.b-logo.b-letter{font:600 10px/1 var(--body);letter-spacing:.025em}
+.cc-stack .b-logo.b-letter{font-size:9px}
+/* A real Catalog capture accompanies the intro rather than breaking it apart. */
+.cat-head{align-items:center;gap:28px 52px}
+.cat-head>.head{flex:1 1 550px;min-width:0;max-width:780px}
+.cat-preview{float:none;flex:0 0 190px;width:190px;max-width:190px;margin:0;text-align:center}
+.cat-guidance{margin-top:20px}
+@media (max-width:840px){.cat-head>.head{flex:1 1 400px}.cat-preview{flex-basis:160px;width:160px;max-width:160px}}
+@media (max-width:620px){.cat-head{align-items:flex-start}.cat-head>.head{flex:1 1 100%}.cat-preview{flex:0 0 150px;width:150px;max-width:150px;margin:0 auto}}
+
+/* Localized footer links and legal headings must fit narrow screens. */
+.f-lang{flex-wrap:wrap}
+@media (max-width:480px){
+  .legal h1{overflow-wrap:anywhere}
+  html[lang="fr"] .legal h1{font-size:clamp(32px,10vw,38px)}
+  html[lang="es"] .legal h1{font-size:clamp(35px,11vw,38px)}
+}

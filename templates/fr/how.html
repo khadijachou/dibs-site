@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Comment ça marche · Dibs</title>
+<meta content="Comment fonctionne Dibs : choisir une carte, approuver les dépôts NIM, choisir un pool, débloquer et acheter. Les récompenses de staking ne sont pas garanties." name="description"/>
+<meta content="#1B1920" name="theme-color"/>
+<link href="../assets/favicon.svg?v=2" rel="icon" type="image/svg+xml"/>
+<link href="../assets/favicon-96.png?v=2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="../assets/apple-touch-icon.png" rel="apple-touch-icon"/>
+<meta content="website" property="og:type"/>
+<meta content="Dibs : réservez, épargnez, obtenez" property="og:title"/>
+<meta content="Une Mini App d’épargne pour Nimiq Pay. Épargnez des NIM pour ce qui vous plaît. Les récompenses de staking ne sont pas garanties. Un geste pour l’obtenir." property="og:description"/>
+<meta content="https://calldibs-ashen.vercel.app/fr/how.html" property="og:url"/>
+<meta content="https://calldibs-ashen.vercel.app/assets/og-dibs-v177.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="630" property="og:image:height"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@calldibs_app" name="twitter:site"/>
+<link as="font" crossorigin="" href="../assets/fonts/poppins-latin-700-normal.woff2" rel="preload" type="font/woff2"/>
+<link href="../styles.css" rel="stylesheet"/>
+<link href="https://calldibs-ashen.vercel.app/how.html" hreflang="en" rel="alternate"/><link href="https://calldibs-ashen.vercel.app/fr/how.html" hreflang="fr" rel="alternate"/><link href="https://calldibs-ashen.vercel.app/es/how.html" hreflang="es" rel="alternate"/><link href="https://calldibs-ashen.vercel.app/how.html" hreflang="x-default" rel="alternate"/></head>
+<body>
+<a class="skip" href="#main">Aller au contenu</a>
+<div aria-hidden="true" class="progress"><i></i></div>
+<div aria-hidden="true" class="bg"><i class="g-coral"></i><i class="g-mint"></i></div>
+<div aria-hidden="true" class="grain"></div>
+<div class="bar">
+<header class="wrap top">
+<a class="logo" href="./"><img alt="Dibs, accueil" height="34" src="../assets/dibs-wordmark.svg" width="88"/></a>
+<nav aria-label="Navigation principale" class="nav"><a href="./">Accueil</a><a aria-current="page" href="how.html">Comment ça marche</a><a href="catalog.html">Catalogue</a><a href="safety.html">Sécurité</a><a href="updates.html">Nouveautés</a><a href="litepaper.html">Litepaper</a><a href="about.html">À propos</a></nav>
+<div class="top-end">
+<div class="lang">
+<button aria-controls="lang-menu" aria-expanded="false" aria-label="Langue : français" class="lang-btn" type="button"><svg aria-hidden="true" fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="18"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9S9.5 5.6 12 3z"></path></svg><span>FR</span></button>
+<ul class="lang-menu" hidden="" id="lang-menu"><li><a href="../how.html" lang="en">English</a></li><li><a aria-current="true" href="../fr/how.html" lang="fr">Français</a></li><li><a href="../es/how.html" lang="es">Español</a></li></ul>
+</div>
+<a class="btn btn-primary btn-sm top-cta" href="#open">Ouvrir dans Nimiq Pay</a>
+<button aria-controls="menu" aria-expanded="false" aria-label="Menu" class="menu-btn" type="button"><i></i><i></i></button>
+</div>
+</header>
+</div>
+<div class="menu" hidden="" id="menu">
+<nav aria-label="Navigation principale sur mobile"><a href="./">Accueil</a><a aria-current="page" href="how.html">Comment ça marche</a><a href="catalog.html">Catalogue</a><a href="safety.html">Sécurité</a><a href="updates.html">Nouveautés</a><a href="litepaper.html">Litepaper</a><a href="about.html">À propos</a><a href="faq.html">FAQ</a></nav>
+<a class="btn btn-primary" href="#open">Ouvrir dans Nimiq Pay</a>
+</div>
+<main id="main">
+<section class="wrap phead">
+<h1 class="p-h1">Comment Dibs <span class="o">fonctionne</span></h1>
+<p class="lede">Quatre étapes et une attente. Voici ce qui se passe à chaque étape et ce qui arrive à vos NIM.</p>
+<div class="actions"><a class="btn btn-primary" href="#open">Ouvrir dans Nimiq Pay</a><a class="btn btn-demo" href="https://dibs-sepia.vercel.app" rel="noopener" target="_blank"><span aria-hidden="true" class="demo-ico"><svg fill="currentColor" height="14" viewbox="0 0 24 24" width="14"><path d="M8 5.2v13.6a.8.8 0 0 0 1.2.7l11-6.8a.8.8 0 0 0 0-1.4l-11-6.8A.8.8 0 0 0 8 5.2z"></path></svg></span><span class="demo-t"><b>Essayer la démo</b><small>Dans votre navigateur, sans portefeuille</small></span></a></div>
+</section>
+<section class="how how-page" id="how">
+<div class="how-pin" id="how-pin">
+<div class="how-stage">
+<div class="wrap how-grid">
+<div class="how-copy">
+<div aria-hidden="true" class="how-rail"><i></i></div>
+<ol class="how-steps"><li class="how-step on" data-i="0"><button aria-current="step" class="how-btn" type="button"><span class="how-k">1</span><span class="how-t">Réservez</span></button><p><span class="how-mt">Réservez</span> Choisissez une carte-cadeau, sa valeur et une date. {{BRAND_COUNT}} marques disponibles.</p></li><li class="how-step" data-i="1"><button aria-current="false" class="how-btn" type="button"><span class="how-k">2</span><span class="how-t">Épargnez</span></button><p><span class="how-mt">Épargnez</span> Approuvez chaque dépôt dans Nimiq Pay. Au premier, choisissez parmi cinq pools de staking vérifiés. Garuda Pool est présélectionné. L’écran Ajouter des NIM montre la progression prévue.</p></li><li class="how-step" data-i="2"><button aria-current="false" class="how-btn" type="button"><span class="how-k">3</span><span class="how-t">Vos NIM rapportent pendant l’attente</span></button><p><span class="how-mt">Vos NIM rapportent pendant l’attente</span> Votre pool de staking verse des récompenses environ toutes les 12 heures, après ses frais. Les récompenses ne sont pas garanties. L’écran Épargne affiche le prochain versement.</p></li><li class="how-step" data-i="3"><button aria-current="false" class="how-btn" type="button"><span class="how-k">4</span><span class="how-t">C’est à vous</span></button><p><span class="how-mt">C’est à vous</span> À 100 %, débloquez vos NIM. Le réseau les libère après 12 à 24 heures. Dibs affiche une estimation de l’heure. Payez ensuite en un geste par Lightning et recevez votre carte dans Dibs.</p></li></ol>
+</div>
+<div class="how-phone"><div aria-hidden="true" class="how-glow"></div><div class="how-frame"><img alt="Écran du catalogue Dibs Électronique" class="how-scr on" decoding="async" height="1688" loading="lazy" sizes="(max-width: 700px) 200px, 280px" src="../assets/screens/02-catalog-electronics.webp" srcset="../assets/screens/02-catalog-electronics-390.webp 390w, ../assets/screens/02-catalog-electronics.webp 780w" width="780"/><img alt="Écran Ajouter des NIM de Dibs avec aperçu du dépôt" class="how-scr" decoding="async" height="1688" loading="lazy" sizes="(max-width: 700px) 200px, 280px" src="../assets/screens/05-add-nim.webp" srcset="../assets/screens/05-add-nim-390.webp 390w, ../assets/screens/05-add-nim.webp 780w" width="780"/><img alt="Objectif Dibs atteint à 100 %, avec le bouton Débloquer" class="how-scr" decoding="async" height="1688" loading="lazy" sizes="(max-width: 700px) 200px, 280px" src="../assets/screens/07-goal-100.webp" srcset="../assets/screens/07-goal-100-390.webp 390w, ../assets/screens/07-goal-100.webp 780w" width="780"/><img alt="Écran Terminé avec le code de la carte-cadeau masqué" class="how-scr" decoding="async" height="1688" loading="lazy" sizes="(max-width: 700px) 200px, 280px" src="../assets/screens/09-done-code.webp" srcset="../assets/screens/09-done-code-390.webp 390w, ../assets/screens/09-done-code.webp 780w" width="780"/></div></div>
+</div>
+</div>
+</div>
+<div class="wrap how-demo">
+<a class="demo" href="https://www.youtube.com/watch?v=y2SuazkWBkM" rel="noopener" target="_blank">
+<span aria-hidden="true" class="play"><svg fill="#FFF6EC" height="24" viewbox="0 0 24 24" width="24"><path d="M8 5.2v13.6a.8.8 0 0 0 1.2.7l11-6.8a.8.8 0 0 0 0-1.4l-11-6.8A.8.8 0 0 0 8 5.2z"></path></svg></span>
+<span class="txt"><strong>Voir la démo</strong><span>Tout le parcours en 4 minutes : un objectif, un dépôt, le déblocage et une carte.</span></span>
+<span class="go">S’ouvre sur YouTube <svg aria-hidden="true" fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" viewbox="0 0 24 24" width="16"><path d="M7 17L17 7M9 7h8v8"></path></svg></span>
+</a>
+</div>
+</section>
+<section class="wrap section explain" data-zone="mint">
+<h2 class="ex-h">Que deviennent <span class="o">vos NIM</span></h2>
+<div class="ex-block ex-path">
+<div class="ex-copy"><h3>Suivez vos NIM</h3><p>Du premier dépôt à la carte, vos NIM restent dans votre propre compte jusqu’au moment du paiement.</p></div>
+<div class="path">
+<span aria-hidden="true" class="path-brace"><i></i>Toujours à votre propre adresse</span>
+<ol class="path-list"><li class="pn"><span class="pn-ico"><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="22"><path d="M19 7V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-3"></path><path d="M21 9h-5a3 3 0 0 0 0 6h5z"></path></svg></span><b>Dans votre portefeuille</b><p>Vos NIM se trouvent dans Nimiq Pay, à votre adresse.</p></li><li class="pn"><span class="pn-ico"><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="22"><path d="M12 3l9 5-9 5-9-5z"></path><path d="M3 13l9 5 9-5"></path></svg></span><b>En staking</b><p>Au premier dépôt, choisissez parmi cinq pools vérifiés. Garuda Pool est présélectionné. Vous approuvez chaque opération de staking.</p></li><li class="pn"><span class="pn-ico"><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="22"><path d="M4 17l5-5 4 4 7-7"></path><path d="M15 9h5v5"></path></svg></span><b>Récompenses</b><p>Votre pool verse des récompenses environ toutes les 12 heures, après ses frais. Les récompenses ne sont pas garanties.</p></li><li class="pn"><span class="pn-ico"><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="22"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 2"></path></svg></span><b>Débloqués</b><p>À 100 %, vous arrêtez le staking. Le réseau libère les NIM de 12 à 24 heures plus tard.</p></li><li class="pn last"><span class="pn-ico"><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="22"><path d="M13 2L4 14h7l-1 8 9-12h-7z"></path></svg></span><b>Payés</b><p>Un geste paie la boutique par Lightning. Le code arrive dans l’application.</p></li></ol>
+</div>
+</div>
+<div class="ex-block ex-split">
+<div class="ex-copy">
+<h3>Un objectif, en <span class="o">étapes hebdomadaires</span></h3>
+<p>Dibs convertit le prix de la boutique en objectif NIM au taux du moment, ajoute une marge de 10 % pour les variations de prix et divise le total en étapes hebdomadaires.</p>
+<p>Rien n’est automatique. Vous pouvez sauter une semaine et rattraper la suivante. Le premier dépôt doit atteindre 100 NIM pour ouvrir le staking; ensuite, tout montant est accepté.</p>
+</div>
+<div class="ex-vis plan">
+<div class="plan-top"><span class="plan-brand">Exemple : un objectif de carte-cadeau</span></div>
+<dl class="plan-rows">
+<div><dt>Valeur de la carte</dt><dd>Affichée au paiement en NIM (devise de la carte entre parenthèses)</dd></div>
+<div><dt>Prix de la boutique</dt><dd>Affichée au paiement en NIM (devise de la carte entre parenthèses)</dd></div>
+<div><dt>Marge pour les variations du NIM</dt><dd>+10%</dd></div>
+<div class="tot"><dt>Votre objectif</dt><dd>en NIM, au taux du moment</dd></div>
+</dl>
+<ol aria-label="Neuf étapes hebdomadaires, une semaine sautée et rattrapée la suivante" class="weeks"><li class="wk" style="--i:0"><i></i><span>S1</span></li><li class="wk" style="--i:1"><i></i><span>S2</span></li><li class="wk" style="--i:2"><i></i><span>S3</span></li><li class="wk wk-skip" style="--i:3"><i></i><span>S4</span></li><li class="wk dbl" style="--i:4"><i></i><span>S5</span></li><li class="wk" style="--i:5"><i></i><span>S6</span></li><li class="wk" style="--i:6"><i></i><span>S7</span></li><li class="wk" style="--i:7"><i></i><span>S8</span></li><li class="wk" style="--i:8"><i></i><span>S9</span></li></ol>
+<p class="plan-cap"><i class="k-skip"></i>Semaine sautée <i class="k-dbl"></i>Rattrapée</p>
+</div>
+</div>
+<div class="ex-block ex-split rev">
+<div class="ex-copy">
+<h3>Une attente, puis <span class="o">un geste</span></h3>
+<p>Après le déblocage, le réseau Nimiq libère les NIM mis en staking dans les 12 à 24 heures. C’est une règle du réseau, pas de Dibs. Dibs affiche une horloge avec l’heure réelle de libération.</p>
+<p>Après le retour des NIM, l’achat se fait en un geste.</p>
+</div>
+<div class="ex-vis waitv">
+<div class="gauge big"><svg aria-hidden="true" fill="none" viewbox="0 0 120 120"><circle cx="60" cy="60" r="50" stroke="#36323F" stroke-width="9"></circle><circle class="g-arc" cx="60" cy="60" r="50" stroke="#FFC94D" stroke-dasharray="158 314.2" stroke-linecap="round" stroke-width="9" transform="rotate(-90 60 60)"></circle></svg><p class="g-num c-butter">cartes achetées de bout en bout<small>h</small> 4<small>min</small></p></div>
+<div class="wait-txt"><span class="t-k">Notre propre déblocage sur le réseau principal</span><ol class="tl"><li><b>Staking désactivé</b><span>6 nov. 2026, 12 h 44 UTC</span></li><li><b>Staking libéré</b><span>7 nov. 2026, 0 h 48 UTC</span></li></ol><p class="t-sub">Le délai est de 12 à 24 heures. Notre essai était proche du minimum.</p></div>
+</div>
+</div>
+<div class="ex-block ex-split">
+<div class="ex-copy">
+<h3>Ce que <span class="o">ça coûte</span></h3>
+<p>Dibs n’ajoute aucuns frais. Vous payez le prix de la boutique pour la carte, parfois un peu supérieur à sa valeur nominale. Le prix exact est confirmé au paiement.</p>
+</div>
+<div aria-label="Répartition des coûts" class="ex-vis receipt">
+<p class="r-h">Exemple de frais au paiement</p>
+<dl>
+<div><dt>Carte-cadeau, prix boutique</dt><dd>Prix actuel en NIM (devise de la carte entre parenthèses)</dd></div>
+<div><dt>Frais Dibs</dt><dd class="zero">0 NIM</dd></div>
+<div><dt>Pool de staking</dt><dd>Une part des récompenses gagnées, le cas échéant</dd></div>
+</dl>
+<p class="r-foot">Aucun abonnement ni frais Dibs.</p>
+</div>
+</div>
+<div class="ex-block mind">
+<h3><span class="o">Vous avez changé d’idée?</span></h3>
+<ul class="mind-list">
+<li><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="22"><path d="M7 7h11l-3-3M17 17H6l3 3"></path></svg><span><b>Changer de carte</b>Vos NIM restent affectés à l’objectif.</span></li>
+<li><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="22"><path d="M4 12h12M12 6l6 6-6 6"></path></svg><span><b>Déplacer les NIM</b>Affectez-les à un autre objectif.</span></li>
+<li><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="22"><path d="M9 14L4 9l5-5"></path><path d="M4 9h11a5 5 0 0 1 0 10h-3"></path></svg><span><b>Les récupérer</b>Ils retournent dans votre portefeuille. Ce sont vos NIM.</span></li>
+</ul>
+<a class="more" href="faq.html">Plus de réponses dans la FAQ<svg aria-hidden="true" fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" viewbox="0 0 24 24" width="16"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+</div>
+</section>
+<section aria-label="Captures de l’application Dibs" class="wrap section screen-tour"><div class="head"><h2>À voir <span class="o">dans l’application</span></h2><p class="lede">Captures réelles de Dibs v1.7.7.</p></div><div class="screen-grid">
+<figure><img alt="Fiche d’une marque Dibs avec valeurs et détails de livraison" decoding="async" height="1688" loading="lazy" src="../assets/screens/03-brand-sheet.webp" width="780"/><figcaption>Choisissez la carte</figcaption></figure>
+<figure><img alt="Écran de planification Dibs avec valeur, cible et date" decoding="async" height="1688" loading="lazy" src="../assets/screens/04-plan.webp" width="780"/><figcaption>Définissez votre plan</figcaption></figure>
+<figure><img alt="Écran Épargne Dibs avec le prochain versement et le convertisseur au taux du moment" decoding="async" height="1688" loading="lazy" src="../assets/screens/06-savings.webp" width="780"/><figcaption>Suivez vos NIM</figcaption></figure>
+<figure><img alt="Écran Débloquer Dibs avec trois étapes et l’heure estimée de libération du réseau" decoding="async" height="1688" loading="lazy" src="../assets/screens/08-unlock.webp" width="780"/><figcaption>Voyez l’heure de libération</figcaption></figure>
+<figure><img alt="Écran Mon style de Dibs avec choix d’accents selon le rang" decoding="async" height="1688" loading="lazy" src="../assets/screens/11-my-look.webp" width="780"/><figcaption>Obtenez votre carte</figcaption></figure></div></section><section class="wrap section gifts-block" id="gifts"><div class="head"><h2>Les cadeaux, <span class="o">à votre façon</span></h2><p class="lede">Amis et cadeaux sont facultatifs. Vous gardez le contrôle de vos objectifs et de vos NIM.</p></div>
+<div class="gift-grid"><article><h3>Épargner pour le souhait d’un ami</h3><p>Consultez la liste partagée d’un ami, réservez une carte et épargnez pour lui dans votre propre portefeuille. Il n’est averti qu’au moment de l’envoi.</p></article>
+<article><h3>Offrir l’un de vos objectifs</h3><p>Choisissez un objectif pour lequel vous avez déjà épargné et offrez sa carte à un ami. Ajoutez un message personnel et une bannière.</p></article>
+<article><h3>Une révélation rien que pour lui</h3><p>Le cadeau s’ouvre en plein écran dans Dibs. Votre ami peut choisir « Dire merci ». La valeur de la carte lui est affichée.</p></article>
+<article><h3>Un code qu’il est seul à pouvoir ouvrir</h3><p>Envoyez le code dans Dibs avec chiffrement de bout en bout. Seul le téléphone de votre ami peut l’ouvrir; Dibs ne peut pas le lire. Vous voyez « Livré » et « Ouvert ». Les codes non lus sont supprimés après 30 jours.</p></article></div></section><section class="wrap next-step">
+<h2>Prêt à <span class="o">choisir quelque chose?</span></h2>
+<a class="more" href="catalog.html">Voir les {{BRAND_COUNT}} marques<svg aria-hidden="true" fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" viewbox="0 0 24 24" width="16"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+</section>
+</main>
+<section aria-labelledby="open-h" class="wrap foot-band" id="open">
+<div class="open">
+<div class="open-text">
+<h2 id="open-h">Réservez quelque chose</h2>
+<p class="open-sub">Dibs fonctionne dans Nimiq Pay. Trois étapes pour commencer.</p>
+<ol>
+<li>Ouvrez Nimiq Pay sur votre téléphone.</li>
+<li>Allez à Mini Apps &gt; Custom URL.</li>
+<li><span>Saisissez <span class="addr">dibs-sepia.vercel.app</span> ou balayez le code.</span></li>
+</ol>
+<div class="open-actions">
+<button class="btn btn-ink" data-link="https://dibs-sepia.vercel.app" id="copy" type="button">Copier le lien de l’application</button>
+<a class="plain" href="https://dibs-sepia.vercel.app" rel="noopener" target="_blank">Essayer la démo dans le navigateur</a>
+</div>
+<p aria-live="polite" class="copied" id="copied" role="status"></p>
+</div>
+<div class="qr">
+<img alt="Code QR de l’application Dibs, dibs-sepia.vercel.app" height="196" src="../assets/qr-app.svg" width="196"/>
+<span>Balayer dans Nimiq Pay</span>
+</div>
+</div>
+</section>
+<footer>
+<div class="wrap foot2">
+<div class="f-brand">
+<a class="f-logo" href="./"><img alt="Dibs, accueil" height="40" src="../assets/dibs-wordmark.svg" width="104"/></a>
+<p>Épargnez des NIM pour une carte-cadeau. Vos NIM restent dans votre propre portefeuille. Les récompenses de staking ne sont pas garanties.</p>
+<p class="f-status"><i aria-hidden="true"></i><span id="f-ver">En direct sur le réseau principal Nimiq</span></p>
+</div>
+<nav aria-label="Pied de page" class="f-cols">
+<div><b>Produit</b><a href="how.html">Comment ça marche</a><a href="catalog.html">Catalogue</a><a href="safety.html">Sécurité</a><a href="updates.html">Nouveautés</a><a href="litepaper.html">Litepaper</a></div>
+<div><b>Dibs</b><a href="about.html">À propos</a><a href="about.html#contact">Contact</a><a href="https://dibs-qi5y.onrender.com/stats" rel="noopener" target="_blank">Dibs en chiffres</a></div>
+<div><b>Aide</b><a href="faq.html">FAQ</a><a href="privacy.html">Confidentialité</a><a href="terms.html">Conditions</a><a href="mailto:calldibs.contact@gmail.com">Nous écrire</a></div>
+<div class="contact"><b>Suivez-nous</b><a href="https://x.com/calldibs_app" rel="noopener" target="_blank"><svg aria-hidden="true" fill="currentColor" height="17" viewbox="0 0 24 24" width="17"><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"></path></svg>@calldibs_app</a><a href="https://github.com/khadijachou/dibs" rel="noopener" target="_blank"><svg aria-hidden="true" fill="currentColor" height="17" viewbox="0 0 24 24" width="17"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"></path></svg>GitHub</a><a href="https://www.youtube.com/watch?v=y2SuazkWBkM" rel="noopener" target="_blank"><svg aria-hidden="true" fill="currentColor" height="17" viewbox="0 0 24 24" width="17"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"></path></svg>Vidéo de démonstration</a></div>
+</nav>
+</div>
+<div class="wrap f-bottom">
+<div aria-label="Langue" class="f-lang"><svg aria-hidden="true" fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="18"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9S9.5 5.6 12 3z"></path></svg><a href="../how.html" lang="en">English</a><a aria-current="true" href="../fr/how.html" lang="fr">Français</a><a href="../es/how.html" lang="es">Español</a></div>
+<p class="f-ind">Dibs est indépendant. Il n’est ni commandité par Bitrefill ou les marques présentées, ni leur partenaire ni approuvé par eux. Les noms et logos des marques appartiennent à leurs propriétaires.</p>
+<p class="f-copy">© 2026 Dibs. Créé pour le concours Nimiq Mini Apps, cycle III (Save). Code source ouvert sous licence MIT.</p>
+</div>
+</footer>
+<script>
+(function () {
+  var still = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var bar = document.querySelector('.progress i');
+  if (bar && !(window.CSS && CSS.supports && CSS.supports('animation-timeline: scroll()'))) {
+    var t = false;
+    window.addEventListener('scroll', function () { if (t) return; t = true; requestAnimationFrame(function () {
+      t = false; var h = document.documentElement.scrollHeight - window.innerHeight; bar.style.transform = 'scaleX(' + (h > 0 ? window.pageYOffset / h : 0) + ')'; }); }, { passive: true });
+  }
+  if (!still && window.matchMedia('(pointer: fine)').matches) {
+    [].slice.call(document.querySelectorAll('.btn-primary')).forEach(function (b) {
+      b.addEventListener('pointermove', function (e) { var r = b.getBoundingClientRect();
+        b.style.transform = 'translate(' + (((e.clientX - r.left) / r.width - .5) * 8).toFixed(1) + 'px,' + (((e.clientY - r.top) / r.height - .5) * 6).toFixed(1) + 'px)'; });
+      b.addEventListener('pointerleave', function () { b.style.transform = ''; });
+    });
+  }
+  /* language menu */
+  var lb = document.querySelector('.lang-btn'), lm = document.getElementById('lang-menu');
+  if (lb && lm) {
+    function lset(o) { lm.hidden = !o; lb.setAttribute('aria-expanded', o ? 'true' : 'false'); }
+    lb.addEventListener('click', function (e) { e.stopPropagation(); lset(lm.hidden); });
+    document.addEventListener('click', function (e) { if (!lm.hidden && !lm.contains(e.target)) lset(false); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { lset(false); } });
+  }
+  /* mobile menu */
+  var mb = document.querySelector('.menu-btn'), menu = document.getElementById('menu');
+  if (mb && menu) {
+    function mset(o) { menu.hidden = !o; mb.setAttribute('aria-expanded', o ? 'true' : 'false'); document.documentElement.classList.toggle('menu-open', o); }
+    mb.addEventListener('click', function () { mset(menu.hidden); });
+    menu.addEventListener('click', function (e) { if (e.target.closest('a')) mset(false); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !menu.hidden) { mset(false); mb.focus(); } });
+    window.addEventListener('resize', function () { if (window.innerWidth > 1020 && !menu.hidden) mset(false); });
+  }
+  /* copy app link */
+  var cb = document.getElementById('copy'), cs = document.getElementById('copied');
+  if (cb) cb.addEventListener('click', function () {
+    var l = cb.getAttribute('data-link');
+    var done = function () { cs.textContent = 'Lien copié. Collez-le dans Nimiq Pay > Mini Apps > Custom URL.'; };
+    if (navigator.clipboard) navigator.clipboard.writeText(l).then(done, function () { cs.textContent = l; }); else cs.textContent = l;
+  });
+  /* background zone: mint around [data-zone=mint] */
+  var mint = [].slice.call(document.querySelectorAll('[data-zone="mint"]'));
+  if ('IntersectionObserver' in window && mint.length) {
+    var seen = new Map();
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) { seen.set(e.target, e.isIntersecting); });
+      var on = false; seen.forEach(function (v) { if (v) on = true; });
+      document.documentElement.classList.toggle('zone-mint', on);
+    }, { rootMargin: '-45% 0px -45% 0px' });
+    mint.forEach(function (el) { io.observe(el); });
+  }
+  /* footer: live version */
+  var fv = document.getElementById('f-ver');
+  if (fv && window.fetch) fetch('/api/updates?lang=fr').then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+    if (d && d.live) fv.textContent = 'v' + d.live + ' en direct sur le réseau principal Nimiq';
+  }).catch(function () {});
+})();
+</script><script>
+(function () {
+  var pin = document.getElementById('how-pin');
+  var still = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (pin) {
+    var items = [].slice.call(pin.querySelectorAll('.how-step'));
+    var shots = [].slice.call(pin.querySelectorAll('.how-scr'));
+    var n = items.length, cur = -1, ticking = false;
+    document.documentElement.classList.add('how-js');
+    function set(i) {
+      if (i === cur) return; cur = i;
+      items.forEach(function (li, k) { li.classList.toggle('on', k === i); li.classList.toggle('done', k < i); li.querySelector('.how-btn').setAttribute('aria-current', k === i ? 'step' : 'false'); });
+      shots.forEach(function (im, k) { im.classList.toggle('on', k === i); im.classList.toggle('past', k < i); });
+    }
+    function update() {
+      ticking = false;
+      var r = pin.getBoundingClientRect(), span = pin.offsetHeight - window.innerHeight;
+      var p = span > 0 ? Math.min(1, Math.max(0, -r.top / span)) : 0;
+      pin.style.setProperty('--p', p.toFixed(4));
+      set(Math.min(n - 1, Math.floor(p * n * 0.999)));
+    }
+    function onScroll() { if (!ticking) { ticking = true; requestAnimationFrame(update); } }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll);
+    items.forEach(function (li, k) {
+      li.querySelector('.how-btn').addEventListener('click', function () {
+        var top = pin.getBoundingClientRect().top + window.pageYOffset;
+        var span = pin.offsetHeight - window.innerHeight;
+        window.scrollTo({ top: top + span * (k + 0.5) / n, behavior: still ? 'auto' : 'smooth' });
+      });
+    });
+    shots.forEach(function (im) { im.loading = 'eager'; });
+    update();
+  }
+})();
+</script>
+</body>
+</html>
+

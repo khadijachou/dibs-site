@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Litepaper | Dibs - Call dibs. Save up. It's yours.</title>
+<meta content="The Dibs Litepaper: a practical explanation of saving NIM toward real gift cards, self-custody, staking, checkout, privacy and the product roadmap." name="description"/>
+<meta content="#1B1920" name="theme-color"/>
+<link href="https://calldibs-ashen.vercel.app/litepaper.html" rel="canonical"/>
+<link href="assets/favicon.svg?v=2" rel="icon" type="image/svg+xml"/>
+<link href="assets/favicon-96.png?v=2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="assets/apple-touch-icon.png" rel="apple-touch-icon"/>
+<meta content="article" property="og:type"/>
+<meta content="Dibs Litepaper | Call dibs. Save up. It's yours." property="og:title"/>
+<meta content="Why we built Dibs, how saving with NIM works, and the design choices behind the product." property="og:description"/>
+<meta content="https://calldibs-ashen.vercel.app/litepaper.html" property="og:url"/>
+<meta content="https://calldibs-ashen.vercel.app/assets/og-dibs-v177.png" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@calldibs_app" name="twitter:site"/>
+<link as="font" crossorigin="" href="assets/fonts/poppins-latin-700-normal.woff2" rel="preload" type="font/woff2"/>
+<link href="styles.css" rel="stylesheet"/>
+<link href="litepaper.css" rel="stylesheet"/>
+<link href="https://calldibs-ashen.vercel.app/litepaper.html" hreflang="en" rel="alternate"/><link href="https://calldibs-ashen.vercel.app/fr/litepaper.html" hreflang="fr" rel="alternate"/><link href="https://calldibs-ashen.vercel.app/es/litepaper.html" hreflang="es" rel="alternate"/><link href="https://calldibs-ashen.vercel.app/litepaper.html" hreflang="x-default" rel="alternate"/></head>
+<body class="litepaper-page">
+<a class="skip" href="#main">Skip to content</a>
+<div aria-hidden="true" class="progress"><i id="reading-progress"></i></div>
+<div aria-hidden="true" class="bg"><i class="g-coral"></i><i class="g-mint"></i></div>
+<div aria-hidden="true" class="grain"></div>
+<div class="bar">
+<header class="wrap top">
+<a class="logo" href="./"><img alt="Dibs, home" height="34" src="assets/dibs-wordmark.svg" width="88"/></a>
+<nav aria-label="Main" class="nav"><a href="./">Home</a><a href="how.html">How it works</a><a href="catalog.html">Catalog</a><a href="safety.html">Safety</a><a href="updates.html">Updates</a><a aria-current="page" href="litepaper.html">Litepaper</a><a href="about.html">About</a></nav>
+<div class="top-end">
+<div class="lang"><button aria-controls="lang-menu" aria-expanded="false" aria-label="Language: English" class="lang-btn" type="button">EN</button>
+<ul class="lang-menu" hidden="" id="lang-menu"><li><a aria-current="true" href="litepaper.html" lang="en">English</a></li><li><a href="fr/litepaper.html" lang="fr">Français</a></li><li><a href="es/litepaper.html" lang="es">Español</a></li></ul>
+</div>
+<a class="btn btn-primary btn-sm top-cta" href="./#open">Open in Nimiq Pay</a>
+<button aria-controls="menu" aria-expanded="false" aria-label="Menu" class="menu-btn" type="button"><i></i><i></i></button>
+</div>
+</header>
+</div>
+<div class="menu" hidden="" id="menu"><nav aria-label="Main, mobile"><a href="./">Home</a><a href="how.html">How it works</a><a href="catalog.html">Catalog</a><a href="safety.html">Safety</a><a href="updates.html">Updates</a><a aria-current="page" href="litepaper.html">Litepaper</a><a href="about.html">About</a><a href="faq.html">FAQ</a></nav><a class="btn btn-primary" href="./#open">Open in Nimiq Pay</a></div>
+<main id="main">
+<section aria-labelledby="paper-title" class="paper-hero">
+<div class="wrap paper-hero-grid">
+<div class="paper-hero-copy">
+<p class="paper-eyebrow"><span aria-hidden="true" class="paper-beacon"></span>THE DIBS LITEPAPER <span aria-hidden="true">/</span> V1.0</p>
+<h1 id="paper-title">Make the thing<br/>you want <em>the goal.</em></h1>
+<p class="paper-deck">Saving is easier to believe in when it has a name, a picture and a finish line. Dibs turns things you want into goals you can actually reach, using NIM you control.</p>
+<div class="paper-actions"><a class="btn btn-primary" href="#introduction">Start reading <span aria-hidden="true">↓</span></a><a class="paper-link" href="https://github.com/khadijachou/dibs" rel="noopener noreferrer" target="_blank">Explore the source code <span aria-hidden="true">↗</span></a></div>
+<p class="paper-byline">Published 19 November 2026 <span aria-hidden="true">·</span> An educational product document, not a token offering.</p>
+</div>
+<div aria-label="A real Dibs savings goal displayed in the application" class="paper-hero-art">
+<div aria-hidden="true" class="paper-hero-loop"><i></i><i></i></div>
+<div class="paper-hero-screenshot"><img alt="Dibs v1.7.7 Home screen with two active goals, progress and the option to add NIM" decoding="async" fetchpriority="high" height="1688" sizes="(max-width:760px) 280px, 390px" src="assets/screens/01-home.webp" srcset="assets/screens/01-home-390.webp 390w, assets/screens/01-home.webp 780w" width="780"/></div>
+<span class="paper-art-label paper-art-label-top">CLAIM THE GOAL</span><span class="paper-art-label paper-art-label-bottom">KEEP THE CONTROL</span>
+</div>
+</div>
+</section>
+<div aria-label="Dibs principles" class="paper-ticker"><div class="wrap"><span>YOUR GOAL</span><i aria-hidden="true"></i><span>YOUR WALLET</span><i aria-hidden="true"></i><span>YOUR TIMELINE</span><i aria-hidden="true"></i><span>YOUR NIM</span></div></div>
+<div class="wrap paper-shell">
+<aside aria-label="Litepaper table of contents" class="paper-sidebar"><div class="paper-sticky"><p class="paper-toc-label">IN THIS LITEPAPER</p><nav aria-label="Jump to section" id="paper-toc">
+<a href="#introduction"><span>01</span> Our story</a><a href="#problem"><span>02</span> The problem</a><a href="#solution"><span>03</span> The solution</a><a href="#journey"><span>04</span> The journey</a><a href="#technology"><span>05</span> Under the hood</a><a href="#economics"><span>06</span> Costs &amp; rewards</a><a href="#safety"><span>07</span> Safety &amp; privacy</a><a href="#product"><span>08</span> What's real today</a><a href="#roadmap"><span>09</span> Where we go next</a><a href="#closing"><span>10</span> A final thought</a>
+</nav><div class="paper-toc-bottom"><span class="paper-toc-rule"></span><p>10 short chapters.<br/>One simple idea.</p><a href="./#open">Try Dibs <span aria-hidden="true">↗</span></a></div></div></aside>
+<article class="paper-article">
+<section aria-labelledby="introduction-title" class="paper-chapter" id="introduction"><div class="paper-chapter-head"><span>CHAPTER 01 <i></i> INTRODUCTION</span><span>01 / 10</span></div><h2 id="introduction-title">It starts with <em>"I want that."</em></h2>
+<p class="paper-lead">Dibs was built around a small change in perspective: instead of asking people to save for the sake of saving, start with something they already care about.</p>
+<p>Dibs began as a Nimiq Pay Mini App built around a small shift in motivation. The name comes from calling dibs: the moment you point to something and say, "I'm going for that." In Dibs, that decision becomes a goal, a plan and a visible path toward the finish line.</p>
+<p>We want cryptocurrency to feel useful in everyday life. Not an abstract balance to watch, but something you can put toward a gift card, a meal, a trip or an experience. Dibs does not issue a token, run a token sale or ask you to hand over your keys.</p>
+<blockquote class="paper-quote"><span aria-hidden="true" class="paper-quote-mark">“</span><p>Claim it. Save for it. Make it yours.</p><cite>The idea behind Dibs</cite></blockquote>
+</section>
+<section aria-labelledby="problem-title" class="paper-chapter" id="problem"><div class="paper-chapter-head"><span>CHAPTER 02 <i></i> THE PROBLEM</span><span>02 / 10</span></div><h2 id="problem-title">A balance isn't <em>a reason.</em></h2>
+<p class="paper-lead">Traditional saving tools often start with a number. Motivation usually starts with a thing.</p>
+<div class="paper-compare"><div><span>WITHOUT A GOAL</span><strong>"Save more."</strong><p>Money sits behind an abstract total. Progress is easy to postpone or forget.</p></div><div class="paper-compare-accent"><span>WITH DIBS</span><strong>"That's what I'm saving for."</strong><p>A real reward, a target and visible steps make every deposit mean something.</p></div></div>
+<p>Meanwhile, cryptocurrency can be difficult for newcomers to use: wallet concepts, staking, conversion rates and checkout flows create friction. Dibs is designed to bring those pieces together into a single, understandable journey, without hiding what is happening.</p>
+</section>
+<section aria-labelledby="solution-title" class="paper-chapter" id="solution"><div class="paper-chapter-head"><span>CHAPTER 03 <i></i> THE SOLUTION</span><span>03 / 10</span></div><h2 id="solution-title">Put the purchase <em>first.</em></h2>
+<p class="paper-lead">Dibs lets you choose a real product, set a savings goal in NIM, and work toward it at your own pace.</p>
+<div class="paper-pillars"><div><span class="paper-pillar-number">01</span><h3>Something real</h3><p>Pick a gift card from the catalog and decide what you're working toward.</p></div><div><span class="paper-pillar-number">02</span><h3>Progress you can see</h3><p>Follow the goal, add NIM whenever you choose and keep track of your momentum.</p></div><div><span class="paper-pillar-number">03</span><h3>Ownership throughout</h3><p>Staking is approved from your Nimiq Pay wallet, under your own address.</p></div></div>
+<p>Categories include electronics, gaming, streaming, travel, shopping and food. Dibs is deliberately not a gaming-only app: the goal is to make saving for everyday wants feel achievable, whatever the category.</p>
+</section>
+<section aria-labelledby="journey-title" class="paper-chapter" id="journey"><div class="paper-chapter-head"><span>CHAPTER 04 <i></i> THE JOURNEY</span><span>04 / 10</span></div><h2 id="journey-title">From "dibs" to <em>"it's yours."</em></h2>
+<p class="paper-lead">Four moves, one network-mandated wait. Nothing is deducted automatically from your wallet.</p>
+<div class="paper-app-steps">
+<div class="paper-app-step"><div class="paper-step-copy"><span class="paper-number">01 / PICK</span><h3>Call dibs.</h3><p>Choose a card, a value and a target date. Dibs converts the shop's payment price into a NIM savings target at the current rate.</p></div><figure><img alt="Dibs Electronics catalog screen" decoding="async" height="1688" loading="lazy" sizes="(max-width: 700px) 200px, 280px" src="assets/screens/02-catalog-electronics.webp" srcset="assets/screens/02-catalog-electronics-390.webp 390w, assets/screens/02-catalog-electronics.webp 780w" width="780"/><figcaption>Dibs interface / catalog</figcaption></figure></div>
+<div class="paper-app-step"><div class="paper-step-copy"><span class="paper-number">02 / SAVE</span><h3>Add NIM when you can.</h3><p>Approve deposits in Nimiq Pay. The NIM is delegated for staking from your own staker; Dibs does not take custody. You decide when and how much to add.</p></div><figure><img alt="Dibs Add NIM screen with deposit preview and pool" decoding="async" height="1688" loading="lazy" sizes="(max-width: 700px) 200px, 280px" src="assets/screens/05-add-nim.webp" srcset="assets/screens/05-add-nim-390.webp 390w, assets/screens/05-add-nim.webp 780w" width="780"/><figcaption>Dibs interface / add NIM</figcaption></figure></div>
+<div class="paper-app-step"><div class="paper-step-copy"><span class="paper-number">03 / UNLOCK</span><h3>Reach 100%. Then unlock.</h3><p>Your progress ring makes the goal visible. When ready, deactivate staking and wait for Nimiq's release period, typically 12 to 24 hours. Rewards are variable.</p></div><figure><img alt="Dibs completed goal at 100 percent" decoding="async" height="1688" loading="lazy" sizes="(max-width: 700px) 200px, 280px" src="assets/screens/07-goal-100.webp" srcset="assets/screens/07-goal-100-390.webp 390w, assets/screens/07-goal-100.webp 780w" width="780"/><figcaption>Dibs interface / ready</figcaption></figure></div>
+<div class="paper-app-step"><div class="paper-step-copy"><span class="paper-number">04 / OWN</span><h3>Pay for the card.</h3><p>After unstaking, Dibs prepares a Bitrefill order. You confirm payment through Nimiq Pay over Lightning; the gift card code is shown in the app when the order completes.</p></div><figure><img alt="Dibs paid gift card screen with code hidden" decoding="async" height="1688" loading="lazy" sizes="(max-width: 700px) 200px, 280px" src="assets/screens/09-done-code.webp" srcset="assets/screens/09-done-code-390.webp 390w, assets/screens/09-done-code.webp 780w" width="780"/><figcaption>Dibs interface / gift card</figcaption></figure></div>
+</div>
+<p class="paper-small">These are captured app screens. Example balances, dates and card values in the screenshots are not public totals or transaction evidence.</p>
+</section>
+<section aria-labelledby="technology-title" class="paper-chapter" id="technology"><div class="paper-chapter-head"><span>CHAPTER 05 <i></i> TECHNOLOGY</span><span>05 / 10</span></div><h2 id="technology-title">Under the hood, <em>without the mystery.</em></h2>
+<p class="paper-lead">Dibs is an application layer above established infrastructure. It does not require a Dibs token or a new blockchain.</p>
+<div aria-label="Dibs Mini App interfaces with Nimiq Pay to approve wallet and staking transactions, while the Dibs service obtains gift card data and orders from Bitrefill. Payments are confirmed in Nimiq Pay using Lightning." class="paper-architecture" role="img"><div class="paper-arch-main"><span>YOU</span><strong>Nimiq Pay</strong><small>Wallet, approvals, Lightning payments</small></div><span aria-hidden="true" class="paper-arch-connector">↑ user confirms each transaction ↓</span><div class="paper-arch-app"><span>APPLICATION</span><strong>Dibs Mini App</strong><small>Goals, progress, savings plan, purchase flow</small></div><div class="paper-arch-split"><span> <b>ON-CHAIN</b><strong>Nimiq staking</strong><small>Staker under the user's address; validator rewards</small></span><span><b>COMMERCE</b><strong>Bitrefill</strong><small>Live catalog, invoice and gift card delivery</small></span></div><p class="paper-arch-note">Dibs' server handles catalog information and order coordination; it does not hold the user's NIM or private keys.</p></div>
+<h3 class="paper-subheading">The pieces and their jobs</h3>
+<dl class="paper-definitions"><div><dt>NIM</dt><dd>The native asset used for saving and purchases in the Dibs flow. Its market value can change.</dd></div><div><dt>Nimiq Pay</dt><dd>The user-controlled wallet experience that presents transaction approvals and supports Lightning payments.</dd></div><div><dt>Nimiq staking</dt><dd>The network process that lets NIM participate in proof-of-stake. Choose among five checked staking pools on the first deposit, with Garuda Pool selected by default. Rewards are not guaranteed.</dd></div><div><dt>Bitrefill</dt><dd>The independent shop providing gift-card inventory, checkout invoices and redemption codes.</dd></div></dl>
+<p>Developers can inspect the public <a href="https://github.com/khadijachou/dibs" rel="noopener noreferrer" target="_blank">Dibs application repository</a> and its <a href="https://github.com/khadijachou/dibs/blob/main/SECURITY.md" rel="noopener noreferrer" target="_blank">security notes</a>. The client and small service use different responsibilities: wallet approvals stay on the client side, while provider credentials stay on the server.</p>
+</section>
+<section aria-labelledby="economics-title" class="paper-chapter" id="economics"><div class="paper-chapter-head"><span>CHAPTER 06 <i></i> ECONOMICS</span><span>06 / 10</span></div><h2 id="economics-title">A clear target. <em>Honest trade-offs.</em></h2>
+<p class="paper-lead">Dibs does not charge a subscription or an additional Dibs fee for a gift-card purchase. That does not mean every part of the experience is free.</p>
+<div class="paper-money"><div><span>THE PRODUCT PRICE</span><strong>Set by the shop</strong><p>Bitrefill's payment price may be above the gift card's face value and can change.</p></div><div><span>THE SAVINGS TARGET</span><strong>Shown in NIM</strong><p>Computed using a live rate and a cushion for price movement. The final amount is checked at checkout.</p></div><div><span>STAKING REWARDS</span><strong>Variable, not promised</strong><p>Rewards depend on Nimiq staking and the validator. Pool fees affect the net amount received.</p></div></div>
+<p>Because NIM has a market price, a target that looks sufficient today might not cover the same purchase tomorrow. Rewards do not remove price risk. If you're short at checkout, you may need to add more NIM; any extra NIM remains yours.</p>
+<div class="paper-warning"><span aria-hidden="true">i</span><p><strong>Not a guaranteed savings return.</strong> Dibs is not a bank account or an investment product. Cryptocurrency prices can fall, staking rewards can vary, network fees may apply, and access to staked funds is not instant.</p></div>
+</section>
+<section aria-labelledby="safety-title" class="paper-chapter" id="safety"><div class="paper-chapter-head"><span>CHAPTER 07 <i></i> SAFETY &amp; PRIVACY</span><span>07 / 10</span></div><h2 id="safety-title">Your goal. <em>Your keys.</em></h2>
+<p class="paper-lead">Our starting design choice is simple: Dibs should not need custody of your funds to help you save.</p>
+<div class="paper-trust"><div><strong>Dibs can</strong><ul><li>Display your goals and savings progress</li><li>Prepare actions for your approval in Nimiq Pay</li><li>Request catalog prices and coordinate a gift-card order</li></ul></div><div><strong>Dibs cannot</strong><ul><li>Spend NIM without your wallet approval</li><li>Access or store your wallet's private key</li><li>Guarantee rewards, exchange rates or product stock</li></ul></div></div>
+<p>Goal details are stored on the device in the current product. Anonymous usage statistics are optional: users choose whether to share them and can turn sharing off or delete shared records. The service verifies reported deposit transactions against the blockchain before counting them in public totals. A website host may still process routine technical request data.</p>
+<p>Self-custody is not risk-free. Users must protect their wallet credentials and carefully check amounts and destinations in approval dialogs. There can also be validator, network, software, provider, stock and exchange-rate risks. Dibs does not control Bitrefill's fulfillment, its terms or the supported gift-card brands.</p>
+<p>Read the full <a href="safety.html">safety explanation</a>, <a href="privacy.html">privacy notice</a> and <a href="terms.html">terms</a>. Security concerns can be reported through a <a href="https://github.com/khadijachou/dibs/security/advisories/new" rel="noopener noreferrer" target="_blank">private GitHub security advisory</a>.</p>
+</section>
+<section aria-labelledby="product-title" class="paper-chapter" id="product"><div class="paper-chapter-head"><span>CHAPTER 08 <i></i> REAL TODAY</span><span>08 / 10</span></div><h2 id="product-title">Not a concept deck.<br/><em class="paper-single-line">A working app.</em></h2>
+<p class="paper-lead">Dibs v{{LIVE_VERSION}} is a working Nimiq Pay Mini App. The goal-to-gift-card flow has been tested using real mainnet transactions.</p>
+<div class="paper-milestones"><div><span>OCT 2026</span><strong>First version on testnet</strong><p>The original savings idea becomes an application people can test.</p></div><div><span>4 NOV 2026</span><strong>First gift card purchased</strong><p>A Steam gift card purchased with NIM through Nimiq Pay over Lightning.</p></div><div><span>6-7 NOV 2026</span><strong>Full unstaking measured</strong><p>A real mainnet unlock took 12 hours and 4 minutes.</p></div><div><span>10 NOV 2026</span><strong>Mainnet product launch</strong><p>Complete claim-to-gift-card flow available with real NIM.</p></div></div>
+<div class="paper-proof"><span>OPEN FOR INSPECTION</span><p>We publish the app's source code, a transparent release history and examples of transactions. Don't take an unverifiable promise when you can check the work.</p><div><a href="updates.html">Read the release history <span aria-hidden="true">↗</span></a><a href="safety.html">See transaction examples <span aria-hidden="true">↗</span></a></div></div>
+</section>
+<section aria-labelledby="roadmap-title" class="paper-chapter" id="roadmap"><div class="paper-chapter-head"><span>CHAPTER 09 <i></i> WHAT'S NEXT</span><span>09 / 10</span></div><h2 id="roadmap-title">The product will grow.<br/><em class="paper-single-line">The principle won't change.</em></h2><p>Now available: optional Friends, wishlists, gift messages and banners, private in-app gift codes, and opt-in leaderboards. Sharing controls default to off. Codes sent inside Dibs are end-to-end encrypted, and the server cannot read them.</p>
+<p class="paper-lead">The two planned additions below are directional. Plans can change; there are no promised dates or returns.</p>
+<div class="paper-roadmap"><div><span class="paper-stage paper-stage-now">AVAILABLE</span><h3>Save for a real gift card</h3><p>Create goals, approve NIM staking deposits, choose a pool, see progress, unlock and complete purchases. Friends, wishlists, private gifts and leaderboards are optional.</p></div><div><span class="paper-stage paper-stage-next">NEXT</span><h3>Together, 2,000 goals reached</h3><p>A community goal, counting goals reached without names or rankings.</p></div><div><span class="paper-stage paper-stage-later">LATER</span><h3>Dibs 2.0</h3><p>Planned after the competition. Plans can change.</p></div></div>
+<p>Availability and release order may change as we test, learn and respond to the community. For the most current version, consult <a href="updates.html">What's new</a>, rather than treating a publication-date roadmap as live product documentation.</p>
+</section>
+<section aria-labelledby="closing-title" class="paper-chapter paper-ending" id="closing"><div class="paper-chapter-head"><span>CHAPTER 10 <i></i> THE VISION</span><span>10 / 10</span></div><h2 id="closing-title">One small goal can change <em>how saving feels.</em></h2>
+<p class="paper-lead">We believe saving should be less about watching a number and more about moving toward something meaningful to you.</p>
+<p>Dibs is still young. We will keep improving it in public, document what works, explain what doesn't, and design around the person using it. The promise is not that every goal becomes effortless. It's that every goal can become clearer.</p>
+<div class="paper-last"><span>CALL DIBS.</span><span>SAVE UP.</span><span>IT'S YOURS.</span></div>
+<div class="paper-last-actions"><a class="btn btn-primary" href="./#open">Open Dibs in Nimiq Pay <span aria-hidden="true">→</span></a><a class="paper-link" href="https://x.com/calldibs_app" rel="noopener noreferrer" target="_blank">Follow the build <span aria-hidden="true">↗</span></a></div>
+<p class="paper-small">Dibs is independent and is not sponsored by, partnered with or endorsed by Bitrefill or the brands displayed in the catalog. Brand names and logos belong to their owners. This document is informational and not financial advice, an investment solicitation or a promise of returns.</p>
+</section>
+<div class="paper-references"><h2>Sources &amp; further reading</h2><p>Readers can check the product, technical design and underlying infrastructure at the source.</p><ul><li><a href="https://github.com/khadijachou/dibs" rel="noopener noreferrer" target="_blank">Dibs open-source code</a></li><li><a href="https://github.com/khadijachou/dibs/blob/main/SECURITY.md" rel="noopener noreferrer" target="_blank">Dibs security notes</a></li><li><a href="https://www.nimiq.com/litepaper/" rel="noopener noreferrer" target="_blank">Nimiq Litepaper</a></li><li><a href="https://www.bitrefill.com" rel="noopener noreferrer" target="_blank">Bitrefill</a></li></ul><p class="paper-version">Litepaper version 1.0 | Published 19 November 2026 | Product details may change. Last reviewed 22 November 2026.</p></div>
+</article>
+</div>
+</main>
+<section aria-labelledby="open-h" class="wrap foot-band" id="open">
+<div class="open">
+<div class="open-text">
+<h2 id="open-h">Call dibs on something</h2>
+<p class="open-sub">Dibs runs inside Nimiq Pay. Three steps and you are in.</p>
+<ol>
+<li>Open Nimiq Pay on your phone.</li>
+<li>Go to Mini Apps &gt; Custom URL.</li>
+<li><span>Enter <span class="addr">dibs-sepia.vercel.app</span> or scan the code.</span></li>
+</ol>
+<div class="open-actions">
+<button class="btn btn-ink" data-link="https://dibs-sepia.vercel.app" id="copy" type="button">Copy the app link</button>
+<a class="plain" href="https://dibs-sepia.vercel.app" rel="noopener" target="_blank">Try the demo in your browser</a>
+</div>
+<p aria-live="polite" class="copied" id="copied" role="status"></p>
+</div>
+<div class="qr">
+<img alt="QR code of the Dibs app address, dibs-sepia.vercel.app" height="196" src="assets/qr-app.svg" width="196"/>
+<span>Scan in Nimiq Pay</span>
+</div>
+</div>
+</section><footer><div class="wrap foot2"><div class="f-brand"><a class="f-logo" href="./"><img alt="Dibs, home" height="40" src="assets/dibs-wordmark.svg" width="104"/></a><p>Save NIM toward a gift card. Your NIM stays in your own wallet. Staking rewards are not guaranteed.</p><p class="f-status"><i aria-hidden="true"></i><span id="f-ver">Live on Nimiq mainnet</span></p></div><nav aria-label="Footer" class="f-cols"><div><b>Product</b><a href="how.html">How it works</a><a href="catalog.html">Catalog</a><a href="safety.html">Safety</a><a href="updates.html">Updates</a><a aria-current="page" href="litepaper.html">Litepaper</a></div><div><b>Dibs</b><a href="about.html">About</a><a href="about.html#contact">Contact</a><a href="https://dibs-qi5y.onrender.com/stats" rel="noopener noreferrer" target="_blank">Dibs in numbers</a></div><div><b>Help</b><a href="faq.html">FAQ</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="mailto:calldibs.contact@gmail.com">Email us</a></div><div class="contact"><b>Follow</b><a href="https://x.com/calldibs_app" rel="noopener noreferrer" target="_blank">@calldibs_app</a><a href="https://github.com/khadijachou/dibs" rel="noopener noreferrer" target="_blank">GitHub</a><a href="https://www.youtube.com/watch?v=y2SuazkWBkM" rel="noopener noreferrer" target="_blank">Demo video</a></div></nav></div><div class="wrap f-bottom"><div aria-label="Language" class="f-lang"><a aria-current="true" href="litepaper.html" lang="en">English</a><a href="fr/litepaper.html" lang="fr">Français</a><a href="es/litepaper.html" lang="es">Español</a></div><p class="f-ind">Dibs is independent. It is not sponsored by, partnered with or endorsed by Bitrefill or any brand shown on this site. Brand names and logos belong to their owners.</p><p class="f-copy">© 2026 Dibs. Built for the Nimiq Mini Apps Competition, Cycle III (Save). Open source under the MIT licence.</p></div></footer>
+<script>
+(function(){
+  var menuButton=document.querySelector('.menu-btn'),menu=document.getElementById('menu');
+  function setMenu(open){menu.hidden=!open;menuButton.setAttribute('aria-expanded',String(open));document.documentElement.classList.toggle('menu-open',open);}
+  if(menuButton){menuButton.addEventListener('click',function(){setMenu(menu.hidden);});menu.addEventListener('click',function(e){if(e.target.closest('a'))setMenu(false);});window.addEventListener('resize',function(){if(window.innerWidth>1020&& !menu.hidden)setMenu(false);});}
+  var langButton=document.querySelector('.lang-btn'),langMenu=document.getElementById('lang-menu');
+  if(langButton&&langMenu){langButton.addEventListener('click',function(e){e.stopPropagation();langMenu.hidden=!langMenu.hidden;langButton.setAttribute('aria-expanded',String(!langMenu.hidden));});document.addEventListener('click',function(e){if(!langMenu.contains(e.target)&&e.target!==langButton){langMenu.hidden=true;langButton.setAttribute('aria-expanded','false');}});}
+  document.addEventListener('keydown',function(e){if(e.key==='Escape'){if(menuButton&&!menu.hidden){setMenu(false);menuButton.focus();}if(langMenu){langMenu.hidden=true;langButton.setAttribute('aria-expanded','false');}}});
+  var copy=document.getElementById('copy'),message=document.getElementById('copied');if(copy)copy.addEventListener('click',function(){var link=copy.dataset.link;function done(){message.textContent='Link copied. Paste it in Nimiq Pay > Mini Apps > Custom URL.';}if(navigator.clipboard)navigator.clipboard.writeText(link).then(done,function(){message.textContent=link;});else message.textContent=link;});
+  var bar=document.getElementById('reading-progress');var scrollQueued=false;
+  function updateProgress(){scrollQueued=false;var max=document.documentElement.scrollHeight-innerHeight;bar.style.transform='scaleX('+(max>0?Math.max(0,Math.min(1,scrollY/max)):0)+')';}
+  addEventListener('scroll',function(){if(!scrollQueued){scrollQueued=true;requestAnimationFrame(updateProgress);}},{passive:true});updateProgress();
+  var links=[].slice.call(document.querySelectorAll('#paper-toc a'));var sections=[].slice.call(document.querySelectorAll('.paper-chapter'));
+  if('IntersectionObserver' in window){var active='';var observer=new IntersectionObserver(function(entries){entries.forEach(function(entry){if(entry.isIntersecting)active=entry.target.id;});if(active)links.forEach(function(a){var yes=a.hash==='#'+active;a.classList.toggle('paper-active',yes);if(yes)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current');});},{rootMargin:'-17% 0px -68% 0px'});sections.forEach(function(section){observer.observe(section);});}
+  var ver=document.getElementById('f-ver');if(ver&&window.fetch)fetch('/api/updates').then(function(r){return r.ok?r.json():null;}).then(function(d){if(d&&d.live)ver.textContent='v'+d.live+' live on Nimiq mainnet';}).catch(function(){});
+})();
+</script>
+</body>
+</html>
+
