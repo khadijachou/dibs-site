@@ -1,0 +1,25 @@
+{
+  "name": "dibs-app",
+  "private": true,
+  "version": "1.7.7",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "test": "node --test src/lib/*.test.js"
+  },
+  "dependencies": {
+    "@nimiq/identicons": "1.6.2",
+    "@nimiq/mini-app-sdk": "0.2.4",
+    "@noble/curves": "2.4.0",
+    "@noble/hashes": "2.4.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "simple-icons": "16.36.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.1.2",
+    "vite": "8.3.5"
+  }
+}

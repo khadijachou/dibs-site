@@ -1,0 +1,727 @@
+002::Dibs: ahorra NIM para conseguir lo que quieres
+003::Ir al contenido
+004::Inicio
+005::Cómo funciona
+006::Catálogo
+007::Seguridad
+008::Novedades
+009::Litepaper
+010::Acerca de
+011::ES
+012::English
+014::Próximamente
+016::Abrir en Nimiq Pay
+018::Una Mini App de ahorro para Nimiq Pay
+019::Resérvalo.
+020::Ahorra.
+021::Es tuyo.
+022::Ahorra NIM para una tarjeta de regalo mientras genera recompensas mediante staking. Tus NIM siguen en tu billetera. Las recompensas no están garantizadas.
+023::Probar la demo
+024::En tu navegador, sin billetera
+025::Tus NIM siguen en tu propia billetera.
+026::Sin cuenta, correo ni tarjeta bancaria.
+027::Pagas en NIM, dentro de Nimiq Pay.
+028::Elegir
+029::Añadir
+030::Listo
+031::Activo en la red principal de Nimiq
+032::Desde noviembre de 2026
+033::Dibs no cobra comisiones
+034::Pagas el precio de la tienda
+035::Código abierto
+036::Licencia MIT, código en GitHub
+037::Inglés, francés y español
+038::La aplicación en tres idiomas
+039::Cuatro pasos,
+040::una meta
+041::Elige una tarjeta, añade NIM desde tu billetera, deja que genere recompensas mientras ahorras y, después, desbloquéalo para conseguirla. Las recompensas de staking no están garantizadas.
+043::Resérvalo
+044::Elige una tarjeta de regalo, su valor y una fecha. Convierte lo que quieres en tu meta.
+046::Ahorra
+047::Aprueba cada depósito en Nimiq Pay. En el primero, elige entre cinco pools de staking verificados. Consulta cómo tu depósito te acerca a la meta.
+049::Genera recompensas mientras esperas
+050::Tu pool distribuye recompensas aproximadamente cada 12 horas, descontando su comisión. Las recompensas no están garantizadas. En Ahorros puedes ver cuándo llega la próxima.
+052::Es tuyo
+053::Al llegar al 100 %, inicia el desbloqueo y espera de 12 a 24 horas a que la red libere tus NIM. Después, paga con un toque mediante Lightning. El código aparece en Dibs.
+054::Ver la demo
+055::Todo el recorrido en 4 minutos: una meta, un depósito, el desbloqueo y una tarjeta.
+056::Se abre en YouTube
+057::Cómo funciona, paso a paso
+058::Nuestro
+059::catálogo
+060::{{BRAND_COUNT}} marcas en {{CATEGORY_COUNT}} categorías. Cada tarjeta tiene una versión adecuada para tu cuenta. Algunas solo funcionan en un lugar o se usan únicamente en tiendas físicas.
+061::Nuevo: Electrónica. {{ELECTRONICS_COUNT}} marcas para tus metas.
+062::Pausar
+063::Estrena un aspecto nuevo.
+065::Tu próxima aventura comienza aquí.
+067::Esa mejora que llevas tiempo mirando.
+069::Un poco de magia para la noche de cine.
+071::Tu viaje de vuelta, resuelto.
+073::Apoya a tu streamer favorito.
+075::Ese juego que tienes en tu lista de deseos.
+077::La noche de hamburguesas, solucionada.
+079::Tus pausas para café, cubiertas.
+081::Un lugar nuevo para despertar.
+083::Elegir una categoría
+084::Ver las {{BRAND_COUNT}} marcas
+085::Mejor
+086::con amigos
+087::Amigos es opcional. Solo compartes lo que eliges.
+088::Un deseo se comparte mejor
+089::Crea una lista de deseos que tus amigos puedan ver o reserva un deseo de alguien y ahorra para darle una sorpresa.
+090::Los regalos se abren en Dibs
+091::Añade un mensaje y un fondo. Envía el código de la tarjeta de regalo cifrado para el teléfono de tu amigo.
+092::Clasificaciones opcionales
+093::Compara tu progreso con tus amigos o con todos si decides participar. Los depósitos contabilizados se verifican en la cadena.
+094::Tu perfil, a tu gusto
+095::Elige avatar, insignias y estilo. Con «Ver como» puedes comprobar qué ven tus amigos.
+096::Descubrir los regalos
+097::Todo es opcional.
+098::Es real.
+099::En la red principal.
+100::Metas alcanzadas y tarjetas compradas con NIM reales. Los datos provienen de usuarios que aceptaron compartir estadísticas anónimas.
+101::En vivo, actualización cada hora
+102::Depositados mediante Dibs
+103::NIM depositados en metas, según transacciones verificadas en la cadena.
+104::de los cuales
+105::NIM actualmente en staking
+106::de
+107::que compartieron estadísticas
+108::hicieron un depósito
+109::ahorradores de
+110::personas que compartieron estadísticas
+111::metas creadas
+112::activas ahora,
+113::alcanzadas al 100 %
+114::tarjetas compradas de principio a fin
+115::Tarjetas compradas tras completar una meta en Dibs.
+116::Datos del {{STATS_DATE}}.
+117::Solo se incluyen personas que optaron por compartir estadísticas anónimas.
+118::Verificar en la cadena
+119::Los enlaces abren nimiq.watch, un explorador de la cadena Nimiq. Se añaden más compras cuando quienes las realizan aceptan compartirlas.
+120::Totales exactos:
+143::Verificar en la cadena
+144::Los enlaces abren nimiq.watch, un explorador de la cadena Nimiq. Se añaden más compras cuando quienes las realizan aceptan compartirlas.
+145::Totales exactos:
+146::Dibs en cifras
+147::En la cadena Nimiq
+148::Fecha
+149::Qué ocurrió
+150::Transacción
+152::Depósito
+153::Un depósito para una meta: 98 189 NIM en staking
+155::Ver transacción
+157::Desbloqueo
+158::Staking desactivado: comienza el desbloqueo medido
+161::Compra
+162::La primera tarjeta, pagada con NIM
+164::Siempre
+165::mejorando
+166::Dibs mejora casi todos los días. Estos son los lanzamientos principales y lo que viene después.
+167::Versión actual: v{{LIVE_VERSION}} · {{RELEASE_COUNT}} lanzamientos desde el {{LAUNCH_DATE}}
+168::Publicado
+169::Próximamente
+170::Juntos, 2.000 metas alcanzadas
+171::Una meta comunitaria sin nombres ni clasificaciones.
+172::Más adelante
+174::Previsto para después del concurso. Compartiremos más detalles.
+175::Los planes pueden cambiar. Todos los lanzamientos están en la aplicación, en Más > Novedades.
+176::Todos los lanzamientos y próximos planes
+177::Los planes pueden cambiar.
+178::Preguntas
+179::¿Tienes otra pregunta? Escríbenos a
+181::¿Dónde están mis NIM mientras ahorro?
+182::En tu billetera de Nimiq Pay, en staking bajo tu dirección. Dibs solo registra a qué meta pertenecen.
+183::¿Por qué debo esperar antes de recibir mi tarjeta?
+184::Los NIM en staking tardan de 12 a 24 horas en desbloquearse. Es una regla de la red Nimiq, no de Dibs. Una vez liberados, la compra se hace con un toque.
+185::¿De dónde salen las tarjetas de regalo?
+186::Se compran en Bitrefill al pagar y se abonan mediante Lightning dentro de Nimiq Pay. Dibs es independiente y no está afiliado a Bitrefill ni a las marcas del catálogo.
+187::¿Dibs cobra comisión?
+188::No. Pagas el precio de la tienda al finalizar la compra. El pool de staking descuenta su comisión indicada de las recompensas, que no están garantizadas.
+189::Mientras ahorras, el pool de staking retiene una parte de las recompensas que paga. Es una comisión del pool, no de Dibs.
+190::¿Y si cambio de opinión?
+191::Cambia de tarjeta, destina tus NIM a otra meta o devuélvelos a tu billetera. Son tus NIM.
+192::Las {{FAQ_COUNT}} preguntas
+193::EL LITEPAPER DE DIBS
+194::La idea detrás de
+195::Dibs.
+196::Nuestra visión, cómo se ahorra con NIM, la tecnología y sus limitaciones. Abierto para todos.
+197::Leer el Litepaper
+198::Reserva algo que quieras
+199::Dibs funciona dentro de Nimiq Pay. Tres pasos para empezar.
+200::Abre Nimiq Pay en tu teléfono.
+201::Ve a Mini Apps > Custom URL.
+202::Introduce
+204::o escanea el código.
+205::Copiar enlace de la aplicación
+206::Probar la demo en tu navegador
+207::Escanear en Nimiq Pay
+208::Ahorra NIM para una tarjeta de regalo. Tus NIM permanecen en tu propia billetera. Las recompensas de staking no están garantizadas.
+209::Producto
+211::Contacto
+212::Ayuda
+213::Privacidad
+214::Condiciones
+215::Escríbenos
+216::Síguenos
+219::Video de demostración
+220::Dibs es independiente. No está patrocinado, asociado ni respaldado por Bitrefill ni por ninguna marca mostrada en este sitio. Los nombres y logotipos pertenecen a sus propietarios.
+221::© 2026 Dibs. Creado para el concurso Nimiq Mini Apps, ciclo III (Save). Código abierto bajo licencia MIT.
+092::Clasificaciones si participas
+093::Compara tu progreso con tus amigos o en la clasificación global, solo si decides participar. Siete controles independientes permiten decidir qué se muestra en tu perfil.
+094::Cómo funcionan los regalos
+095::Perfil y lista de deseos, sin compartir nada hasta que lo decidas.
+096::Tus NIM
+097::nunca salen de tus manos
+098::Dibs añade metas a tu propia billetera. Nunca custodia tus NIM ni tiene tus claves. Apruebas cada paso en Nimiq Pay.
+099::En staking desde tu billetera
+100::Cada depósito entra en staking desde tu dirección. Puedes solicitar la devolución de tus NIM, con el periodo de liberación de la red de 12 a 24 horas. Las recompensas no están garantizadas.
+101::No necesitas registrarte
+102::Sin cuenta, correo ni contraseña. Tus metas permanecen en tu teléfono.
+103::Estadísticas solo con tu permiso
+104::Solo se comparten cifras de uso anónimas si aceptas, nunca nombres, códigos ni direcciones.
+105::Más sobre seguridad
+106::Funciona
+107::en la red principal
+108::Los totales públicos provienen de usuarios que aceptaron compartir estadísticas anónimas. Consulta las cifras exactas y los ejemplos verificados en la cadena.
+109::Depositados mediante Dibs
+110::Datos del {{STATS_DATE}}
+113::Todos los depósitos se verifican en la cadena Nimiq desde el inicio. Dibs nunca los custodia.
+115::min
+116::Espera de desbloqueo medida
+117::Staking desactivado
+118::6 nov. 2026, 12:44 UTC
+119::Staking liberado
+120::7 nov. 2026, 00:48 UTC
+121::La red permite de 12 a 24 horas. Nuestra prueba duró cerca del mínimo.
+123::que compartieron estadísticas hicieron un depósito
+125::ahorradores de
+127::personas que compartieron estadísticas
+129::marcas en el catálogo
+130::{{CATEGORY_COUNT}} categorías, incluida Electrónica.
+131::Ver catálogo
+133::metas creadas
+135::activas ahora,
+137::alcanzadas al 100 %
+139::tarjetas compradas de principio a fin
+140::Tarjetas compradas tras completar una meta en Dibs.
+141::Datos del {{STATS_DATE}}.
+142::Solo se incluyen personas que optaron por compartir estadísticas anónimas.
+222::Seguridad · Dibs
+223::siguen siendo tuyos
+224::Tu billetera
+226::NQ•• •••• •••• •••• ••••
+227::Saldo
+228::Disponibles cuando quieras
+229::En staking para tu meta
+231::Siempre en tu propia dirección
+232::Sigue la meta. Nunca custodia los NIM.
+233::Aprobar
+234::Cada paso
+235::Lo confirmas en Nimiq Pay.
+236::Dibs puede
+237::Mostrar tu meta y tu progreso
+238::Preparar cada paso para que lo apruebes en Nimiq Pay
+239::Consultar el precio y la disponibilidad antes de comprar
+240::Mostrar el código de la tarjeta de regalo en tu teléfono, dentro de la app
+241::Dibs no puede
+242::Mover tus NIM sin tu autorización
+243::Custodiar tus NIM ni las claves de tu billetera
+244::Pagar dos veces por la misma tarjeta
+245::Leer los códigos de regalo cifrados de extremo a extremo transmitidos por el servidor de Amigos
+246::Cómo lo
+247::conseguimos
+248::Consultar el código en GitHub
+249::En staking desde tu propia dirección
+250::Tus NIM están en staking en tu dirección, en el pool que elijas entre cinco opciones verificadas. Garuda Pool es la opción predeterminada. Las recompensas no están garantizadas. El desbloqueo tarda de 12 a 24 horas.
+251::Sin cuenta, correo ni contraseña. Tus metas y tu nombre permanecen en tu teléfono.
+252::Solo se comparten cifras anónimas de uso si pulsas Compartir estadísticas, nunca con nombre, código ni dirección. Puedes desactivar la función o borrar lo compartido.
+253::No se reintentan operaciones con dinero por ti
+254::Cada aviso explica qué pasó, si tus NIM se movieron y qué puedes hacer. Cancelar en Nimiq Pay es una opción normal.
+255::Toda la aplicación es pública bajo licencia MIT. Cualquiera puede revisar qué hace Dibs en cada paso.
+256::Amigos es
+257::tu decisión
+258::Amigos está desactivado hasta que lo actives. Tus metas de ahorro siguen en tu teléfono y controlas qué pueden ver tus amigos.
+259::Quién ve qué
+260::Siete controles independientes te dejan no compartir nada, mostrar datos a tus amigos o a todos. Los detalles compartidos permanecen en el servidor de Amigos solo mientras elijas compartirlos.
+261::Códigos de regalo privados
+262::Los códigos enviados en Dibs quedan cifrados en tu teléfono para el de tu amigo. El servidor no puede leerlos. Se borran al abrirlos o a los 30 días.
+263::Clasificaciones opcionales
+264::Participa en la clasificación de amigos o global solo si quieres. Los depósitos se verifican en la cadena sin guardar el identificador de la transacción ni la dirección de tu billetera.
+265::Tus datos, bajo tu control
+266::El servidor de Amigos conserva el nombre visible y la información necesaria para los regalos opcionales, incluidos el mensaje, el fondo y el valor de la tarjeta, visibles solo para quien la recibe. Borra tus datos de Amigos en Perfil > Amigos > Tú.
+267::Tu pool de staking y la próxima recompensa, mostrados en Ahorros. Las recompensas no están garantizadas.
+268::Tarjetas de regalo de Bitrefill
+269::Todas las marcas y tarjetas de Dibs proceden de Bitrefill, una tienda de tarjetas de regalo que acepta Lightning. Al completar la meta, Dibs compra la tarjeta al precio de Bitrefill, pagado en NIM mediante Lightning dentro de Nimiq Pay.
+270::Dibs es independiente. No está patrocinado, asociado ni respaldado por Bitrefill ni por ninguna marca mostrada aquí.
+494::Preguntas frecuentes · Dibs
+495::Preguntas
+496::resueltas
+497::Respuestas breves sobre ahorrar, esperar y comprar con Dibs.
+498::Buscar preguntas
+499::Ahorro
+500::Espera y compras
+501::Cambios y tus datos
+502::Amigos y regalos
+503::¿Dónde se ponen en staking mis NIM?
+504::En tu primer depósito eliges entre cinco pools de staking verificados. Garuda Pool viene seleccionado por defecto. Cada pool muestra su comisión y frecuencia de pago. Tus NIM siguen en tu dirección y las recompensas no están garantizadas.
+505::¿Por qué necesito 100 NIM en el primer depósito?
+506::Nimiq exige 100 NIM para abrir una participación en staking. Después puedes añadir cualquier cantidad, cualquier semana.
+507::¿Y si cambia el precio de NIM?
+508::Tu tarjeta tiene un precio en su moneda. Dibs actualiza tu meta en NIM al tipo de cambio actual. El precio se confirma al pagar, así que quizá necesites más o menos NIM.
+509::No. Dibs no añade comisiones. Pagas el precio de la tienda confirmado al finalizar la compra. El pool retiene su comisión indicada sobre las recompensas. Las recompensas no están garantizadas.
+510::¿Qué versión de tarjeta debo elegir?
+511::Elige la versión compatible con tu cuenta. Algunas tarjetas solo sirven en un lugar y otras únicamente en tiendas físicas. Consulta los detalles antes de reservar.
+512::¿Y si se agota la tarjeta o falla la compra?
+513::Dibs consulta la tienda antes de pagar. Si la tarjeta está agotada o cambia de precio, puedes cambiarla, dejar los NIM para otra meta o recuperarlos. Si un pago falla, tus NIM permanecen en la billetera. Dibs nunca paga dos veces.
+514::¿Qué datos recopila Dibs?
+515::Por defecto, las metas se quedan en tu teléfono y las estadísticas anónimas están desactivadas. Si habilitas Amigos, su servidor conserva tu nombre visible y lo que elijas compartir. Los regalos y códigos cifrados se gestionan como se explica en Privacidad.
+516::Ninguna pregunta coincide
+517::Prueba otra palabra o escríbenos.
+518::¿Aún tienes
+519::dudas?
+520::Escríbenos y te responderemos.
+521::¿Puedo elegir dónde se ponen en staking mis NIM?
+522::Sí. En el primer depósito eliges entre cinco pools verificados. Dibs muestra su comisión y la frecuencia de recompensas. Garuda Pool es el predeterminado. Las recompensas no están garantizadas.
+523::¿Puedo hacerle un regalo a un amigo?
+524::Sí. Si habilitas Amigos, puedes reservar un deseo compartido por un amigo o regalar una de tus metas. Añade un mensaje y un fondo; tu amigo verá una presentación a pantalla completa en Dibs.
+525::¿Dibs puede leer el código de regalo que envío?
+526::No. Los códigos enviados dentro de Dibs se cifran de extremo a extremo en tu teléfono para el del destinatario. El servidor de Amigos solo transmite el código cifrado. Se elimina al abrirse o después de 30 días.
+527::¿Tengo que usar Amigos o participar en las clasificaciones?
+528::No. Ambas funciones son opcionales. Amigos se mantiene desactivado hasta que lo actives; unirse a una clasificación es otra decisión. Los depósitos se verifican en la cadena sin guardar el identificador ni la dirección de tu billetera.
+529::¿Qué puede ver un amigo sobre mí?
+530::Solo lo que tú decidas compartir. Siete controles permiten ocultar cada detalle, compartirlo con amigos o con todos. Revisa tu perfil con Ver como y elimina tus datos de Amigos en Perfil > Amigos > Tú.
+531::Cómo funciona · Dibs
+532::Cómo funciona
+533::Dibs
+534::Cuatro pasos y una espera. Aquí explicamos qué sucede en cada paso y qué pasa con tus NIM.
+535::Elige una tarjeta de regalo, su valor y una fecha. Hay {{BRAND_COUNT}} marcas.
+536::Aprueba cada depósito en Nimiq Pay. El primero te permite elegir entre cinco pools de staking verificados. Garuda Pool es el predeterminado. La pantalla Añadir NIM muestra cómo avanzará tu meta.
+537::Tu pool de staking distribuye recompensas aproximadamente cada 12 horas, descontando su comisión. Las recompensas no están garantizadas. Ahorros muestra la próxima recompensa.
+538::Al llegar al 100 %, desbloquea tus NIM. La red los libera después de 12 a 24 horas. Dibs estima cuándo estarán disponibles. Luego paga con un toque mediante Lightning y recibe la tarjeta en Dibs.
+539::Qué ocurre con
+540::tus NIM
+541::Sigue tus NIM
+542::Desde el primer depósito hasta la tarjeta, los NIM siguen en tu cuenta hasta el momento del pago.
+543::Siempre bajo tu propia dirección
+544::En tu billetera
+545::Tus NIM están en Nimiq Pay, bajo tu dirección.
+546::En staking
+547::Elige entre cinco pools verificados en tu primer depósito. Garuda Pool es el predeterminado. Apruebas cada transacción de staking.
+548::Generando recompensas
+549::Tu pool distribuye recompensas aproximadamente cada 12 horas, descontando su comisión. Las recompensas no están garantizadas.
+550::Desbloqueados
+551::Al llegar al 100 %, detienes el staking. La red libera los NIM de 12 a 24 horas después.
+552::Pagados
+553::Un toque paga a la tienda mediante Lightning. El código llega a la app.
+554::Una meta, en
+555::pasos semanales
+556::Dibs convierte el precio de la tienda en una meta en NIM al tipo de cambio actual, añade un margen del 10 % para posibles cambios de precio y divide el objetivo en pasos semanales.
+557::Nada es automático. Puedes saltarte una semana y recuperarla después. El primer depósito exige 100 NIM para empezar el staking; a partir de ahí, sirve cualquier cantidad.
+558::Ejemplo: meta para una tarjeta de regalo
+559::Valor de la tarjeta
+560::Mostrado al pagar en NIM (moneda de la tarjeta entre paréntesis)
+561::Precio de la tienda
+562::Margen para cambios en NIM
+564::Tu objetivo
+565::en NIM, al tipo de cambio actual
+566::S1
+567::S2
+568::S3
+569::S4
+570::S5
+571::S6
+572::S7
+573::S8
+574::S9
+575::Semana omitida
+576::Recuperada
+577::Una espera y
+578::un toque
+579::Al desbloquear, la red Nimiq libera los NIM en staking después de 12 a 24 horas. Es una regla de la red, no de Dibs. Dibs muestra un reloj con la hora real prevista para su liberación.
+580::Cuando los NIM vuelven, la compra se hace con un toque.
+581::Nuestro desbloqueo en la red principal
+582::El plazo es de 12 a 24 horas. Nuestra prueba estuvo cerca del mínimo.
+583::Cuánto
+584::cuesta
+585::Dibs no cobra comisión. Pagas el precio de la tienda por la tarjeta, que puede superar un poco su valor nominal. El precio exacto se confirma al pagar.
+586::Ejemplo de desglose del pago
+587::Tarjeta de regalo, precio de la tienda
+588::Precio actual en NIM (moneda de la tarjeta entre paréntesis)
+589::Comisión de Dibs
+590::0 NIM
+591::Pool de staking
+592::Una parte de las recompensas obtenidas, si las hay
+593::Sin suscripción ni comisión de Dibs.
+594::¿Cambiaste de opinión?
+595::Cambiar la tarjeta
+596::Tus NIM siguen en la meta.
+597::Moverlos
+598::Asigna los NIM a otra meta.
+599::Recuperarlos
+600::Vuelven a tu billetera. Son tus NIM.
+601::Más respuestas en las preguntas frecuentes
+602::Míralo
+603::en la aplicación
+604::Capturas reales de Dibs v1.7.7.
+605::Elige la tarjeta
+606::Prepara tu plan
+607::Consulta la hora de liberación
+608::Hazla tuya
+609::Regalos
+610::a tu manera
+611::Amigos y regalos son opcionales. Tus metas y tus NIM siguen bajo tu control.
+612::Ahorra para el deseo de un amigo
+613::Consulta la lista de deseos compartida por un amigo, reserva una tarjeta y ahorra para regalársela desde tu propia billetera. No lo sabrá hasta que envíes el regalo.
+614::Regala una de tus metas
+615::Elige una meta para la que ya hayas ahorrado y regala la tarjeta a un amigo. Añade un mensaje personal y un fondo.
+616::Una sorpresa solo para esa persona
+617::El regalo se abre a pantalla completa en Dibs. Tu amigo puede elegir Dar las gracias. El destinatario puede ver el valor de la tarjeta.
+618::Un código que solo puede abrir el destinatario
+619::Envía el código dentro de Dibs cifrado de extremo a extremo. Solo el teléfono de tu amigo puede abrirlo; Dibs no puede leerlo. Consulta Entregado y Abierto. Los códigos sin abrir se eliminan a los 30 días.
+620::¿Listo para
+621::elegir algo?
+622::Ver las {{BRAND_COUNT}} marcas
+623::Condiciones · Dibs
+624::Última actualización: 22 de noviembre de 2026
+625::En resumen: este sitio describe Dibs. Tus NIM siguen siendo tuyos y la tarjeta procede de la tienda.
+626::Este sitio web
+627::Este sitio describe Dibs y muestra cifras públicas de un servidor en vivo y notas de versión del repositorio público de la aplicación. No vende nada ni custodia NIM.
+628::Qué hace Dibs
+629::Eliges una tarjeta de regalo, apruebas depósitos de NIM desde tu billetera de Nimiq Pay y los delegas al pool que elijas. Al llegar al 100 %, solicitas el desbloqueo, esperas la liberación de la red y pagas la tarjeta mediante Lightning.
+630::Tus NIM siguen en tu propia billetera. En el primer depósito eliges entre cinco pools verificados, con Garuda Pool como predeterminado. Las recompensas de staking no están garantizadas. La liberación tarda de 12 a 24 horas.
+631::Precios
+632::La aplicación muestra el precio en NIM y sus equivalentes en otras monedas entre paréntesis. El precio final de la tienda y el tipo de cambio se confirman al pagar y pueden variar.
+633::Tarjetas de regalo
+634::Bitrefill vende y entrega las tarjetas bajo sus propias condiciones. Dibs no añade comisiones y es independiente; no está patrocinado, asociado ni respaldado por Bitrefill ni por las marcas del catálogo. Las tarjetas pueden tener restricciones de uso que debes comprobar antes de comprar.
+635::Amigos y regalos
+636::Amigos, las opciones para compartir, las listas de deseos y las clasificaciones son opcionales. Tú decides qué ven tus amigos o todas las personas. Una tarjeta enviada como regalo está destinada a quien la recibe. Los registros de regalo se conservan para su entrega y visualización; los códigos enviados dentro de Dibs se cifran de extremo a extremo y se borran al abrirse o a los 30 días.
+637::Tal cual
+638::Dibs es de código abierto (MIT) y se ofrece tal cual, sin garantías. Úsalo bajo tu responsabilidad. Las condiciones completas están en Más > Legal > Condiciones de la app.
+639::Cambios
+640::Cuando cambien estas condiciones, también cambiará la fecha indicada arriba.
+641::Privacidad · Dibs
+642::Dibs guarda tus metas en tu teléfono. Amigos, las clasificaciones y las estadísticas anónimas son opcionales. Esto es lo que permanece en tu dispositivo, lo que sale de él y por qué.
+643::Sin cookies, publicidad, análisis ni rastreadores. Las imágenes, scripts y fuentes se sirven desde este sitio. Las cifras públicas de Inicio se obtienen a través de
+644::/api/stats
+645::desde el servidor de estadísticas de Dibs. El historial de versiones se obtiene a través de
+646::/api/updates
+647::de los archivos públicos de la app en GitHub. No se solicitan datos personales para ninguna de estas consultas.
+648::Alojamiento
+649::Vercel aloja este sitio y puede recibir datos técnicos habituales, como la dirección IP, cuando el navegador solicita una página. Dibs no usa esos datos para publicidad ni análisis.
+650::Enlaces a otros sitios
+651::Puedes abrir voluntariamente la aplicación, un video de demostración, el repositorio de código, el explorador de la cadena, la página pública de estadísticas o nuestra cuenta X. Esos servicios tienen sus propias prácticas de privacidad. No se carga nada de ellos simplemente por leer este sitio.
+652::Copiar el enlace de la aplicación
+653::El botón Copiar coloca la dirección de la app Dibs en el portapapeles de tu dispositivo. No envía ninguna petición.
+654::Si nos escribes
+655::Enviar un correo a
+656::nos proporciona tu dirección de correo electrónico y tu mensaje. Los usamos para responderte.
+657::En la aplicación: en tu teléfono
+658::Tus metas, ajustes, insignias, XP y misiones se guardan en tu teléfono. Tu nombre visible también permanece allí salvo que habilites Amigos. Dibs no envía tu nombre junto a las estadísticas de uso ni las compras.
+659::Dibs lee tu dirección y saldo de NIM a través de Nimiq Pay. Apruebas depósitos, pasos de staking y pagos en Nimiq Pay. Dibs nunca custodia tus NIM ni tus claves privadas.
+660::Comprar una tarjeta de regalo
+661::Nuestro servidor solicita a Bitrefill una factura de pago y le transmite el correo electrónico que escribes para enviarte el recibo. El servidor conserva el número de pedido y una clave de acceso aleatoria, no tu correo. El código, PIN o enlace llega a tu teléfono y no se almacena en nuestro servidor.
+662::Estadísticas de uso: solo si aceptas
+663::Si pulsas Compartir estadísticas, Dibs cuenta las metas creadas, los NIM depositados mediante Dibs y las tarjetas compradas, además del total de NIM en staking y las recompensas, de manera anónima con un identificador aleatorio. Los identificadores de transacción se comprueban una sola vez en la cadena y luego se borran. Nunca tu nombre, correo ni códigos. Desactívalo o borra lo compartido en Ajustes.
+664::Amigos: solo si lo activas
+665::Amigos guarda tu nombre visible, un identificador aleatorio y un código de amistad en otro servidor. Tu billetera firma una vez para vincular el perfil; el servidor conserva una huella cifrada de la billetera, no la dirección. Eliges qué compartir, como nivel, rango, insignias, tarjetas compradas, metas activas y lista de deseos. También puedes compartir tu avatar de Nimiq, los NIM ahorrados y ganados y el valor de tus metas o tarjetas. Cada control empieza desactivado y puede configurarse para amigos o para todos. Desactivar una opción elimina ese dato del servidor. Amigos no comparte el saldo, la dirección de la billetera ni el correo.
+666::Registros de regalos y códigos cifrados
+667::Reservar el deseo de un amigo registra cuál elegiste y que lo marcaste como enviado, no su valor. Solo el destinatario ve el mensaje, el fondo y el valor de la tarjeta. Regalar una de tus metas registra quién la envió, quién la recibió y la marca de la tarjeta.
+668::Un código de tarjeta enviado en Dibs se cifra de extremo a extremo en el teléfono del remitente para que solo el teléfono del destinatario pueda abrirlo. El servidor de Amigos lo transmite sin poder leerlo. Los códigos cifrados se borran al abrirse o a los 30 días.
+669::Clasificaciones: solo si participas
+670::Las clasificaciones de amigos y globales son opcionales. Si participas, utilizan el nombre de perfil que elegiste, tu nivel y XP verificados. Para los avances por depósitos, Dibs verifica cada depósito en la cadena Nimiq sin guardar su identificador ni la dirección de la billetera. Puedes borrar tus datos de Amigos en Perfil > Amigos > Tú.
+671::Otros servicios
+672::Bitrefill vende y entrega tarjetas de regalo bajo su propia política de privacidad. El servicio de validadores de Nimiq carga la lista de pools de staking y puede ver datos técnicos como tu IP. Vercel y Render alojan la aplicación y el servidor, y la app usa Google Fonts. Esos servicios también pueden recibir datos técnicos. Este sitio aloja sus fuentes localmente.
+673::Recompensas NIM reclamadas fuera de la app
+674::Si reclamas una recompensa promocional en NIM por correo electrónico, puedes enviar voluntariamente tu dirección de Nimiq para recibirla. La app no envía esa dirección por ti. Solo se usa para ese pago.
+675::Lo que nunca hacemos
+676::Sin anuncios, rastreadores ni venta de datos. Consulta el texto correspondiente en Más > Legal > Privacidad en la aplicación.
+677::Acerca de · Dibs
+678::Por qué creamos
+679::La mayoría de las apps de ahorro terminan en un saldo. Dibs termina en lo que querías conseguir.
+680::Creado para el concurso Nimiq Mini Apps · Ciclo III · Save
+681::La mayoría de las apps terminan en
+682::Saldo ahorrado
+683::1.284,50
+684::Una cifra que sigue creciendo sin nada concreto al final.
+685::frente a
+686::Dibs termina en
+687::Tarjeta de regalo de Steam
+688::•••• •••• ••••
+689::Lo que reservaste, listo para usar.
+690::Ahorrar es más fácil cuando sabes para qué. Por eso Dibs empieza con lo que quieres: un juego, un viaje o un café. Lo reservas, ahorras NIM para conseguirlo y el staking puede generar recompensas mientras esperas. Las recompensas no están garantizadas. Al completar la meta, un toque convierte tus ahorros en la tarjeta.
+691::Nuestra historia
+692::hasta hoy
+693::Finales de oct. de 2026
+694::El proyecto empezó llamándose Layaway. Cambió a Dibs antes del lanzamiento.
+695::Una tarjeta de regalo de Steam pagada con Nimiq Pay mediante Lightning. El código llegó en unos 8 segundos.
+696::6 a 7 nov. de 2026
+697::Un desbloqueo completo en la red principal
+698::Staking desactivado y fondos liberados 12 h 4 min después. La espera indicada en la app, medida.
+699::Se lanza Dibs 1.0
+700::Todo el recorrido funciona con NIM reales en la red principal de Nimiq.
+701::13 nov. de 2026
+702::Dibs 1.1
+703::El catálogo creció; Ahorros, Historial y Perfil se rediseñaron y el desbloqueo se hizo más seguro.
+704::14 nov. de 2026
+705::Dibs 1.2
+706::Misiones diarias: tres pequeñas acciones cada día, una marca de día completado y nuevas insignias.
+707::20 nov. de 2026
+708::Dibs 1.3 y 1.4
+709::Estadísticas, resúmenes compartibles y opciones de apariencia, seguidos de Amigos opcional, listas de deseos, controles de privacidad y regalos.
+710::21 nov. de 2026
+711::Dibs 1.5 y 1.6
+712::Elección de pool en el primer depósito, Electrónica en el catálogo y conversor NIM al tipo de cambio actual.
+713::21 a 22 nov. de 2026
+714::Dibs 1.7
+715::Clasificaciones opcionales, mensajes y fondos de regalo, códigos privados en la app y sorpresas a pantalla completa.
+716::Hoy
+717::Dibs v{{LIVE_VERSION}} está disponible
+718::El Perfil ahora incluye Ver como, los marcos reflejan la luz y hay un nuevo acento disponible en el nivel 20.
+719::Ver todos los lanzamientos
+720::Nuestros
+721::principios
+722::Sin custodia de fondos
+723::Tus NIM nunca salen de tu propia billetera. Sin contratos inteligentes ni tokens de Dibs.
+724::Espera explicada con claridad
+725::El plazo de 12 a 24 horas se muestra tal cual, junto con la hora real de liberación y la transacción de cada paso.
+726::Privacidad desde el inicio
+727::Las metas siguen en tu teléfono. Tu nombre solo se comparte si habilitas Amigos. Sin anuncios ni rastreadores. Las estadísticas, solo con tu permiso.
+728::Abierto desde el primer día
+729::Licencia MIT, código público y página con cifras verificables.
+730::Saluda
+731::al equipo
+732::Preguntas, ideas o prensa: escríbenos. Leemos todos los mensajes.
+733::Correo
+735::Novedades · Dibs
+736::en Dibs
+737::Dibs mejora casi todos los días. Aquí están todos los lanzamientos, directamente desde la aplicación.
+739::Versión actual
+741::Lanzamientos
+743::Días desde el lanzamiento
+745::Lanzamientos principales
+746::Cada
+747::lanzamiento
+748::Todos
+749::Lo que
+750::viene
+751::Previsto para después del concurso.
+752::Los planes pueden cambiar. Todos los lanzamientos también aparecen en Más > Novedades en la app.
+753::Catálogo · Dibs
+754::{{BRAND_COUNT}} marcas
+755::{{CATEGORY_COUNT}} categorías: electrónica, juegos, streaming, viajes, compras y comida. Cada tarjeta tiene una versión adecuada para tu cuenta.
+756::Nuevo: Electrónica. {{ELECTRONICS_COUNT}} marcas añadidas en la v1.6.
+757::Electrónica en la aplicación Dibs.
+758::Algunas tarjetas solo funcionan en un lugar y otras se usan únicamente en tiendas físicas. Consulta los detalles y elige la versión adecuada para tu cuenta antes de reservar.
+759::Buscar una marca
+760::Mostrando {{BRAND_COUNT}} de {{BRAND_COUNT}} marcas
+761::Ninguna marca coincide. Prueba otra palabra u otro filtro.
+271::Litepaper | Dibs - Resérvalo. Ahorra. Es tuyo.
+272::Français
+273::Español
+274::V1.0
+275::Convierte lo
+276::que quieres en
+277::tu meta.
+278::Es más fácil creer en el ahorro cuando tiene nombre, imagen y una línea de llegada. Dibs convierte lo que quieres en metas alcanzables utilizando NIM bajo tu control.
+279::Empezar a leer
+280::Explorar el código fuente
+281::Publicado el 19 de noviembre de 2026
+282::Un documento educativo sobre el producto, no una oferta de tokens.
+283::ELIGE TU META
+284::MANTÉN EL CONTROL
+285::TU META
+286::TU BILLETERA
+287::TU PLAZO
+288::TUS NIM
+289::EN ESTE LITEPAPER
+290::Nuestra historia
+291::El problema
+292::La solución
+293::El recorrido
+295::Cómo funciona por dentro
+297::Costos y recompensas
+299::Seguridad y privacidad
+301::Lo que existe hoy
+303::Qué viene después
+305::Una última reflexión
+306::10 capítulos breves.
+307::Una idea simple.
+308::Probar Dibs
+309::CAPÍTULO 01
+310::INTRODUCCIÓN
+312::Todo empieza con
+313::«Quiero eso».
+314::Dibs nació de un pequeño cambio de perspectiva: en vez de pedir a las personas que ahorren por ahorrar, empezar por algo que ya les importa.
+315::Dibs nació como una Mini App de Nimiq Pay basada en un cambio de motivación. Su nombre viene de «call dibs»: ese momento en que señalas algo y dices «Voy a conseguirlo». En Dibs, esa decisión se convierte en una meta, un plan y un camino visible hasta alcanzarla.
+316::Queremos que las criptomonedas sean útiles en la vida diaria. No solo un saldo abstracto, sino algo que puedas destinar a una tarjeta de regalo, una comida, un viaje o una experiencia. Dibs no emite tokens, no hace ventas de tokens ni te pide tus claves.
+317::Resérvalo. Ahorra. Hazlo tuyo.
+318::La idea detrás de Dibs
+319::CAPÍTULO 02
+320::EL PROBLEMA
+322::Un saldo no es
+323::una razón.
+324::Las herramientas tradicionales de ahorro suelen empezar por una cifra. La motivación suele empezar por algo concreto.
+325::SIN UNA META
+326::«Ahorra más».
+327::El dinero queda reducido a un total abstracto. Es fácil posponer u olvidar el progreso.
+328::CON DIBS
+329::«Para esto estoy ahorrando».
+330::Una recompensa real, un objetivo y pasos visibles dan sentido a cada depósito.
+331::Al mismo tiempo, las criptomonedas pueden resultar difíciles para quien empieza: billeteras, staking, tipos de cambio y procesos de compra añaden fricción. Dibs reúne esas piezas en un recorrido fácil de entender, sin ocultar lo que pasa.
+332::CAPÍTULO 03
+333::LA SOLUCIÓN
+335::Empieza por
+336::lo que quieres comprar.
+337::Dibs te permite elegir un producto real, fijar una meta de ahorro en NIM y avanzar a tu propio ritmo.
+338::Algo real
+339::Elige una tarjeta de regalo del catálogo y decide para qué estás ahorrando.
+340::Progreso visible
+341::Sigue la meta, añade NIM cuando quieras y observa cuánto has avanzado.
+342::Siempre bajo tu control
+343::El staking se aprueba desde tu billetera Nimiq Pay, bajo tu dirección.
+344::Las categorías incluyen electrónica, videojuegos, streaming, viajes, compras y comida. Dibs no es una app solo para juegos: la idea es que ahorrar para cosas cotidianas resulte alcanzable, sea cual sea la categoría.
+345::CAPÍTULO 04
+346::EL RECORRIDO
+348::De «reservado» a
+349::«es tuyo».
+350::Cuatro acciones y una espera obligatoria de la red. No se descuenta nada automáticamente de tu billetera.
+351::01 / ELEGIR
+352::Elige una tarjeta, un valor y una fecha objetivo. Dibs convierte el precio de pago de la tienda en una meta de NIM al tipo de cambio actual.
+353::Interfaz de Dibs / catálogo
+354::02 / AHORRAR
+355::Añade NIM cuando puedas.
+356::Aprueba cada depósito en Nimiq Pay. Los NIM se delegan para staking desde tu propia cuenta; Dibs no los custodia. Tú decides cuándo y cuánto añadir.
+357::Interfaz de Dibs / añadir NIM
+358::03 / DESBLOQUEAR
+359::Llega al 100 % y desbloquea.
+360::El anillo de progreso muestra claramente la meta. Cuando estés listo, desactiva el staking y espera el periodo de liberación de Nimiq, normalmente de 12 a 24 horas. Las recompensas son variables y no están garantizadas.
+361::Interfaz de Dibs / meta completada
+362::04 / CONSEGUIR
+363::Paga la tarjeta.
+364::Después del desbloqueo, Dibs prepara un pedido en Bitrefill. Confirmas el pago en Nimiq Pay mediante Lightning y el código de la tarjeta aparece en la app cuando el pedido termina.
+365::Interfaz de Dibs / tarjeta de regalo
+366::Estas son capturas reales de la app. Los saldos, fechas y valores de las tarjetas mostrados como ejemplo no son cifras públicas ni pruebas de transacciones.
+367::CAPÍTULO 05
+368::TECNOLOGÍA
+370::Cómo funciona por dentro,
+371::sin complicaciones.
+372::Dibs es una capa de aplicación sobre infraestructura existente. No requiere un token de Dibs ni una nueva cadena de bloques.
+373::TÚ
+374::Billetera, aprobaciones, pagos Lightning
+375::↑ el usuario confirma cada transacción ↓
+376::APLICACIÓN
+377::Mini App Dibs
+378::Metas, progreso, plan de ahorro, compras
+379::EN LA CADENA
+380::Staking de Nimiq
+381::Participación bajo la dirección del usuario; recompensas de validadores
+382::COMERCIO
+384::Catálogo en vivo, factura y entrega de tarjetas de regalo
+385::El servidor de Dibs gestiona la información del catálogo y coordina pedidos; no custodia NIM ni claves privadas de los usuarios.
+386::Cada pieza y su función
+387::El activo nativo usado para ahorrar y comprar en Dibs. Su precio de mercado puede cambiar.
+388::La billetera controlada por el usuario que muestra las aprobaciones de transacciones y permite pagos Lightning.
+389::El proceso de red que permite participar con NIM en prueba de participación. Elige entre cinco pools de staking verificados en tu primer depósito, con Garuda Pool por defecto. Las recompensas no están garantizadas.
+390::La tienda independiente que proporciona inventario de tarjetas de regalo, facturas y códigos de canje.
+391::Los desarrolladores pueden revisar el
+392::repositorio público de Dibs
+393::y sus
+394::notas de seguridad
+395::. El cliente y el pequeño servicio tienen distintas responsabilidades: la aprobación de operaciones permanece del lado del cliente y las credenciales del proveedor, en el servidor.
+396::CAPÍTULO 06
+397::ECONOMÍA
+399::Una meta clara.
+400::Compromisos transparentes.
+401::Dibs no cobra suscripción ni comisiones adicionales por comprar tarjetas de regalo. Eso no significa que toda la experiencia sea gratuita.
+402::EL PRECIO DEL PRODUCTO
+403::Lo fija la tienda
+404::El precio de pago de Bitrefill puede superar el valor nominal de la tarjeta y puede cambiar.
+405::LA META DE AHORRO
+406::Mostrada en NIM
+407::Se calcula con el tipo de cambio actual y un margen para posibles variaciones. El importe final se confirma al pagar.
+408::RECOMPENSAS DE STAKING
+409::Variables, no prometidas
+410::Las recompensas dependen del staking de Nimiq y del validador. Las comisiones del pool reducen el importe neto recibido.
+411::Como NIM tiene un precio de mercado, una meta suficiente hoy podría no cubrir la misma compra mañana. Las recompensas no eliminan el riesgo de precio. Si no tienes suficientes NIM al pagar, quizá debas añadir más; los NIM sobrantes siguen siendo tuyos.
+412::Sin rendimiento de ahorro garantizado.
+413::Dibs no es una cuenta bancaria ni un producto de inversión. El precio de las criptomonedas puede bajar, las recompensas de staking pueden variar, pueden existir comisiones de red y los fondos en staking no están disponibles de inmediato.
+414::CAPÍTULO 07
+415::SEGURIDAD Y PRIVACIDAD
+417::Tu meta.
+418::Tus claves.
+419::Nuestro principio inicial es sencillo: Dibs no debería necesitar custodiar tus fondos para ayudarte a ahorrar.
+420::Mostrar tus metas y tu progreso
+421::Preparar operaciones para tu aprobación en Nimiq Pay
+422::Consultar precios y coordinar pedidos de tarjetas de regalo
+423::Dibs no puede
+424::Gastar NIM sin la aprobación de tu billetera
+425::Acceder a la clave privada de tu billetera ni almacenarla
+426::Garantizar recompensas, tipos de cambio ni disponibilidad de productos
+427::En la versión actual, los detalles de las metas se guardan en el dispositivo. Las estadísticas anónimas son opcionales: los usuarios eligen si las comparten y pueden desactivarlas o borrar lo compartido. El servicio comprueba las transacciones de depósito declaradas en la cadena antes de incluirlas en los totales públicos. El alojamiento web puede procesar datos técnicos habituales de las solicitudes.
+428::La autocustodia también tiene riesgos. Debes proteger tus credenciales y verificar cuidadosamente importes y destinos en las ventanas de aprobación. Hay riesgos de validadores, red, software, proveedores, existencias y tipos de cambio. Dibs no controla la entrega de Bitrefill, sus condiciones ni las marcas de tarjetas compatibles.
+429::Lee la explicación completa de
+430::seguridad
+431::privacidad
+432::y las
+433::condiciones
+434::. Puedes comunicar problemas de seguridad mediante un
+435::aviso privado de seguridad de GitHub
+436::CAPÍTULO 08
+437::REALIDAD ACTUAL
+439::No es una presentación.
+440::Es una app que funciona.
+441::Dibs v{{LIVE_VERSION}} es una Mini App de Nimiq Pay funcional. El recorrido hasta la tarjeta de regalo se ha probado con transacciones reales en la red principal.
+442::OCT. 2026
+443::Primera versión en la red de pruebas
+444::La idea original de ahorro se convierte en una aplicación que las personas pueden probar.
+445::4 NOV. 2026
+446::Primera tarjeta de regalo comprada
+447::Una tarjeta de regalo de Steam comprada con NIM mediante Nimiq Pay y Lightning.
+448::6-7 NOV. 2026
+449::Desbloqueo completo medido
+450::Un desbloqueo real en la red principal tardó 12 h 4 min.
+451::10 NOV. 2026
+452::Lanzamiento en la red principal
+453::Recorrido completo desde la reserva hasta la tarjeta, disponible con NIM reales.
+454::ABIERTO PARA VERIFICAR
+455::Publicamos el código de la app, un historial transparente de versiones y ejemplos de transacciones. No dependas de una promesa imposible de verificar cuando puedes comprobar el trabajo.
+456::Leer el historial de versiones
+457::Ver ejemplos de transacciones
+458::CAPÍTULO 09
+459::QUÉ VIENE DESPUÉS
+461::El producto crecerá.
+462::El principio seguirá igual.
+463::Ya disponibles: Amigos opcional, listas de deseos, mensajes y fondos de regalo, códigos privados dentro de la app y clasificaciones voluntarias. Los controles para compartir están desactivados por defecto. Los códigos enviados en Dibs están cifrados de extremo a extremo y el servidor no puede leerlos.
+464::Las dos incorporaciones previstas abajo son orientativas. Los planes pueden cambiar; no prometemos fechas ni rendimientos.
+465::DISPONIBLE
+466::Ahorra para una tarjeta de regalo real
+467::Crea metas, aprueba depósitos de NIM en staking, elige un pool, sigue el progreso, desbloquea y completa compras. Amigos, listas de deseos, regalos privados y clasificaciones son opcionales.
+468::PRÓXIMAMENTE
+469::Una meta comunitaria que cuenta metas alcanzadas sin nombres ni clasificaciones.
+470::MÁS ADELANTE
+471::Previsto para después del concurso. Los planes pueden cambiar.
+472::La disponibilidad y el orden de los lanzamientos pueden variar mientras probamos, aprendemos y escuchamos a la comunidad. Para conocer la versión más reciente, consulta
+473::Novedades
+474::, en lugar de tomar una hoja de ruta publicada como documentación actualizada.
+475::CAPÍTULO 10
+476::LA VISIÓN
+478::Una meta pequeña puede cambiar
+479::cómo se siente ahorrar.
+480::Creemos que ahorrar debería consistir menos en mirar una cifra y más en acercarte a algo importante para ti.
+481::Dibs aún es joven. Seguiremos mejorándolo en público, documentando lo que funciona, explicando lo que no y diseñando para quien lo usa. No prometemos que cada meta sea fácil, sino que el camino hacia ella pueda ser más claro.
+482::RESÉRVALO.
+483::AHORRA.
+484::ES TUYO.
+485::Abrir Dibs en Nimiq Pay
+486::Seguir el desarrollo
+487::Dibs es independiente y no está patrocinado, asociado ni respaldado por Bitrefill ni por las marcas del catálogo. Los nombres y logotipos pertenecen a sus propietarios. Este documento es informativo y no constituye asesoramiento financiero, una oferta de inversión ni una promesa de rendimientos.
+488::Fuentes y lecturas adicionales
+489::Puedes comprobar el producto, las decisiones técnicas y la infraestructura subyacente en sus fuentes.
+490::Código abierto de Dibs
+491::Notas de seguridad de Dibs
+492::Litepaper de Nimiq
+493::Litepaper versión 1.0 | Publicado el 19 de noviembre de 2026 | Los detalles del producto pueden cambiar. Última revisión: 22 de noviembre de 2026.
+151::10 nov. de 2026
+156::6 nov. de 2026
+160::4 nov. de 2026

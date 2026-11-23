@@ -1,0 +1,65 @@
+001::Dibs est une Mini App d’épargne pour Nimiq Pay. Épargnez des NIM pour une carte-cadeau. Les récompenses de staking ne sont pas garanties. Un geste suffit pour l’obtenir. Vos NIM restent dans votre portefeuille.
+002::Dibs : réservez, épargnez, obtenez
+003::Une Mini App d’épargne pour Nimiq Pay. Épargnez des NIM pour ce qui vous plaît. Les récompenses de staking ne sont pas garanties. Un geste pour l’obtenir.
+004::Dibs, accueil
+005::Navigation principale
+006::Langue : français
+007::Menu
+008::Navigation principale sur mobile
+009::Catalogue Dibs Électronique, derrière l’écran d’un objectif actif
+010::Accueil Dibs avec deux objectifs d’épargne actifs et leurs anneaux de progression
+011::Catalogue Dibs filtré sur Électronique, avec des cartes-cadeaux au choix
+012::Écran Ajouter des NIM dans Dibs, avec aperçu du dépôt et pool de staking
+013::Objectif Dibs atteint à 100 %, prêt au déblocage
+014::Dibs en bref
+015::Catalogue Dibs Électronique avec cartes-cadeaux et filtres
+016::Écran Ajouter des NIM, avec aperçu du dépôt et choix du pool
+017::Écran Épargne Dibs montrant le total de NIM, le prochain versement et le convertisseur
+018::Écran de fin Dibs avec le code de carte-cadeau masqué
+019::Exemples d’objectifs d’épargne
+020::Profil Dibs avec avatar, niveau, badges et liste de souhaits
+021::Code QR de l’application Dibs, dibs-sepia.vercel.app
+022::Pied de page
+023::Langue
+024::Vos NIM restent dans votre portefeuille. Ce que Dibs peut faire ou non, le paiement et les étapes vérifiables sur la chaîne.
+025::Ce que Dibs peut faire ou non
+026::Écran Épargne de Dibs avec le prochain versement, le pool et le convertisseur NIM
+027::Le Litepaper Dibs explique l’épargne en NIM pour des cartes-cadeaux, la garde personnelle, le staking, le paiement, la confidentialité et la feuille de route.
+028::Litepaper Dibs | Réservez-le. Épargnez. C’est à vous.
+029::Pourquoi nous avons créé Dibs, comment fonctionne l’épargne en NIM et les choix de conception du produit.
+030::Un objectif d’épargne réel affiché dans Dibs
+031::Accueil Dibs v1.7.7 avec deux objectifs actifs, leur progression et l’option d’ajouter des NIM
+032::Principes de Dibs
+033::Table des matières du Litepaper
+034::Aller à la section
+035::Écran du catalogue Dibs Électronique
+036::Écran Ajouter des NIM avec l’aperçu du dépôt et le pool
+037::Objectif Dibs terminé à 100 %
+038::Écran d’achat de carte-cadeau avec le code masqué
+039::La Mini App Dibs communique avec Nimiq Pay pour faire approuver les transactions de portefeuille et de staking. Le service Dibs obtient les renseignements et commandes des cartes-cadeaux auprès de Bitrefill. Les paiements sont confirmés dans Nimiq Pay avec Lightning.
+040::Réponses courtes sur l’épargne en NIM avec Dibs : emplacement des fonds, attente, origine des cartes, frais et confidentialité.
+041::Rechercher, par exemple : frais, attente, Bitrefill
+042::Sujets
+043::Comment fonctionne Dibs : choisir une carte, approuver les dépôts NIM, choisir un pool, débloquer et acheter. Les récompenses de staking ne sont pas garanties.
+044::Écran Ajouter des NIM de Dibs avec aperçu du dépôt
+045::Objectif Dibs atteint à 100 %, avec le bouton Débloquer
+046::Écran Terminé avec le code de la carte-cadeau masqué
+047::Neuf étapes hebdomadaires, une semaine sautée et rattrapée la suivante
+048::Répartition des coûts
+049::Captures de l’application Dibs
+050::Fiche d’une marque Dibs avec valeurs et détails de livraison
+051::Écran de planification Dibs avec valeur, cible et date
+052::Écran Épargne Dibs avec le prochain versement et le convertisseur au taux du moment
+053::Écran Débloquer Dibs avec trois étapes et l’heure estimée de libération du réseau
+054::Écran Mon style de Dibs avec choix d’accents selon le rang
+055::Conditions du site Dibs et version abrégée des conditions de l’application.
+056::Traitement des données sur le site et dans l’application Dibs, dont Amis facultatif, les réglages de partage et les cadeaux chiffrés.
+057::Pourquoi Dibs existe, notre parcours jusqu’à v{{LIVE_VERSION}}, nos principes et comment nous joindre.
+058::Un solde comparé à l’objet souhaité
+059::Parcourez {{RELEASE_COUNT}} versions Dibs, les notes officielles de l’application et les projets à venir.
+060::Nombre de versions
+061::Afficher
+062::Parcourez {{BRAND_COUNT}} marques de cartes-cadeaux dans {{CATEGORY_COUNT}} catégories, dont Électronique. Choisissez la version adaptée à votre compte.
+063::Catalogue Dibs Électronique avec {{ELECTRONICS_COUNT}} marques
+064::Catégorie
+065::Rechercher une marque

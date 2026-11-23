@@ -1,0 +1,761 @@
+001 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] html
+002 [index] Dibs: save NIM toward something you want
+003 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Skip to content
+004 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Home
+005 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] How it works
+006 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Catalog
+007 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Safety
+008 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Updates
+009 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Litepaper
+010 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] About
+011 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] EN
+012 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] English
+013 [about,catalog,faq,how,index,privacy,safety,terms,updates] Français
+014 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Soon
+015 [about,catalog,faq,how,index,privacy,safety,terms,updates] Español
+016 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Open in Nimiq Pay
+017 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] FAQ
+018 [index] A savings Mini App for Nimiq Pay
+019 [index,litepaper] Call dibs.
+020 [index] Save up.
+021 [index] It's yours.
+022 [index] Save NIM toward a gift card while it earns through staking. Your NIM stays in your wallet. Rewards are not guaranteed.
+023 [how,index] Try the demo
+024 [how,index] In your browser, no wallet needed
+025 [index] Your NIM stays in your own wallet.
+026 [index] No account, no email, no card.
+027 [index] Paid in NIM, inside Nimiq Pay.
+028 [index] Pick
+029 [index] Add
+030 [index] Ready
+031 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Live on Nimiq mainnet
+032 [index] Since November 2026
+033 [index] No fee from Dibs
+034 [index] You pay the shop's own price
+035 [index,safety] Open source
+036 [index] MIT licence, code on GitHub
+037 [index] English, French, Spanish
+038 [index] The app in three languages
+039 [index] Four steps,
+040 [index] one goal
+041 [index] Pick a card, add NIM from your wallet, let it earn while you save, then unlock and get your card. Staking rewards are not guaranteed.
+042 [index,litepaper] 01
+043 [how,index] Call dibs
+044 [index] Choose a gift card, its value and a date. Make the thing you want the goal.
+045 [index,litepaper] 02
+046 [how,index] Save up
+047 [index] Approve each deposit in Nimiq Pay. On the first deposit, choose among five checked staking pools. See where your NIM takes the goal.
+048 [index,litepaper] 03
+049 [how,index] It earns while you wait
+050 [index] Your pool adds rewards about every 12 hours, minus its fee. Rewards are not guaranteed. See the next reward time on Savings.
+051 [index,litepaper] 04
+052 [about,how,index] It's yours
+053 [index] At 100%, unlock and wait 12 to 24 hours for the network to release your NIM. Then pay with one tap over Lightning. Your code appears in Dibs.
+054 [how,index] Watch the demo
+055 [how,index] The whole path in 4 minutes: a goal, a deposit, the unlock, a card.
+056 [how,index] Opens on YouTube
+057 [index] How it works in detail
+058 [index] Our
+059 [index] catalog
+060 [index] {{BRAND_COUNT}} brands across {{CATEGORY_COUNT}} categories. Each card comes in the version for your account. Some work in one place only or must be used in store.
+061 [index] New: Electronics. {{ELECTRONICS_COUNT}} brands to save for.
+062 [index] Pause
+063 [index] Drop in with a fresh skin.
+064 [index] Fortnite
+065 [index] Your next adventure starts here.
+066 [index] Nintendo eShop
+067 [index] That upgrade you keep eyeing.
+068 [index] Best Buy
+069 [index] A little magic for movie night.
+070 [index] Disney
+071 [index] Your ride home, covered.
+072 [index] Uber
+073 [index] Back your favourite streamer.
+074 [index] Twitch
+075 [index] That game on your wishlist.
+076 [index] Steam
+077 [index] Burger night, sorted.
+078 [index] Burger King
+079 [index] Coffee runs, taken care of.
+080 [index] Starbucks
+081 [index] Somewhere new to wake up.
+082 [index] Airbnb
+083 [index] Pick a category
+084 [index] Browse all {{BRAND_COUNT}} brands
+085 [index] Better
+086 [index] with friends
+087 [index] Friends is optional. Share only what you choose.
+088 [index] A wish is easier to share
+089 [index] Make a wishlist friends can see, or call dibs on a friend's wish and save for it as a surprise.
+090 [index] Gifts open in Dibs
+091 [index] Add a message and banner. Send a gift card code locked for your friend's phone, and see when it is delivered or opened. Dibs cannot read the code.
+092 [index] Leaderboards if you join
+093 [index] Compare progress with friends or on the global board, but only if you opt in. Choose what appears on your profile with seven separate sharing controls.
+094 [index] How gifting works
+095 [index] Profile and wishlist, with sharing off until you choose.
+096 [index,safety,terms] Your NIM
+097 [index] never leaves your hands
+098 [index,safety] Dibs is a goal on top of your own wallet. It never holds your NIM and has no key to it. You approve every step in Nimiq Pay.
+099 [index] Staked from your wallet
+100 [index] Each deposit is staked under your own address. You can request your NIM back, subject to the network's 12 to 24 hour release wait. Rewards are not guaranteed.
+101 [index,safety] Nothing to sign up for
+102 [index] No account, no email, no password. Your goals stay on your phone.
+103 [index,safety] Stats only if you say yes
+104 [index] Anonymous usage numbers are shared only with your consent, never with a name, a code or an address.
+105 [index] More on safety
+106 [index] It works,
+107 [index] on mainnet
+108 [index] Public totals are counted from people who chose to share anonymous stats. Check each displayed total and the on-chain examples below.
+109 [index] Deposited through Dibs
+110 [index] As of {{STATS_DATE}}
+111 [index] {{STAT_NIM}}
+112 [index,litepaper] NIM
+113 [index] Every deposit checked on the Nimiq chain, all time. Dibs never holds any of it.
+114 [how,index] 12
+115 [how,index] min
+116 [index] Measured unlock wait
+117 [how,index] Stake deactivated
+118 [how,index] 6 Nov 2026, 12:44 UTC
+119 [how,index] Stake released
+120 [how,index] 7 Nov 2026, 00:48 UTC
+121 [index] The network allows 12 to 24 hours. Ours took the short end.
+122 [index] {{STAT_RATIO}}
+123 [index] who shared stats made a deposit
+124 [index] {{STAT_SAVERS}}
+125 [index] savers out of
+126 [index] {{STAT_PEOPLE}}
+127 [index] people who shared stats
+128 [index] {{BRAND_COUNT}}
+129 [index] brands in the catalog
+130 [index] {{CATEGORY_COUNT}} categories including Electronics.
+131 [index] See the catalog
+132 [index] {{STAT_CREATED}}
+133 [index] goals created
+134 [index] {{STAT_ACTIVE}}
+135 [index] active right now,
+136 [index] {{STAT_REACHED}}
+137 [index] saved up to 100%
+138 [index] {{STAT_CARDS}}
+139 [index] cards bought end to end
+140 [index] Cards bought after a completed Dibs goal.
+141 [index] As of {{STATS_DATE}}.
+142 [index] Counted only from people who chose to share anonymous stats.
+143 [index,safety] Check it on chain
+144 [index,safety] Links open nimiq.watch, a Nimiq chain explorer. More purchases are added as each buyer agrees to share theirs.
+145 [index,safety] Exact totals:
+146 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Dibs in numbers
+147 [index,safety] On the Nimiq chain
+148 [index,safety] Date
+149 [index,safety] What happened
+150 [index,safety] Transaction
+151 [about,index,safety] 10 Nov 2026
+152 [index,safety] Deposit
+153 [index,safety] A deposit toward a goal: 98,189 NIM staked
+154 [index,safety] 69dbf7…8acd
+155 [index,safety] View transaction
+156 [index,safety] 6 Nov 2026
+157 [index,safety] Unlock
+158 [index,safety] Stake deactivated: the measured unlock begins
+159 [index,safety] 4aca7a…a169
+160 [about,index,safety] 4 Nov 2026
+161 [index,safety] Purchase
+162 [about,index,safety] The first card, paid in NIM
+163 [index,safety] c97bfa…e146
+164 [index] Always
+165 [index] getting better
+166 [index] Dibs improves almost every day. Here are the big releases so far, and what we are building next.
+167 [index] Live now: v{{LIVE_VERSION}} · {{RELEASE_COUNT}} releases since {{LAUNCH_DATE}}
+168 [index] Released
+169 [index,updates] Coming next
+170 [index,litepaper,updates] Together, 2,000 goals reached
+171 [index,updates] A shared community goal with no names and no ranking.
+172 [index,updates] Later
+173 [index,litepaper,updates] Dibs 2.0
+174 [index] Planned for after the competition. Details will follow.
+175 [index] Plans can change. Every release is listed in the app, under More > What's new.
+176 [index] Every release and the roadmap
+177 [index] Plans can change.
+178 [index] Questions
+179 [index] Something else? Write to
+180 [about,index,privacy,terms] calldibs.contact@gmail.com
+181 [faq,index] Where is my NIM while I save?
+182 [faq,index] In your own Nimiq Pay wallet, staked under your address. Dibs only keeps track of which goal it belongs to.
+183 [faq,index] Why is there a wait before I get my card?
+184 [faq,index] Staked NIM takes 12 to 24 hours to unlock. That is a rule of the Nimiq network, not of Dibs. Once it is back, buying takes one tap.
+185 [faq,index] Where do the gift cards come from?
+186 [faq,index] Cards are bought from Bitrefill at checkout and paid over Lightning inside Nimiq Pay. Dibs is independent and not affiliated with Bitrefill or the brands in the catalog.
+187 [faq,index] Does Dibs take a fee?
+188 [index] No. You pay the shop price at checkout. The staking pool keeps its stated fee from rewards, which are not guaranteed.
+189 [index] While you save, the staking pool keeps a small fee on the rewards it pays. That is the pool's fee, not Dibs's.
+190 [faq,index] What if I change my mind?
+191 [faq,index] Change the card, move your NIM to another goal, or take it back to your wallet. It is your NIM.
+192 [index] All {{FAQ_COUNT}} questions
+193 [index,litepaper] THE DIBS LITEPAPER
+194 [index] The thinking behind
+195 [index] Dibs.
+196 [index] Our vision, how saving with NIM works, the technology, and the trade-offs. Open for anyone to read.
+197 [index] Read the Litepaper
+198 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Call dibs on something
+199 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Dibs runs inside Nimiq Pay. Three steps and you are in.
+200 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Open Nimiq Pay on your phone.
+201 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Go to Mini Apps > Custom URL.
+202 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Enter
+203 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] dibs-sepia.vercel.app
+204 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] or scan the code.
+205 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Copy the app link
+206 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Try the demo in your browser
+207 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Scan in Nimiq Pay
+208 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Save NIM toward a gift card. Your NIM stays in your own wallet. Staking rewards are not guaranteed.
+209 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Product
+210 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Dibs
+211 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Contact
+212 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Help
+213 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Privacy
+214 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Terms
+215 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Email us
+216 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Follow
+217 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] @calldibs_app
+218 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] GitHub
+219 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Demo video
+220 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Dibs is independent. It is not sponsored by, partnered with or endorsed by Bitrefill or any brand shown on this site. Brand names and logos belong to their owners.
+221 [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] © 2026 Dibs. Built for the Nimiq Mini Apps Competition, Cycle III (Save). Open source under the MIT licence.
+222 [safety] Safety · Dibs
+223 [safety] stays yours
+224 [privacy,safety] Your wallet
+225 [litepaper,safety] Nimiq Pay
+226 [safety] NQ•• •••• •••• •••• ••••
+227 [safety] Balance
+228 [safety] Spend it any time
+229 [safety] Staked for your goal
+230 [safety] 62%
+231 [safety] Still under your own address
+232 [safety] Tracks the goal. Never holds the NIM.
+233 [safety] Approve
+234 [safety] Every step
+235 [safety] You confirm it in Nimiq Pay.
+236 [litepaper,safety] Dibs can
+237 [safety] Show your goal and your progress
+238 [safety] Prepare each step for you to approve in Nimiq Pay
+239 [safety] Check the shop's price and stock before you buy
+240 [safety] Show your gift card code in the app, on your phone
+241 [safety] Dibs can't
+242 [safety] Move your NIM without your approval
+243 [safety] Hold your NIM or a key to your wallet
+244 [safety] Pay twice for the same card
+245 [safety] Read end-to-end encrypted gift codes relayed through the Friends server
+246 [safety] How we keep it
+247 [safety] that way
+248 [safety] Read the code on GitHub
+249 [safety] Staked from your own address
+250 [safety] Your NIM is staked under your own address with the pool you choose from five checked options, Garuda Pool by default. Rewards are not guaranteed. Unstaking takes 12 to 24 hours.
+251 [safety] No account, no email, no password. Your goals and your name stay on your phone.
+252 [safety] Anonymous usage numbers are shared only if you tap Share stats, never with a name, a code or an address. You can switch it off or delete what was shared.
+253 [safety] Money steps are never retried for you
+254 [safety] Every notice says what happened, whether your NIM moved, and what to do next. Cancelling in Nimiq Pay is a normal path.
+255 [safety] The whole app is public under the MIT licence. Anyone can read what Dibs does with each step.
+256 [safety] Friends is
+257 [safety] your choice
+258 [safety] Friends is off until you turn it on. Your savings goals stay on your phone, and you control what your friends see.
+259 [safety] Who sees what
+260 [safety] Seven separate controls let you share nothing, share with friends, or share with everyone. Shared details are stored on the Friends server only while you choose to share them.
+261 [safety] Private gift codes
+262 [safety] Codes sent inside Dibs are locked on your phone for your friend's phone. The server cannot read them. They are deleted when opened or after 30 days.
+263 [safety] Optional leaderboards
+264 [safety] Join a friends or global board only if you want to. Deposits are checked on the chain without saving their transaction hash or your wallet address.
+265 [safety] Your data to remove
+266 [safety] The Friends server keeps the display name and gift information needed for optional features, including the message, banner and card value shown to the recipient. Remove Friends data from Profile > Friends > You.
+267 [safety] Your staking pool and next reward, shown in Savings. Rewards are not guaranteed.
+268 [safety] Gift cards by Bitrefill
+269 [safety] Every brand and card in Dibs comes from Bitrefill, a gift card shop that takes Lightning payments. When your goal is complete, Dibs buys the card from Bitrefill at its own price, paid in NIM over Lightning inside Nimiq Pay.
+270 [safety] Dibs is independent. It is not sponsored by, partnered with or endorsed by Bitrefill or any brand shown on this site.
+271 [litepaper] Litepaper | Dibs - Call dibs. Save up. It's yours.
+272 [litepaper] Francais
+273 [litepaper] Espanol
+274 [litepaper] V1.0
+275 [litepaper] Make the thing
+276 [litepaper] you want
+277 [litepaper] the goal.
+278 [litepaper] Saving is easier to believe in when it has a name, a picture and a finish line. Dibs turns things you want into goals you can actually reach, using NIM you control.
+279 [litepaper] Start reading
+280 [litepaper] Explore the source code
+281 [litepaper] Published 19 November 2026
+282 [litepaper] An educational product document, not a token offering.
+283 [litepaper] CLAIM THE GOAL
+284 [litepaper] KEEP THE CONTROL
+285 [litepaper] YOUR GOAL
+286 [litepaper] YOUR WALLET
+287 [litepaper] YOUR TIMELINE
+288 [litepaper] YOUR NIM
+289 [litepaper] IN THIS LITEPAPER
+290 [litepaper] Our story
+291 [litepaper] The problem
+292 [litepaper] The solution
+293 [litepaper] The journey
+294 [litepaper] 05
+295 [litepaper] Under the hood
+296 [litepaper] 06
+297 [litepaper] Costs & rewards
+298 [litepaper] 07
+299 [litepaper] Safety & privacy
+300 [litepaper] 08
+301 [litepaper] What's real today
+302 [litepaper] 09
+303 [litepaper] Where we go next
+304 [litepaper] 10
+305 [litepaper] A final thought
+306 [litepaper] 10 short chapters.
+307 [litepaper] One simple idea.
+308 [litepaper] Try Dibs
+309 [litepaper] CHAPTER 01
+310 [litepaper] INTRODUCTION
+311 [litepaper] 01 / 10
+312 [litepaper] It starts with
+313 [litepaper] "I want that."
+314 [litepaper] Dibs was built around a small change in perspective: instead of asking people to save for the sake of saving, start with something they already care about.
+315 [litepaper] Dibs began as a Nimiq Pay Mini App built around a small shift in motivation. The name comes from calling dibs: the moment you point to something and say, "I'm going for that." In Dibs, that decision becomes a goal, a plan and a visible path toward the finish line.
+316 [litepaper] We want cryptocurrency to feel useful in everyday life. Not an abstract balance to watch, but something you can put toward a gift card, a meal, a trip or an experience. Dibs does not issue a token, run a token sale or ask you to hand over your keys.
+317 [litepaper] Claim it. Save for it. Make it yours.
+318 [litepaper] The idea behind Dibs
+319 [litepaper] CHAPTER 02
+320 [litepaper] THE PROBLEM
+321 [litepaper] 02 / 10
+322 [litepaper] A balance isn't
+323 [litepaper] a reason.
+324 [litepaper] Traditional saving tools often start with a number. Motivation usually starts with a thing.
+325 [litepaper] WITHOUT A GOAL
+326 [litepaper] "Save more."
+327 [litepaper] Money sits behind an abstract total. Progress is easy to postpone or forget.
+328 [litepaper] WITH DIBS
+329 [litepaper] "That's what I'm saving for."
+330 [litepaper] A real reward, a target and visible steps make every deposit mean something.
+331 [litepaper] Meanwhile, cryptocurrency can be difficult for newcomers to use: wallet concepts, staking, conversion rates and checkout flows create friction. Dibs is designed to bring those pieces together into a single, understandable journey, without hiding what is happening.
+332 [litepaper] CHAPTER 03
+333 [litepaper] THE SOLUTION
+334 [litepaper] 03 / 10
+335 [litepaper] Put the purchase
+336 [litepaper] first.
+337 [litepaper] Dibs lets you choose a real product, set a savings goal in NIM, and work toward it at your own pace.
+338 [litepaper] Something real
+339 [litepaper] Pick a gift card from the catalog and decide what you're working toward.
+340 [litepaper] Progress you can see
+341 [litepaper] Follow the goal, add NIM whenever you choose and keep track of your momentum.
+342 [litepaper] Ownership throughout
+343 [litepaper] Staking is approved from your Nimiq Pay wallet, under your own address.
+344 [litepaper] Categories include electronics, gaming, streaming, travel, shopping and food. Dibs is deliberately not a gaming-only app: the goal is to make saving for everyday wants feel achievable, whatever the category.
+345 [litepaper] CHAPTER 04
+346 [litepaper] THE JOURNEY
+347 [litepaper] 04 / 10
+348 [litepaper] From "dibs" to
+349 [litepaper] "it's yours."
+350 [litepaper] Four moves, one network-mandated wait. Nothing is deducted automatically from your wallet.
+351 [litepaper] 01 / PICK
+352 [litepaper] Choose a card, a value and a target date. Dibs converts the shop's payment price into a NIM savings target at the current rate.
+353 [litepaper] Dibs interface / catalog
+354 [litepaper] 02 / SAVE
+355 [litepaper] Add NIM when you can.
+356 [litepaper] Approve deposits in Nimiq Pay. The NIM is delegated for staking from your own staker; Dibs does not take custody. You decide when and how much to add.
+357 [litepaper] Dibs interface / add NIM
+358 [litepaper] 03 / UNLOCK
+359 [litepaper] Reach 100%. Then unlock.
+360 [litepaper] Your progress ring makes the goal visible. When ready, deactivate staking and wait for Nimiq's release period, typically 12 to 24 hours. Rewards are variable.
+361 [litepaper] Dibs interface / ready
+362 [litepaper] 04 / OWN
+363 [litepaper] Pay for the card.
+364 [litepaper] After unstaking, Dibs prepares a Bitrefill order. You confirm payment through Nimiq Pay over Lightning; the gift card code is shown in the app when the order completes.
+365 [litepaper] Dibs interface / gift card
+366 [litepaper] These are captured app screens. Example balances, dates and card values in the screenshots are not public totals or transaction evidence.
+367 [litepaper] CHAPTER 05
+368 [litepaper] TECHNOLOGY
+369 [litepaper] 05 / 10
+370 [litepaper] Under the hood,
+371 [litepaper] without the mystery.
+372 [litepaper] Dibs is an application layer above established infrastructure. It does not require a Dibs token or a new blockchain.
+373 [litepaper] YOU
+374 [litepaper] Wallet, approvals, Lightning payments
+375 [litepaper] ↑ user confirms each transaction ↓
+376 [litepaper] APPLICATION
+377 [litepaper] Dibs Mini App
+378 [litepaper] Goals, progress, savings plan, purchase flow
+379 [litepaper] ON-CHAIN
+380 [litepaper] Nimiq staking
+381 [litepaper] Staker under the user's address; validator rewards
+382 [litepaper] COMMERCE
+383 [litepaper] Bitrefill
+384 [litepaper] Live catalog, invoice and gift card delivery
+385 [litepaper] Dibs' server handles catalog information and order coordination; it does not hold the user's NIM or private keys.
+386 [litepaper] The pieces and their jobs
+387 [litepaper] The native asset used for saving and purchases in the Dibs flow. Its market value can change.
+388 [litepaper] The user-controlled wallet experience that presents transaction approvals and supports Lightning payments.
+389 [litepaper] The network process that lets NIM participate in proof-of-stake. Choose among five checked staking pools on the first deposit, with Garuda Pool selected by default. Rewards are not guaranteed.
+390 [litepaper] The independent shop providing gift-card inventory, checkout invoices and redemption codes.
+391 [litepaper] Developers can inspect the public
+392 [litepaper] Dibs application repository
+393 [litepaper] and its
+394 [litepaper] security notes
+395 [litepaper] . The client and small service use different responsibilities: wallet approvals stay on the client side, while provider credentials stay on the server.
+396 [litepaper] CHAPTER 06
+397 [litepaper] ECONOMICS
+398 [litepaper] 06 / 10
+399 [litepaper] A clear target.
+400 [litepaper] Honest trade-offs.
+401 [litepaper] Dibs does not charge a subscription or an additional Dibs fee for a gift-card purchase. That does not mean every part of the experience is free.
+402 [litepaper] THE PRODUCT PRICE
+403 [litepaper] Set by the shop
+404 [litepaper] Bitrefill's payment price may be above the gift card's face value and can change.
+405 [litepaper] THE SAVINGS TARGET
+406 [litepaper] Shown in NIM
+407 [litepaper] Computed using a live rate and a cushion for price movement. The final amount is checked at checkout.
+408 [litepaper] STAKING REWARDS
+409 [litepaper] Variable, not promised
+410 [litepaper] Rewards depend on Nimiq staking and the validator. Pool fees affect the net amount received.
+411 [litepaper] Because NIM has a market price, a target that looks sufficient today might not cover the same purchase tomorrow. Rewards do not remove price risk. If you're short at checkout, you may need to add more NIM; any extra NIM remains yours.
+412 [litepaper] Not a guaranteed savings return.
+413 [litepaper] Dibs is not a bank account or an investment product. Cryptocurrency prices can fall, staking rewards can vary, network fees may apply, and access to staked funds is not instant.
+414 [litepaper] CHAPTER 07
+415 [litepaper] SAFETY & PRIVACY
+416 [litepaper] 07 / 10
+417 [litepaper] Your goal.
+418 [litepaper] Your keys.
+419 [litepaper] Our starting design choice is simple: Dibs should not need custody of your funds to help you save.
+420 [litepaper] Display your goals and savings progress
+421 [litepaper] Prepare actions for your approval in Nimiq Pay
+422 [litepaper] Request catalog prices and coordinate a gift-card order
+423 [litepaper] Dibs cannot
+424 [litepaper] Spend NIM without your wallet approval
+425 [litepaper] Access or store your wallet's private key
+426 [litepaper] Guarantee rewards, exchange rates or product stock
+427 [litepaper] Goal details are stored on the device in the current product. Anonymous usage statistics are optional: users choose whether to share them and can turn sharing off or delete shared records. The service verifies reported deposit transactions against the blockchain before counting them in public totals. A website host may still process routine technical request data.
+428 [litepaper] Self-custody is not risk-free. Users must protect their wallet credentials and carefully check amounts and destinations in approval dialogs. There can also be validator, network, software, provider, stock and exchange-rate risks. Dibs does not control Bitrefill's fulfillment, its terms or the supported gift-card brands.
+429 [litepaper] Read the full
+430 [litepaper] safety explanation
+431 [litepaper] privacy notice
+432 [litepaper] and
+433 [litepaper] terms
+434 [litepaper] . Security concerns can be reported through a
+435 [litepaper] private GitHub security advisory
+436 [litepaper] CHAPTER 08
+437 [litepaper] REAL TODAY
+438 [litepaper] 08 / 10
+439 [litepaper] Not a concept deck.
+440 [litepaper] A working app.
+441 [litepaper] Dibs v{{LIVE_VERSION}} is a working Nimiq Pay Mini App. The goal-to-gift-card flow has been tested using real mainnet transactions.
+442 [litepaper] OCT 2026
+443 [about,litepaper] First version on testnet
+444 [litepaper] The original savings idea becomes an application people can test.
+445 [litepaper] 4 NOV 2026
+446 [litepaper] First gift card purchased
+447 [litepaper] A Steam gift card purchased with NIM through Nimiq Pay over Lightning.
+448 [litepaper] 6-7 NOV 2026
+449 [litepaper] Full unstaking measured
+450 [litepaper] A real mainnet unlock took 12 hours and 4 minutes.
+451 [litepaper] 10 NOV 2026
+452 [litepaper] Mainnet product launch
+453 [litepaper] Complete claim-to-gift-card flow available with real NIM.
+454 [litepaper] OPEN FOR INSPECTION
+455 [litepaper] We publish the app's source code, a transparent release history and examples of transactions. Don't take an unverifiable promise when you can check the work.
+456 [litepaper] Read the release history
+457 [litepaper] See transaction examples
+458 [litepaper] CHAPTER 09
+459 [litepaper] WHAT'S NEXT
+460 [litepaper] 09 / 10
+461 [litepaper] The product will grow.
+462 [litepaper] The principle won't change.
+463 [litepaper] Now available: optional Friends, wishlists, gift messages and banners, private in-app gift codes, and opt-in leaderboards. Sharing controls default to off. Codes sent inside Dibs are end-to-end encrypted, and the server cannot read them.
+464 [litepaper] The two planned additions below are directional. Plans can change; there are no promised dates or returns.
+465 [litepaper] AVAILABLE
+466 [litepaper] Save for a real gift card
+467 [litepaper] Create goals, approve NIM staking deposits, choose a pool, see progress, unlock and complete purchases. Friends, wishlists, private gifts and leaderboards are optional.
+468 [litepaper] NEXT
+469 [litepaper] A community goal, counting goals reached without names or rankings.
+470 [litepaper] LATER
+471 [litepaper] Planned after the competition. Plans can change.
+472 [litepaper] Availability and release order may change as we test, learn and respond to the community. For the most current version, consult
+473 [litepaper,updates] What's new
+474 [litepaper] , rather than treating a publication-date roadmap as live product documentation.
+475 [litepaper] CHAPTER 10
+476 [litepaper] THE VISION
+477 [litepaper] 10 / 10
+478 [litepaper] One small goal can change
+479 [litepaper] how saving feels.
+480 [litepaper] We believe saving should be less about watching a number and more about moving toward something meaningful to you.
+481 [litepaper] Dibs is still young. We will keep improving it in public, document what works, explain what doesn't, and design around the person using it. The promise is not that every goal becomes effortless. It's that every goal can become clearer.
+482 [litepaper] CALL DIBS.
+483 [litepaper] SAVE UP.
+484 [litepaper] IT'S YOURS.
+485 [litepaper] Open Dibs in Nimiq Pay
+486 [litepaper] Follow the build
+487 [litepaper] Dibs is independent and is not sponsored by, partnered with or endorsed by Bitrefill or the brands displayed in the catalog. Brand names and logos belong to their owners. This document is informational and not financial advice, an investment solicitation or a promise of returns.
+488 [litepaper] Sources & further reading
+489 [litepaper] Readers can check the product, technical design and underlying infrastructure at the source.
+490 [litepaper] Dibs open-source code
+491 [litepaper] Dibs security notes
+492 [litepaper] Nimiq Litepaper
+493 [litepaper] Litepaper version 1.0 | Published 19 November 2026 | Product details may change. Last reviewed 22 November 2026.
+494 [faq] FAQ · Dibs
+495 [faq] Questions,
+496 [faq] answered
+497 [faq] Short answers about saving, waiting and buying with Dibs.
+498 [faq] Search the questions
+499 [faq] Saving
+500 [faq] Waiting and buying
+501 [faq] Changes and your data
+502 [faq] Friends and gifts
+503 [faq] Where is my NIM staked?
+504 [faq] You choose from five checked staking pools on your first deposit. Garuda Pool is selected by default. Each pool shows its fee and how often it pays. Your NIM stays under your own address, and rewards are not guaranteed.
+505 [faq] Why does the first deposit need 100 NIM?
+506 [faq] Nimiq requires 100 NIM to open a stake. After that first deposit you can add any amount, any week.
+507 [faq] What if the price of NIM changes?
+508 [faq] Your card has a price in its own currency. Dibs updates your goal in NIM at the live rate. The price is confirmed at checkout, so you might need more or less NIM.
+509 [faq] No. Dibs adds no fee. You pay the shop price confirmed at checkout. The staking pool keeps the fee shown for its rewards. Rewards are not guaranteed.
+510 [faq] Which version of a card should I pick?
+511 [faq] Choose the version that works with your account. Some cards work in one place only, and some are for in-store use. Check the shop details before you call dibs.
+512 [faq] What if the card is gone or a purchase fails?
+513 [faq] Dibs checks the shop before you buy. If a card is out of stock or its price changed, you can change the card, keep the NIM for another goal, or take it back. If a payment does not go through, your NIM stays in your wallet, and Dibs never pays twice.
+514 [faq] What does Dibs collect?
+515 [faq] By default, goals stay on your phone and anonymous usage stats are off. If you enable Friends, its server keeps your display name and what you choose to share. Gift records and encrypted codes are handled as described in our Privacy page.
+516 [faq] No question matches
+517 [faq] Try another word, or write to us.
+518 [faq] Still
+519 [faq] stuck?
+520 [faq] Write to us and we will get back to you.
+521 [faq] Can I choose where my NIM is staked?
+522 [faq] Yes. On your first deposit, choose among five checked pools. Dibs shows each pool's fee and reward frequency. Garuda Pool is the default. Rewards are not guaranteed.
+523 [faq] Can I send a gift to a friend?
+524 [faq] Yes. With optional Friends enabled, you can call dibs on a friend's shared wish or gift one of your own goals. Add a message and banner; your friend sees a full-screen reveal in Dibs.
+525 [faq] Can Dibs see the gift code I send?
+526 [faq] No. A code sent inside Dibs is end-to-end encrypted on your phone for your friend's phone. The Friends server only relays the locked code. It is deleted once opened or after 30 days.
+527 [faq] Do I have to join Friends or the leaderboards?
+528 [faq] No. Both are optional. Friends is off until you turn it on, and joining a leaderboard is a separate choice. Deposits counted toward leaderboards are checked on the chain without storing the hash or wallet address.
+529 [faq] What does a friend see about me?
+530 [faq] Only what you choose to share. Seven controls let you set each detail to off, friends or everyone. You can check your profile with View as and remove your Friends data in Profile > Friends > You.
+531 [how] How it works · Dibs
+532 [how] How Dibs
+533 [how] works
+534 [how] Four moves, one wait. Here is what happens at each step, and what happens to your NIM along the way.
+535 [how] Pick a gift card, its value and a date. Choose from {{BRAND_COUNT}} brands.
+536 [how] Approve each deposit in Nimiq Pay. Your first deposit lets you choose from five checked staking pools; Garuda Pool is the default. The Add NIM screen previews where your deposit takes the goal.
+537 [how] Your staking pool adds rewards about every 12 hours, minus its fee. Rewards are not guaranteed. Savings shows the next reward time.
+538 [how] At 100%, unlock your NIM. The network releases it after 12 to 24 hours. Dibs estimates when it comes back. Then pay with one tap over Lightning and receive the card in Dibs.
+539 [how] What happens to
+540 [how] your NIM
+541 [how] Follow your NIM
+542 [how] From your first deposit to your card, the NIM stays in your own account until the moment you pay.
+543 [how] Always under your own address
+544 [how] In your wallet
+545 [how] Your NIM sits in Nimiq Pay, under your own address.
+546 [how] Staked
+547 [how] On your first deposit, choose among five checked pools. Garuda Pool is the default. You approve each staking transaction.
+548 [how] Earning
+549 [how] Your pool adds rewards about every 12 hours, minus its stated fee. Rewards are not guaranteed.
+550 [how] Unlocked
+551 [how] At 100%, you stop staking. The network releases it 12 to 24 hours later.
+552 [how] Paid
+553 [how] One tap pays the shop over Lightning. The code arrives in the app.
+554 [how] A goal, in
+555 [how] weekly steps
+556 [how] Dibs converts the shop price into a NIM goal at the live rate, adds a 10% cushion for price changes, and divides the target into weekly steps.
+557 [how] Nothing is automatic. Skip a week and catch up the next one. The first deposit needs 100 NIM to open a stake, then any amount works.
+558 [how] Example: a gift card goal
+559 [how] Card value
+560 [how] Shown at checkout in NIM (card currency in brackets)
+561 [how] Shop price
+562 [how] Cushion for NIM moves
+563 [how] +10%
+564 [how] Your target
+565 [how] in NIM, at the live rate
+566 [how] W1
+567 [how] W2
+568 [how] W3
+569 [how] W4
+570 [how] W5
+571 [how] W6
+572 [how] W7
+573 [how] W8
+574 [how] W9
+575 [how] Skipped week
+576 [how] Caught up
+577 [how] One wait, then
+578 [how] one tap
+579 [how] When you unlock, the Nimiq network releases staked NIM after 12 to 24 hours. That is a network rule, not a Dibs one. Dibs shows you a clock with the real release time.
+580 [how] Once it is back, getting the card is one tap.
+581 [how] Our own unlock on mainnet
+582 [how] The window is 12 to 24 hours. Ours took the short end.
+583 [how] What
+584 [how] it costs
+585 [how] Dibs adds no fee. You pay the shop's own price for the card, which can be a little above its face value. The exact price is confirmed at checkout.
+586 [how] Illustrative checkout breakdown
+587 [how] Gift card, shop price
+588 [how] Live NIM price (card currency in brackets)
+589 [how] Dibs fee
+590 [how] 0 NIM
+591 [how] Staking pool
+592 [how] A share of any rewards earned
+593 [how] No subscription and no fee from Dibs.
+594 [how] Changed your mind?
+595 [how] Change the card
+596 [how] Your NIM stays on the goal.
+597 [how] Move it
+598 [how] Put the NIM toward another goal.
+599 [how] Take it back
+600 [how] Back to your wallet. It is your NIM.
+601 [how] More answers in the FAQ
+602 [how] See it
+603 [how] in the app
+604 [how] Actual Dibs v1.7.7 screens.
+605 [how] Pick the card
+606 [how] Set your plan
+607 [how] See the release time
+608 [how] Make it yours
+609 [how] Gifts,
+610 [how] your way
+611 [how] Friends and gifting are optional. Your goals and NIM remain under your control.
+612 [how] Save for a friend's wish
+613 [how] See a friend's shared wishlist, call dibs on a card and save toward it in your own wallet. They are not told until you send the gift.
+614 [how] Gift one of your goals
+615 [how] Choose a goal you have already saved for and give its card to a friend. Add a personal message and a banner.
+616 [how] A reveal just for them
+617 [how] The gift opens full screen in Dibs. Your friend can choose Say thanks. The card's value is shown to its recipient.
+618 [how] A code only they can open
+619 [how] Send the card code inside Dibs with end-to-end encryption. Only your friend's phone can open it; Dibs cannot read it. See Delivered and Opened, with unread codes deleted after 30 days.
+620 [how] Ready to
+621 [how] pick something?
+622 [how] See all {{BRAND_COUNT}} brands
+623 [terms] Terms · Dibs
+624 [privacy,terms] Last updated: 22 November 2026
+625 [terms] Short version: this site describes Dibs. Your NIM stays yours, and the card comes from the shop.
+626 [privacy,terms] This website
+627 [terms] This website describes Dibs and shows public totals from a live server and release notes from the public app repository. It sells nothing and holds no NIM.
+628 [terms] What Dibs does
+629 [terms] You choose a gift card, approve NIM deposits from your own Nimiq Pay wallet and delegate them to the pool you choose. At 100%, you unlock, wait for the network release and pay for your card over Lightning.
+630 [terms] Your NIM stays in your own wallet. Choose among five checked pools when you first deposit, Garuda Pool by default. Staking rewards are not guaranteed. Releasing staked NIM takes 12 to 24 hours.
+631 [terms] Prices
+632 [terms] The app displays the price in NIM and other currency equivalents in brackets. The final shop price and exchange rate are confirmed at checkout and can change.
+633 [terms] Gift cards
+634 [terms] Cards are sold and delivered by Bitrefill under its own terms. Dibs adds no fee and is independent, not sponsored, partnered with or endorsed by Bitrefill or the brands in the catalog. Gift cards have usage restrictions that you should check before buying.
+635 [terms] Friends and gifting
+636 [terms] Friends, sharing, wishlists and leaderboards are optional. You choose what to show to friends or everyone. A card sent as a gift is intended for its recipient. Gift records are kept to deliver and display them; codes sent inside Dibs are end-to-end encrypted and deleted when opened or after 30 days.
+637 [terms] As is
+638 [terms] Dibs is open source (MIT) and provided as is, without warranty. Use it at your own risk. The app's full terms are in More > Legal > Terms.
+639 [terms] Changes
+640 [terms] When these terms change, the date above changes too.
+641 [privacy] Privacy · Dibs
+642 [privacy] Dibs keeps your goals on your phone. Friends, leaderboards and anonymous usage stats are optional. Here is what stays on the device, what leaves it, and why.
+643 [privacy] No cookies, advertising, analytics or trackers. The images, scripts and fonts are served from this website. The public figures on Home are fetched through
+644 [privacy] /api/stats
+645 [privacy] from the Dibs stats server. Release history is read through
+646 [privacy] /api/updates
+647 [privacy] from the public app files on GitHub. No personal details are requested for either request.
+648 [privacy] Hosting
+649 [privacy] Vercel hosts this website and can receive routine technical data such as an IP address when your browser requests a page. Dibs does not use that data for advertising or analytics.
+650 [privacy] Links to other sites
+651 [privacy] You can choose to open the app, a demonstration video, the code repository, the chain explorer, the public stats page or our X account. Those services have their own privacy practices. Nothing from them loads just because you read this site.
+652 [privacy] Copying the app link
+653 [privacy] The Copy button puts the Dibs app address in your device's clipboard. It does not send a request.
+654 [privacy] If you write to us
+655 [privacy] Emailing
+656 [privacy] shares your email address and message with us. We use them to answer you.
+657 [privacy] In the app: on your phone
+658 [privacy] Your goals, settings, badges, XP and quests are stored on your phone. Your display name also stays on your phone unless you choose to enable Friends. Dibs does not send your name with usage statistics or purchases.
+659 [privacy] Dibs reads your NIM address and balance through Nimiq Pay. You approve deposits, staking steps and payments in Nimiq Pay. Dibs never holds your NIM or private keys.
+660 [privacy] Buying a gift card
+661 [privacy] Our server asks Bitrefill for a payment invoice and passes the email you type to Bitrefill for a receipt. Our server keeps the order number and a random access key, not your email address. Your code, PIN or link reaches your phone and is not stored on our server.
+662 [privacy] Usage statistics: only if you agree
+663 [privacy] If you tap Share stats, Dibs counts goals created, NIM deposited through Dibs and cards bought, plus total NIM staked and any rewards, anonymously with a random ID. Transaction IDs are checked against the chain once and then deleted. Never your name, email or codes. Turn sharing off or delete shared stats in Settings.
+664 [privacy] Friends: only if you turn it on
+665 [privacy] Friends keeps your display name, a random ID and friend code on a separate server. Your wallet signs once to link the profile; the server keeps a scrambled fingerprint of the wallet, not the address. You choose what to share, including level and rank, badges, cards bought, active goals and wishlist. You may also choose to share your Nimiq avatar, NIM saved and earned, and the value of goals or cards. Each control starts off and can be set to friends or everyone. Turning a setting off removes that detail from the server. Your wallet balance, wallet address and email are not shared through Friends.
+666 [privacy] Gift records and locked codes
+667 [privacy] Calling dibs on a friend's wish records which wish you chose and that you marked it sent, not the value. Gift messages, banners and card values are shown only to their recipient. Sending one of your own goals records who sent it, who received it and the card's brand.
+668 [privacy] A gift card code sent within Dibs is end-to-end encrypted on the sending phone so only the recipient's phone can open it. The Friends server relays it but cannot read it. Encrypted codes are deleted after opening or after 30 days.
+669 [privacy] Leaderboards: only if you join
+670 [privacy] Friends and global leaderboards are opt-in. If you join, the board uses your chosen profile name, level and checked XP. For deposit-related progress, Dibs checks a deposit on the Nimiq chain without storing its transaction hash or your wallet address. You can remove your Friends data in Profile > Friends > You.
+671 [privacy] Other services
+672 [privacy] Bitrefill sells and delivers gift cards under its own privacy policy. Nimiq's validators service loads the list of staking pools and may see technical data such as your IP address. Vercel and Render host the app and server, and the app uses Google Fonts. Those services may also receive technical data. This website serves its own fonts locally.
+673 [privacy] NIM rewards claimed outside the app
+674 [privacy] If you claim a promotional NIM reward by email, you may choose to send your Nimiq address so it can be paid. The app does not send that address for you. It is used only for that payment.
+675 [privacy] What we never do
+676 [privacy] No ads, no trackers, no data sales. Read the app's matching privacy text under More > Legal > Privacy.
+677 [about] About · Dibs
+678 [about] Why we built
+679 [about] Most savings apps end with a balance. Dibs ends with the thing you wanted.
+680 [about] Built for the Nimiq Mini Apps Competition · Cycle III · Save
+681 [about] Most savings apps end with
+682 [about] Savings balance
+683 [about] 1,284.50
+684 [about] A number that keeps growing, with nothing at the end of it.
+685 [about] vs
+686 [about] Dibs ends with
+687 [about] Steam gift card
+688 [about] •••• •••• ••••
+689 [about] The thing you called dibs on, ready to use.
+690 [about] Saving is easier when you can see what it is for. So Dibs starts with the thing itself: a game, a trip, a coffee run. You call dibs on it, save NIM toward it, and staking may earn rewards while you wait. Rewards are not guaranteed. When the goal is reached, one tap turns it into the card.
+691 [about] The story
+692 [about] so far
+693 [about] Late Oct 2026
+694 [about] It started as Layaway. The name became Dibs before launch.
+695 [about] A Steam gift card paid from Nimiq Pay over Lightning. The code came back in about 8 seconds.
+696 [about] 6 to 7 Nov 2026
+697 [about] A full unlock on mainnet
+698 [about] Stake deactivated, then released 12 h 4 min later. The wait the app promises, measured.
+699 [about] Dibs 1.0 goes live
+700 [about] The whole path works with real NIM on Nimiq mainnet.
+701 [about] 13 Nov 2026
+702 [about] Dibs 1.1
+703 [about] The catalog grew, Savings, History and Profile were redesigned, with a safer unlock.
+704 [about] 14 Nov 2026
+705 [about] Dibs 1.2
+706 [about] Daily quests: three small things to do each day, a Day done stamp and new badges.
+707 [about] 20 Nov 2026
+708 [about] Dibs 1.3 and 1.4
+709 [about] Insights, shareable recaps and appearance options, followed by optional Friends, wishlists, privacy controls and gifts.
+710 [about] 21 Nov 2026
+711 [about] Dibs 1.5 and 1.6
+712 [about] A pool choice on the first deposit, Electronics in the catalog and a live-rate NIM converter.
+713 [about] 21 to 22 Nov 2026
+714 [about] Dibs 1.7
+715 [about] Optional leaderboards, personal gift messages and banners, private in-app card codes and full-screen gift reveals.
+716 [about] Today
+717 [about] Dibs v{{LIVE_VERSION}} is live
+718 [about] Profile now has View as, frames catch the light, and there is a new accent at level 20.
+719 [about] See every release
+720 [about] What we
+721 [about] hold to
+722 [about] No custody
+723 [about] Your NIM never leaves your own wallet. No smart contract, no token of our own.
+724 [about] Honest waiting
+725 [about] The 12 to 24 hour unlock is shown as it is, with the real release time and the transaction behind each step.
+726 [about] Privacy by default
+727 [about] Goals stay on your phone. Your name is shared only if you enable optional Friends. No ads or trackers. Stats only if you say yes.
+728 [about] Open by default
+729 [about] MIT licence, public code, and a public page with the numbers.
+730 [about] Say
+731 [about] hello
+732 [about] Questions, ideas or press: write to us. We read everything.
+733 [about] Email
+734 [about] khadijachou/dibs
+735 [updates] What's new · Dibs
+736 [updates] in Dibs
+737 [updates] Dibs improves almost every day. Every release is listed here, straight from the app.
+738 [updates] v{{LIVE_VERSION}}
+739 [updates] Live now
+740 [updates] {{RELEASE_COUNT}}
+741 [updates] Releases
+742 [updates] {{DAYS_SINCE_LAUNCH}}
+743 [updates] Days since launch
+744 [updates] {{BIG_RELEASE_COUNT}}
+745 [updates] Big releases
+746 [updates] Every
+747 [updates] release
+748 [catalog,updates] All
+749 [updates] Coming
+750 [updates] next
+751 [updates] Planned for after the competition.
+752 [updates] Plans can change. Every release also shows in the app, under More > What's new.
+753 [catalog] Catalog · Dibs
+754 [catalog] {{BRAND_COUNT}} brands
+755 [catalog] {{CATEGORY_COUNT}} categories: Electronics, games, streaming, travel, shopping and food. Each card comes in the version for your account.
+756 [catalog] New: Electronics. {{ELECTRONICS_COUNT}} brands added in v1.6.
+757 [catalog] Electronics in the Dibs app.
+758 [catalog] Some cards work in one place only, and some are for in-store use. Check the shop details and pick the version for your account before you call dibs.
+759 [catalog] Search a brand
+760 [catalog] Showing {{BRAND_COUNT}} of {{BRAND_COUNT}} brands
+761 [catalog] No brand matches. Try another word or another filter.

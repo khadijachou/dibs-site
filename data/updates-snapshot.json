@@ -1,0 +1,2354 @@
+{
+  "en": {
+    "live": "1.7.7",
+    "lastDate": "2026-11-22",
+    "firstDate": "2026-11-10",
+    "releases": 62,
+    "big": [
+      {
+        "v": "1.6",
+        "date": "2026-11-21",
+        "key": "news_52",
+        "big": true,
+        "title": "Electronics, numbers about NIM and your choice of pool.",
+        "items": [
+          "New category: Electronics, with 7 brands."
+        ]
+      },
+      {
+        "v": "1.4",
+        "date": "2026-11-20",
+        "key": "news_44",
+        "big": true,
+        "title": "Friends, a wishlist, and you choose what they see.",
+        "items": [
+          "Friends: add friends with a code in Profile > Friends. Off until you turn it on.",
+          "You choose who sees what, item by item. Nothing is shared by default.",
+          "A wishlist: tap the heart on a card in the catalog.",
+          "No email, no password: your profile is linked to your wallet and comes back on a new phone."
+        ]
+      },
+      {
+        "v": "1.3",
+        "date": "2026-11-20",
+        "key": "news_39",
+        "big": true,
+        "title": "See your saving: Insights, a weekly recap and your month to share.",
+        "items": [
+          "See your saving: Savings > Insights shows your weeks, your days and your goals side by side.",
+          "A recap every week: last week’s saving, on Home.",
+          "Share your month: an image of your month, +30 XP once a month.",
+          "Each goal shows its saving week by week.",
+          "Personal bests, two new badges (Best week ever, 8 weeks running) and a new daily quest."
+        ]
+      },
+      {
+        "v": "1.2",
+        "date": "2026-11-14",
+        "key": "news_27",
+        "big": true,
+        "title": "Daily quests are here",
+        "items": [
+          "Daily quests: three small things to do each day, in Profile > Quests. Tap one to go do it.",
+          "Finish all three for a Day done stamp and bonus XP.",
+          "Two new weekly quests and three new badges."
+        ]
+      },
+      {
+        "v": "1.1.9",
+        "date": "2026-11-13",
+        "key": "news_22",
+        "big": true,
+        "title": "An important fix for unlocking",
+        "items": [
+          "Fixed: after a failed payment, a goal that had finished unlocking could offer to unlock again. Dibs now refuses a second unlock and keeps your other goals’ NIM staked."
+        ]
+      },
+      {
+        "v": "1.1",
+        "date": "2026-11-13",
+        "key": "news_13",
+        "big": true,
+        "title": "5 new brands",
+        "items": [
+          "New brands: Bolt, Twitch, H&M, Nike, Burger King."
+        ]
+      }
+    ],
+    "all": [
+      {
+        "v": "1.7.7",
+        "date": "2026-11-22",
+        "key": "news_63",
+        "big": false,
+        "title": null,
+        "items": [
+          "Profile has a View as button to see what friends see.",
+          "Avatar frames catch the light.",
+          "New accent at level 20: Citrus.",
+          "The catalog cards are back to their brand colours."
+        ]
+      },
+      {
+        "v": "1.7.6",
+        "date": "2026-11-22",
+        "key": "news_62",
+        "big": false,
+        "title": null,
+        "items": [
+          "A gift now shows its value to your friend.",
+          "Profile counts the gifts you received and sent."
+        ]
+      },
+      {
+        "v": "1.7.5",
+        "date": "2026-11-22",
+        "key": "news_61",
+        "big": false,
+        "title": null,
+        "items": [
+          "The catalog cards show the brands' photos."
+        ]
+      },
+      {
+        "v": "1.7.4",
+        "date": "2026-11-22",
+        "key": "news_60",
+        "big": false,
+        "title": null,
+        "items": [
+          "Gift any card you're saving for to a friend, right from the goal's menu. They're not told until you send it."
+        ]
+      },
+      {
+        "v": "1.7.3",
+        "date": "2026-11-21",
+        "key": "news_59",
+        "big": false,
+        "title": null,
+        "items": [
+          "Send a gift card code to a friend inside Dibs, locked so only their phone can open it. You see when it's delivered and opened."
+        ]
+      },
+      {
+        "v": "1.7.2",
+        "date": "2026-11-21",
+        "key": "news_58",
+        "big": false,
+        "title": null,
+        "items": [
+          "When a friend sends you a gift, open it in Dibs and say thanks.",
+          "Seven new gift banners to unlock as you level up."
+        ]
+      },
+      {
+        "v": "1.7.1",
+        "date": "2026-11-21",
+        "key": "news_57",
+        "big": false,
+        "title": null,
+        "items": [
+          "Gifts can carry a message and a banner, seen only by your friend.",
+          "Profile is reorganised: your level next to your name, settings grouped at the bottom."
+        ]
+      },
+      {
+        "v": "1.7",
+        "date": "2026-11-21",
+        "key": "news_56",
+        "big": false,
+        "title": null,
+        "items": [
+          "Leaderboards: see where your XP ranks among friends or everyone, only if you join."
+        ]
+      },
+      {
+        "v": "1.6.3",
+        "date": "2026-11-21",
+        "key": "news_55",
+        "big": false,
+        "title": null,
+        "items": [
+          "Adding NIM with an empty wallet says so plainly.",
+          "The dark and light switch moved to More > Preferences > Appearance.",
+          "Going back returns you to where you were on the page.",
+          "Coral now colours your name, and avatar frames sit around the avatar."
+        ]
+      },
+      {
+        "v": "1.6.2",
+        "date": "2026-11-21",
+        "key": "news_54",
+        "big": false,
+        "title": null,
+        "items": [
+          "A NIM converter on Savings, at the live rate.",
+          "Electronics logos are easier to see.",
+          "The update sheet is back."
+        ]
+      },
+      {
+        "v": "1.6.1",
+        "date": "2026-11-21",
+        "key": "news_53",
+        "big": false,
+        "title": null,
+        "items": [
+          "New pictures on Home for the Electronics brands and Bolt."
+        ]
+      },
+      {
+        "v": "1.6",
+        "date": "2026-11-21",
+        "key": "news_52",
+        "big": true,
+        "title": "Electronics, numbers about NIM and your choice of pool.",
+        "items": [
+          "New category: Electronics, with 7 brands."
+        ]
+      },
+      {
+        "v": "1.5.2",
+        "date": "2026-11-21",
+        "key": "news_51",
+        "big": false,
+        "title": null,
+        "items": [
+          "Adding NIM to a goal that is already full says how much more than needed it holds.",
+          "Unlocking shows about when your NIM is released, before you start.",
+          "Clearer support details."
+        ]
+      },
+      {
+        "v": "1.5.1",
+        "date": "2026-11-21",
+        "key": "news_50",
+        "big": false,
+        "title": null,
+        "items": [
+          "The New goal button on Home has a fresh look."
+        ]
+      },
+      {
+        "v": "1.5",
+        "date": "2026-11-21",
+        "key": "news_49",
+        "big": false,
+        "title": null,
+        "items": [
+          "Choose your staking pool on your first deposit: five pools Dibs has checked, each with its fee and how often it pays.",
+          "Garuda Pool stays the default. Unlocking takes the same time with every pool.",
+          "Savings names your own pool."
+        ]
+      },
+      {
+        "v": "1.4.4",
+        "date": "2026-11-21",
+        "key": "news_48",
+        "big": false,
+        "title": null,
+        "items": [
+          "Ranks now unlock looks: an accent for your name, a frame for your avatar and a style for your goal rings.",
+          "Choose yours in Profile > My look. Looks only: no XP, nothing else changes.",
+          "Friends see your frame and accent only if you share your level and rank."
+        ]
+      },
+      {
+        "v": "1.4.3",
+        "date": "2026-11-21",
+        "key": "news_47",
+        "big": false,
+        "title": null,
+        "items": [
+          "Call dibs on a friend's wish: save for a card on their wishlist in your own account. It stays a surprise.",
+          "When you buy it, send the code yourself with your phone's share sheet. Dibs never stores or sends it.",
+          "They can say thanks from their wishlist."
+        ]
+      },
+      {
+        "v": "1.4.2",
+        "date": "2026-11-21",
+        "key": "news_46",
+        "big": false,
+        "title": null,
+        "items": [
+          "Share more with friends, only if you choose: your Nimiq avatar, what you saved and earned, and the value of your goals and cards.",
+          "Dibs asks once before the first amount is shared.",
+          "Friends who do not share their avatar get a Dibs avatar with their initial."
+        ]
+      },
+      {
+        "v": "1.4.1",
+        "date": "2026-11-21",
+        "key": "news_45",
+        "big": false,
+        "title": null,
+        "items": [
+          "Invite friends with your code: the message now explains where to type it.",
+          "Who sees what has its own row in Friends, Profile and More > Preferences.",
+          "Your Nimiq avatar on your own Friends screens, and readable name fields.",
+          "The 1.4 update sheet now shows to everyone who missed it."
+        ]
+      },
+      {
+        "v": "1.4",
+        "date": "2026-11-20",
+        "key": "news_44",
+        "big": true,
+        "title": "Friends, a wishlist, and you choose what they see.",
+        "items": [
+          "Friends: add friends with a code in Profile > Friends. Off until you turn it on.",
+          "You choose who sees what, item by item. Nothing is shared by default.",
+          "A wishlist: tap the heart on a card in the catalog.",
+          "No email, no password: your profile is linked to your wallet and comes back on a new phone."
+        ]
+      },
+      {
+        "v": "1.3.4",
+        "date": "2026-11-20",
+        "key": "news_43",
+        "big": false,
+        "title": null,
+        "items": [
+          "Clearer words: wallet, pool, onchain. Shorter notes on Savings and Unlock."
+        ]
+      },
+      {
+        "v": "1.3.3",
+        "date": "2026-11-20",
+        "key": "news_42",
+        "big": false,
+        "title": null,
+        "items": [
+          "The loading screen shows real gift cards and the app's version."
+        ]
+      },
+      {
+        "v": "1.3.2",
+        "date": "2026-11-20",
+        "key": "news_41",
+        "big": false,
+        "title": null,
+        "items": [
+          "Adding NIM shows where the deposit takes your goal: a bar and the percent before and after.",
+          "Unlocking shows what happens and about when your NIM is back in your wallet."
+        ]
+      },
+      {
+        "v": "1.3.1",
+        "date": "2026-11-20",
+        "key": "news_40",
+        "big": false,
+        "title": null,
+        "items": [
+          "Appearance has a new choice, Auto, which follows your phone’s setting. More also has a button to switch between dark and light.",
+          "Savings shows the time of your next reward.",
+          "Shortcuts: tap your balance to open Savings, tap a goal’s ring to open it, tap the staking address to copy it.",
+          "Messages at the bottom of the screen can be closed with a tap."
+        ]
+      },
+      {
+        "v": "1.3",
+        "date": "2026-11-20",
+        "key": "news_39",
+        "big": true,
+        "title": "See your saving: Insights, a weekly recap and your month to share.",
+        "items": [
+          "See your saving: Savings > Insights shows your weeks, your days and your goals side by side.",
+          "A recap every week: last week’s saving, on Home.",
+          "Share your month: an image of your month, +30 XP once a month.",
+          "Each goal shows its saving week by week.",
+          "Personal bests, two new badges (Best week ever, 8 weeks running) and a new daily quest."
+        ]
+      },
+      {
+        "v": "1.2.11",
+        "date": "2026-11-15",
+        "key": "news_38",
+        "big": false,
+        "title": null,
+        "items": [
+          "When Savings says some NIM of your goals isn't staked, there is now a second answer: keep it in your wallet, and choose the goal that stops counting it. Nothing is sent."
+        ]
+      },
+      {
+        "v": "1.2.10",
+        "date": "2026-11-15",
+        "key": "news_37",
+        "big": false,
+        "title": null,
+        "items": [
+          "When Savings says some NIM of your goals isn't staked, one tap now puts it back: your wallet stakes the missing amount again, with one approval in Nimiq Pay. Your goals do not change."
+        ]
+      },
+      {
+        "v": "1.2.9",
+        "date": "2026-11-15",
+        "key": "news_36",
+        "big": false,
+        "title": null,
+        "items": [
+          "Savings now says when some NIM of your goals isn't staked, and how much. It's safe in your wallet; More > FAQ explains why.",
+          "Behind the scenes: your goals are now saved in one place on your phone."
+        ]
+      },
+      {
+        "v": "1.2.8",
+        "date": "2026-11-15",
+        "key": "news_35",
+        "big": false,
+        "title": null,
+        "items": [
+          "More > Need help? has a new \"Copy diagnostics\" button: it shows what Dibs sees on your phone, so support can help faster. It reads only, sends nothing, and never includes your email or codes."
+        ]
+      },
+      {
+        "v": "1.2.7",
+        "date": "2026-11-15",
+        "key": "news_34",
+        "big": false,
+        "title": null,
+        "items": [
+          "Behind the scenes: Dibs can now show a short summary the first time you open a big update. You will see it with the next one."
+        ]
+      },
+      {
+        "v": "1.2.6",
+        "date": "2026-11-15",
+        "key": "news_33",
+        "big": false,
+        "title": null,
+        "items": [
+          "A short \"Did you know?\" now shows while you wait: under the clock of an unlocking goal, and on the code screen while the shop delivers your code.",
+          "47 facts about Dibs, Nimiq and the brands in the catalog. A new one each time."
+        ]
+      },
+      {
+        "v": "1.2.5",
+        "date": "2026-11-15",
+        "key": "news_32",
+        "big": false,
+        "title": null,
+        "items": [
+          "The pictures on Home are new: fresh backgrounds for the 15 brands that had one.",
+          "11 more brands get their own: Nintendo eShop, Google Play, Roblox, Fortnite, Valorant, Riot Access, Discord Nitro, H&M, Nike, Twitch and Burger King."
+        ]
+      },
+      {
+        "v": "1.2.4",
+        "date": "2026-11-14",
+        "key": "news_31",
+        "big": false,
+        "title": null,
+        "items": [
+          "No surprise at checkout: a goal's page now shows what the card costs in NIM today, and how that moved since you called dibs and over 7 days.",
+          "At 100%, you see what is missing before you start the unlock, and you can add it first.",
+          "The payment screen says so clearly when your wallet is short."
+        ]
+      },
+      {
+        "v": "1.2.3",
+        "date": "2026-11-14",
+        "key": "news_30",
+        "big": false,
+        "title": null,
+        "items": [
+          "On Home, your goals now come in the order that needs you: ready to buy first, then unlocks to finish, then goals that reached 100%.",
+          "Savings > Next up follows the same order."
+        ]
+      },
+      {
+        "v": "1.2.2",
+        "date": "2026-11-14",
+        "key": "news_29",
+        "big": false,
+        "title": null,
+        "items": [
+          "Paying for a card is clearer: one total in NIM, what comes from your goal and from your wallet, and how long the price is locked.",
+          "Two steps, one button: your receipt email, then Pay."
+        ]
+      },
+      {
+        "v": "1.2.1",
+        "date": "2026-11-14",
+        "key": "news_28",
+        "big": false,
+        "title": null,
+        "items": [
+          "The screen that shows your code has a new look: a Dibs! stamp, your card as a ticket, and your saving in three numbers.",
+          "Tap the code to copy it."
+        ]
+      },
+      {
+        "v": "1.2",
+        "date": "2026-11-14",
+        "key": "news_27",
+        "big": true,
+        "title": "Daily quests are here",
+        "items": [
+          "Daily quests: three small things to do each day, in Profile > Quests. Tap one to go do it.",
+          "Finish all three for a Day done stamp and bonus XP.",
+          "Two new weekly quests and three new badges."
+        ]
+      },
+      {
+        "v": "1.1.13",
+        "date": "2026-11-13",
+        "key": "news_26",
+        "big": false,
+        "title": null,
+        "items": [
+          "The amount left to go now also shows in your currency, on Home and Savings.",
+          "In More, Visit our website now opens the site directly."
+        ]
+      },
+      {
+        "v": "1.1.12",
+        "date": "2026-11-13",
+        "key": "news_25",
+        "big": false,
+        "title": null,
+        "items": [
+          "On Home, a goal’s button now says the next step: Start unlock, Finish unlock or Get my card.",
+          "Quests moved to Profile, with a shortcut on Home.",
+          "More is reorganized, and More > Rewards is easier to read."
+        ]
+      },
+      {
+        "v": "1.1.11",
+        "date": "2026-11-13",
+        "key": "news_24",
+        "big": false,
+        "title": null,
+        "items": [
+          "The public Dibs in numbers page has a new look, with the same honest numbers."
+        ]
+      },
+      {
+        "v": "1.1.10",
+        "date": "2026-11-13",
+        "key": "news_23",
+        "big": false,
+        "title": null,
+        "items": [
+          "Text sizes are now consistent across the app, and status dots pulse gently so you can see what is live.",
+          "The Add NIM page shows your amount in your currency, and tells you when you are ahead of plan."
+        ]
+      },
+      {
+        "v": "1.1.9",
+        "date": "2026-11-13",
+        "key": "news_22",
+        "big": true,
+        "title": "An important fix for unlocking",
+        "items": [
+          "Fixed: after a failed payment, a goal that had finished unlocking could offer to unlock again. Dibs now refuses a second unlock and keeps your other goals’ NIM staked."
+        ]
+      },
+      {
+        "v": "1.1.8",
+        "date": "2026-11-13",
+        "key": "news_21",
+        "big": false,
+        "title": null,
+        "items": [
+          "You now pick the card value on the brand sheet, with its NIM amount under each value.",
+          "The plan page shows your target, the rate and your wallet in one card, and a simple timeline."
+        ]
+      },
+      {
+        "v": "1.1.7",
+        "date": "2026-11-13",
+        "key": "news_20",
+        "big": false,
+        "title": null,
+        "items": [
+          "Steam, Best Buy, Apple, Uber and Fortnite now show their official logos."
+        ]
+      },
+      {
+        "v": "1.1.6",
+        "date": "2026-11-13",
+        "key": "news_19",
+        "big": false,
+        "title": null,
+        "items": [
+          "Your weekly streak now sits in the level card on Profile, with its XP bonus.",
+          "In light mode, brand logos have a thin edge so white logos stay visible."
+        ]
+      },
+      {
+        "v": "1.1.5",
+        "date": "2026-11-13",
+        "key": "news_18",
+        "big": false,
+        "title": null,
+        "items": [
+          "Profile is simpler: a banner shows when a reward is ready to claim.",
+          "Your total saved now shows in your currency."
+        ]
+      },
+      {
+        "v": "1.1.4",
+        "date": "2026-11-13",
+        "key": "news_17",
+        "big": false,
+        "title": null,
+        "items": [
+          "More has a link to the new Dibs website: tap it to copy the link.",
+          "Rewards now sits under How it works, and the Catalog line is shorter."
+        ]
+      },
+      {
+        "v": "1.1.3",
+        "date": "2026-11-13",
+        "key": "news_16",
+        "big": false,
+        "title": null,
+        "items": [
+          "History now groups each day in one card, with the brand, the amount and the time on every row.",
+          "Tap a row to see its transaction and copy it."
+        ]
+      },
+      {
+        "v": "1.1.2",
+        "date": "2026-11-13",
+        "key": "news_15",
+        "big": false,
+        "title": null,
+        "items": [
+          "Savings has a new look: your total, what is earning, what is outside your goals and what is unlocking, at a glance.",
+          "The unlock timer and its button now share one row."
+        ]
+      },
+      {
+        "v": "1.1.1",
+        "date": "2026-11-13",
+        "key": "news_14",
+        "big": false,
+        "title": null,
+        "items": [
+          "A dot on More now tells you when there is important news, like new brands. Open More > What’s new to read it."
+        ]
+      },
+      {
+        "v": "1.1",
+        "date": "2026-11-13",
+        "key": "news_13",
+        "big": true,
+        "title": "5 new brands",
+        "items": [
+          "New brands: Bolt, Twitch, H&M, Nike, Burger King."
+        ]
+      },
+      {
+        "v": "1.0.10",
+        "date": "2026-11-12",
+        "key": "news_12",
+        "big": false,
+        "title": null,
+        "items": [
+          "Savings now says why earnings show 0: first rewards come with the pool’s next payout, and NIM that is unlocking no longer earns.",
+          "The FAQ explains when rewards arrive.",
+          "With several goals, each card now fits its content."
+        ]
+      },
+      {
+        "v": "1.0.9",
+        "date": "2026-11-12",
+        "key": "news_11",
+        "big": false,
+        "title": null,
+        "items": [
+          "Search no longer zooms the screen.",
+          "The goal page explains the earning and the wait more clearly.",
+          "New goal stands out again when you have no active goal."
+        ]
+      },
+      {
+        "v": "1.0.8",
+        "date": "2026-11-12",
+        "key": "news_9",
+        "big": false,
+        "title": null,
+        "items": [
+          "Home is clearer: your goal says if you are on track.",
+          "The Add button tells you what the amount is, like “This week’s step”.",
+          "New goal is now a quieter button under the photos."
+        ]
+      },
+      {
+        "v": "1.0.7",
+        "date": "2026-11-12",
+        "key": "news_8",
+        "big": false,
+        "title": null,
+        "items": [
+          "Choose your currency: More > Preferences > Currency.",
+          "Your balance value follows it.",
+          "Brands open on the card version in that currency. An account saved in More > Your accounts still comes first."
+        ]
+      },
+      {
+        "v": "1.0.6",
+        "date": "2026-11-12",
+        "key": "news_7",
+        "big": false,
+        "title": null,
+        "items": [
+          "Your NIM balance now shows its value in your Nimiq Pay currency.",
+          "The language switch moved to the top of More.",
+          "What’s new has a new look: one block per version."
+        ]
+      },
+      {
+        "v": "1.0.5",
+        "date": "2026-11-12",
+        "key": "news_10",
+        "big": false,
+        "title": null,
+        "items": [
+          "Clearer words: Your accounts now says “account” instead of “preference”.",
+          "New goal says “card value” instead of “amount”."
+        ]
+      },
+      {
+        "v": "1.0.4",
+        "date": "2026-11-12",
+        "key": "news_6",
+        "big": false,
+        "title": null,
+        "items": [
+          "Light mode is here: More > Preferences > Appearance.",
+          "Dark stays the default."
+        ]
+      },
+      {
+        "v": "1.0.3",
+        "date": "2026-11-12",
+        "key": "news_5",
+        "big": false,
+        "title": null,
+        "items": [
+          "The Change card button on a goal now works while your NIM is unlocking.",
+          "When you pay for a card, Dibs reminds you to choose NIM if Nimiq Pay asks NIM or USDT.",
+          "Card prices stay fresher."
+        ]
+      },
+      {
+        "v": "1.0.2",
+        "date": "2026-11-11",
+        "key": "news_4",
+        "big": false,
+        "title": null,
+        "items": [
+          "Dibs remembers the card version that fits each of your accounts, saved when you call dibs. Change it in More > Your accounts.",
+          "New page for language, sound and usage stats: More > Preferences.",
+          "A goal that is ready to buy shows how much NIM the card still needs and whether your wallet covers it.",
+          "History keeps the card each step was made for."
+        ]
+      },
+      {
+        "v": "1.0.1",
+        "date": "2026-11-11",
+        "key": "news_3",
+        "big": false,
+        "title": null,
+        "items": [
+          "Choose the version of a card that works with your account. Check the shop's notes before you pick.",
+          "Every value the shop sells, up to 100 USD.",
+          "Change card on a goal, even when it is ready to buy: same NIM, no transaction.",
+          "When you pay, Dibs now shows if a card costs more than you saved.",
+          "New: Fortnite."
+        ]
+      },
+      {
+        "v": "1.0",
+        "date": "2026-11-10",
+        "key": "news_1",
+        "big": false,
+        "title": null,
+        "items": [
+          "A photo banner on Home.",
+          "The new coral d logo.",
+          "Follow Dibs on X in More.",
+          "A first-run intro with How it works.",
+          "This week moved to Savings.",
+          "Share Dibs.",
+          "Privacy, Terms and What’s new.",
+          "Badges and NIM rewards.",
+          "Levels, ranks and a weekly quest.",
+          "Full screen in Nimiq Pay."
+        ]
+      }
+    ]
+  },
+  "fr": {
+    "live": "1.7.7",
+    "lastDate": "2026-11-22",
+    "firstDate": "2026-11-10",
+    "releases": 62,
+    "big": [
+      {
+        "v": "1.6",
+        "date": "2026-11-21",
+        "key": "news_52",
+        "big": true,
+        "title": "Électronique, chiffres du NIM et choix du pool.",
+        "items": [
+          "Nouvelle catégorie : Électronique, avec 7 marques."
+        ]
+      },
+      {
+        "v": "1.4",
+        "date": "2026-11-20",
+        "key": "news_44",
+        "big": true,
+        "title": "Les amis, une liste de souhaits, et vous choisissez ce qu’ils voient.",
+        "items": [
+          "Amis : ajoutez des amis avec un code dans Profil > Amis. Désactivé tant que vous ne l’activez pas.",
+          "Vous choisissez qui voit quoi, élément par élément. Rien n’est partagé par défaut.",
+          "Une liste de souhaits : touchez le cœur sur une carte dans le catalogue.",
+          "Sans courriel, sans mot de passe : votre profil est lié à votre portefeuille et revient sur un nouveau téléphone."
+        ]
+      },
+      {
+        "v": "1.3",
+        "date": "2026-11-20",
+        "key": "news_39",
+        "big": true,
+        "title": "Votre épargne en un coup d’œil : Statistiques, un bilan chaque semaine et votre mois à partager.",
+        "items": [
+          "Votre épargne en un coup d’œil : Épargne > Statistiques montre vos semaines, vos jours et vos objectifs côte à côte.",
+          "Un bilan chaque semaine : l’épargne de la semaine dernière, à l’Accueil.",
+          "Partagez votre mois : une image de votre mois, +30 XP une fois par mois.",
+          "Chaque objectif montre son épargne semaine par semaine.",
+          "Records personnels, deux nouveaux badges (Semaine record, 8 semaines de suite) et une nouvelle quête du jour."
+        ]
+      },
+      {
+        "v": "1.2",
+        "date": "2026-11-14",
+        "key": "news_27",
+        "big": true,
+        "title": "Les quêtes du jour sont là",
+        "items": [
+          "Quêtes du jour : trois petites choses à faire chaque jour, dans Profil > Quêtes. Touchez-en une pour aller la faire.",
+          "Terminez les trois pour obtenir le tampon Journée terminée et des XP en prime.",
+          "Deux nouvelles quêtes de la semaine et trois nouveaux badges."
+        ]
+      },
+      {
+        "v": "1.1.9",
+        "date": "2026-11-13",
+        "key": "news_22",
+        "big": true,
+        "title": "Un correctif important pour le déblocage",
+        "items": [
+          "Corrigé : après un paiement échoué, un objectif déjà débloqué pouvait proposer un nouveau déblocage. Dibs refuse maintenant un deuxième déblocage et garde en staking les NIM de vos autres objectifs."
+        ]
+      },
+      {
+        "v": "1.1",
+        "date": "2026-11-13",
+        "key": "news_13",
+        "big": true,
+        "title": "5 nouvelles marques",
+        "items": [
+          "Nouvelles marques : Bolt, Twitch, H&M, Nike, Burger King."
+        ]
+      }
+    ],
+    "all": [
+      {
+        "v": "1.7.7",
+        "date": "2026-11-22",
+        "key": "news_63",
+        "big": false,
+        "title": null,
+        "items": [
+          "Le profil a un bouton Voir comme pour voir ce que voient vos amis.",
+          "Les cadres d'avatar captent la lumière.",
+          "Nouvel accent au niveau 20 : Agrume.",
+          "Les cartes du catalogue retrouvent les couleurs des marques."
+        ]
+      },
+      {
+        "v": "1.7.6",
+        "date": "2026-11-22",
+        "key": "news_62",
+        "big": false,
+        "title": null,
+        "items": [
+          "Un cadeau affiche maintenant sa valeur à votre ami.",
+          "Le profil compte les cadeaux reçus et envoyés."
+        ]
+      },
+      {
+        "v": "1.7.5",
+        "date": "2026-11-22",
+        "key": "news_61",
+        "big": false,
+        "title": null,
+        "items": [
+          "Les cartes du catalogue affichent les photos des marques."
+        ]
+      },
+      {
+        "v": "1.7.4",
+        "date": "2026-11-22",
+        "key": "news_60",
+        "big": false,
+        "title": null,
+        "items": [
+          "Offrez n'importe quelle carte que vous épargnez à un ami, depuis le menu de l'objectif. Il n'en sait rien tant que vous ne l'avez pas envoyée."
+        ]
+      },
+      {
+        "v": "1.7.3",
+        "date": "2026-11-21",
+        "key": "news_59",
+        "big": false,
+        "title": null,
+        "items": [
+          "Envoyez le code d'une carte-cadeau à un ami dans Dibs, verrouillé pour que seul son téléphone puisse l'ouvrir. Vous voyez quand il est livré et ouvert."
+        ]
+      },
+      {
+        "v": "1.7.2",
+        "date": "2026-11-21",
+        "key": "news_58",
+        "big": false,
+        "title": null,
+        "items": [
+          "Quand un ami vous envoie un cadeau, ouvrez-le dans Dibs et remerciez.",
+          "Sept nouvelles bannières cadeau à débloquer en montant de niveau."
+        ]
+      },
+      {
+        "v": "1.7.1",
+        "date": "2026-11-21",
+        "key": "news_57",
+        "big": false,
+        "title": null,
+        "items": [
+          "Les cadeaux peuvent porter un message et une bannière, vus seulement par votre ami.",
+          "Le profil est réorganisé : votre niveau près de votre nom, les réglages regroupés en bas."
+        ]
+      },
+      {
+        "v": "1.7",
+        "date": "2026-11-21",
+        "key": "news_56",
+        "big": false,
+        "title": null,
+        "items": [
+          "Classements : voyez où se classent vos XP, entre amis ou avec tout le monde, seulement si vous rejoignez."
+        ]
+      },
+      {
+        "v": "1.6.3",
+        "date": "2026-11-21",
+        "key": "news_55",
+        "big": false,
+        "title": null,
+        "items": [
+          "Ajouter des NIM avec un portefeuille vide le dit clairement.",
+          "Le choix sombre ou clair est passé dans Plus > Préférences > Apparence.",
+          "Le retour vous ramène où vous étiez sur la page.",
+          "Le corail colore maintenant votre nom, et les cadres d’avatar entourent l’avatar."
+        ]
+      },
+      {
+        "v": "1.6.2",
+        "date": "2026-11-21",
+        "key": "news_54",
+        "big": false,
+        "title": null,
+        "items": [
+          "Un convertisseur de NIM dans Épargne, au taux en direct.",
+          "Les logos d’électronique sont plus faciles à lire.",
+          "La fenêtre de mise à jour est de retour."
+        ]
+      },
+      {
+        "v": "1.6.1",
+        "date": "2026-11-21",
+        "key": "news_53",
+        "big": false,
+        "title": null,
+        "items": [
+          "De nouvelles images à l’accueil pour les marques d’électronique et Bolt."
+        ]
+      },
+      {
+        "v": "1.6",
+        "date": "2026-11-21",
+        "key": "news_52",
+        "big": true,
+        "title": "Électronique, chiffres du NIM et choix du pool.",
+        "items": [
+          "Nouvelle catégorie : Électronique, avec 7 marques."
+        ]
+      },
+      {
+        "v": "1.5.2",
+        "date": "2026-11-21",
+        "key": "news_51",
+        "big": false,
+        "title": null,
+        "items": [
+          "Ajouter des NIM à un objectif déjà plein indique combien il contient de plus que nécessaire.",
+          "Le déblocage indique vers quelle heure vos NIM sont libérés, avant de commencer.",
+          "Détails pour le soutien plus clairs."
+        ]
+      },
+      {
+        "v": "1.5.1",
+        "date": "2026-11-21",
+        "key": "news_50",
+        "big": false,
+        "title": null,
+        "items": [
+          "Le bouton Nouvel objectif de l’accueil a un nouveau look."
+        ]
+      },
+      {
+        "v": "1.5",
+        "date": "2026-11-21",
+        "key": "news_49",
+        "big": false,
+        "title": null,
+        "items": [
+          "Choisissez votre pool de staking à votre premier dépôt : cinq pools vérifiés par Dibs, chacun avec ses frais et la fréquence de ses versements.",
+          "Garuda Pool reste le choix par défaut. Le déblocage prend le même temps avec chaque pool.",
+          "L’épargne affiche votre propre pool."
+        ]
+      },
+      {
+        "v": "1.4.4",
+        "date": "2026-11-21",
+        "key": "news_48",
+        "big": false,
+        "title": null,
+        "items": [
+          "Les rangs débloquent maintenant des styles : un accent pour votre nom, un cadre pour votre avatar et un style pour vos anneaux d’objectif.",
+          "Choisissez le vôtre dans Profil > Mon style. Que l’apparence : aucun XP, rien d’autre ne change.",
+          "Vos amis voient votre cadre et votre accent seulement si vous partagez votre niveau et votre rang."
+        ]
+      },
+      {
+        "v": "1.4.3",
+        "date": "2026-11-21",
+        "key": "news_47",
+        "big": false,
+        "title": null,
+        "items": [
+          "Réservez le souhait d'un ami : épargnez pour une carte de sa liste dans votre propre compte. Ça reste une surprise.",
+          "Quand vous l'achetez, envoyez le code vous-même avec le menu de partage de votre téléphone. Dibs ne le stocke ni ne l'envoie jamais.",
+          "Il peut vous remercier depuis sa liste de souhaits."
+        ]
+      },
+      {
+        "v": "1.4.2",
+        "date": "2026-11-21",
+        "key": "news_46",
+        "big": false,
+        "title": null,
+        "items": [
+          "Partagez plus avec vos amis, seulement si vous le voulez : votre avatar Nimiq, ce que vous avez épargné et gagné, et la valeur de vos objectifs et cartes.",
+          "Dibs demande une fois avant le premier partage d’un montant.",
+          "Les amis qui ne partagent pas leur avatar reçoivent un avatar Dibs avec leur initiale."
+        ]
+      },
+      {
+        "v": "1.4.1",
+        "date": "2026-11-21",
+        "key": "news_45",
+        "big": false,
+        "title": null,
+        "items": [
+          "Invitez vos amis avec votre code : le message explique maintenant où l’entrer.",
+          "Qui voit quoi a sa propre ligne dans Amis, Profil et Plus > Préférences.",
+          "Votre avatar Nimiq sur vos écrans Amis, et des champs de nom lisibles.",
+          "La fiche de la mise à jour 1.4 s’affiche maintenant à ceux qui l’ont manquée."
+        ]
+      },
+      {
+        "v": "1.4",
+        "date": "2026-11-20",
+        "key": "news_44",
+        "big": true,
+        "title": "Les amis, une liste de souhaits, et vous choisissez ce qu’ils voient.",
+        "items": [
+          "Amis : ajoutez des amis avec un code dans Profil > Amis. Désactivé tant que vous ne l’activez pas.",
+          "Vous choisissez qui voit quoi, élément par élément. Rien n’est partagé par défaut.",
+          "Une liste de souhaits : touchez le cœur sur une carte dans le catalogue.",
+          "Sans courriel, sans mot de passe : votre profil est lié à votre portefeuille et revient sur un nouveau téléphone."
+        ]
+      },
+      {
+        "v": "1.3.4",
+        "date": "2026-11-20",
+        "key": "news_43",
+        "big": false,
+        "title": null,
+        "items": [
+          "Des mots plus clairs : portefeuille, pool, onchain. Des notes plus courtes dans Épargne et au déblocage."
+        ]
+      },
+      {
+        "v": "1.3.3",
+        "date": "2026-11-20",
+        "key": "news_42",
+        "big": false,
+        "title": null,
+        "items": [
+          "L’écran de chargement montre de vraies cartes-cadeaux et la version de l’application."
+        ]
+      },
+      {
+        "v": "1.3.2",
+        "date": "2026-11-20",
+        "key": "news_41",
+        "big": false,
+        "title": null,
+        "items": [
+          "L’ajout de NIM montre où le dépôt amène votre objectif : une barre et le pourcentage avant et après.",
+          "Le déblocage montre ce qui se passe et vers quelle heure vos NIM reviennent dans votre portefeuille."
+        ]
+      },
+      {
+        "v": "1.3.1",
+        "date": "2026-11-20",
+        "key": "news_40",
+        "big": false,
+        "title": null,
+        "items": [
+          "Apparence a un nouveau choix, Auto, qui suit le réglage de votre téléphone. Plus a aussi un bouton pour passer du sombre au clair.",
+          "Épargne affiche l’heure de votre prochain gain.",
+          "Raccourcis : touchez votre solde pour ouvrir Épargne, l’anneau d’un objectif pour l’ouvrir, l’adresse de staking pour la copier.",
+          "Les messages au bas de l’écran se ferment d’un toucher."
+        ]
+      },
+      {
+        "v": "1.3",
+        "date": "2026-11-20",
+        "key": "news_39",
+        "big": true,
+        "title": "Votre épargne en un coup d’œil : Statistiques, un bilan chaque semaine et votre mois à partager.",
+        "items": [
+          "Votre épargne en un coup d’œil : Épargne > Statistiques montre vos semaines, vos jours et vos objectifs côte à côte.",
+          "Un bilan chaque semaine : l’épargne de la semaine dernière, à l’Accueil.",
+          "Partagez votre mois : une image de votre mois, +30 XP une fois par mois.",
+          "Chaque objectif montre son épargne semaine par semaine.",
+          "Records personnels, deux nouveaux badges (Semaine record, 8 semaines de suite) et une nouvelle quête du jour."
+        ]
+      },
+      {
+        "v": "1.2.11",
+        "date": "2026-11-15",
+        "key": "news_38",
+        "big": false,
+        "title": null,
+        "items": [
+          "Quand Épargne indique que des NIM de vos objectifs ne sont pas en staking, il y a maintenant une deuxième réponse : les garder dans votre portefeuille, et choisir l’objectif qui arrête de les compter. Rien n’est envoyé."
+        ]
+      },
+      {
+        "v": "1.2.10",
+        "date": "2026-11-15",
+        "key": "news_37",
+        "big": false,
+        "title": null,
+        "items": [
+          "Quand Épargne indique que des NIM de vos objectifs ne sont pas en staking, un toucher les y remet : votre portefeuille remet le montant manquant en staking, avec une seule approbation dans Nimiq Pay. Vos objectifs ne changent pas."
+        ]
+      },
+      {
+        "v": "1.2.9",
+        "date": "2026-11-15",
+        "key": "news_36",
+        "big": false,
+        "title": null,
+        "items": [
+          "Épargne indique maintenant quand des NIM de vos objectifs ne sont pas en staking, et combien. Ils sont en sécurité dans votre portefeuille; Plus > FAQ explique pourquoi.",
+          "En coulisses : vos objectifs sont maintenant enregistrés à un seul endroit sur votre téléphone."
+        ]
+      },
+      {
+        "v": "1.2.8",
+        "date": "2026-11-15",
+        "key": "news_35",
+        "big": false,
+        "title": null,
+        "items": [
+          "Plus > Besoin d’aide? a un nouveau bouton « Copier le diagnostic » : il montre ce que Dibs voit sur votre téléphone, pour que le soutien vous aide plus vite. Il ne fait que lire, n’envoie rien et ne contient jamais votre courriel ni vos codes."
+        ]
+      },
+      {
+        "v": "1.2.7",
+        "date": "2026-11-15",
+        "key": "news_34",
+        "big": false,
+        "title": null,
+        "items": [
+          "En coulisses : Dibs peut maintenant afficher un court résumé à la première ouverture d’une grande mise à jour. Vous le verrez à la prochaine."
+        ]
+      },
+      {
+        "v": "1.2.6",
+        "date": "2026-11-15",
+        "key": "news_33",
+        "big": false,
+        "title": null,
+        "items": [
+          "Un court « Le saviez-vous? » s’affiche maintenant pendant l’attente : sous l’horloge d’un objectif en déblocage, et sur l’écran du code pendant que la boutique livre votre code.",
+          "47 faits sur Dibs, Nimiq et les marques du catalogue. Un nouveau à chaque visite."
+        ]
+      },
+      {
+        "v": "1.2.5",
+        "date": "2026-11-15",
+        "key": "news_32",
+        "big": false,
+        "title": null,
+        "items": [
+          "Les images de l’accueil sont nouvelles : de nouveaux arrière-plans pour les 15 marques qui en avaient un.",
+          "11 marques de plus ont la leur : Nintendo eShop, Google Play, Roblox, Fortnite, Valorant, Riot Access, Discord Nitro, H&M, Nike, Twitch et Burger King."
+        ]
+      },
+      {
+        "v": "1.2.4",
+        "date": "2026-11-14",
+        "key": "news_31",
+        "big": false,
+        "title": null,
+        "items": [
+          "Pas de surprise au paiement : la page d’un objectif montre maintenant ce que la carte coûte en NIM aujourd’hui, et comment ce prix a bougé depuis votre réservation et sur 7 jours.",
+          "À 100 %, vous voyez ce qui manque avant de lancer le déblocage, et vous pouvez l’ajouter d’abord.",
+          "L’écran de paiement indique clairement quand votre portefeuille ne suffit pas."
+        ]
+      },
+      {
+        "v": "1.2.3",
+        "date": "2026-11-14",
+        "key": "news_30",
+        "big": false,
+        "title": null,
+        "items": [
+          "Sur l’accueil, vos objectifs s’affichent maintenant selon ce qui vous attend : prêt à acheter d’abord, puis les déblocages à terminer, puis les objectifs à 100 %.",
+          "Épargne > À venir suit le même ordre."
+        ]
+      },
+      {
+        "v": "1.2.2",
+        "date": "2026-11-14",
+        "key": "news_29",
+        "big": false,
+        "title": null,
+        "items": [
+          "Payer une carte est plus clair : un seul total en NIM, ce qui vient de votre objectif et de votre portefeuille, et la durée pendant laquelle le prix est garanti.",
+          "Deux étapes, un seul bouton : le courriel pour votre reçu, puis Payer."
+        ]
+      },
+      {
+        "v": "1.2.1",
+        "date": "2026-11-14",
+        "key": "news_28",
+        "big": false,
+        "title": null,
+        "items": [
+          "L’écran qui affiche votre code a un nouveau look : un tampon Dibs!, votre carte en billet et votre épargne en trois chiffres.",
+          "Touchez le code pour le copier."
+        ]
+      },
+      {
+        "v": "1.2",
+        "date": "2026-11-14",
+        "key": "news_27",
+        "big": true,
+        "title": "Les quêtes du jour sont là",
+        "items": [
+          "Quêtes du jour : trois petites choses à faire chaque jour, dans Profil > Quêtes. Touchez-en une pour aller la faire.",
+          "Terminez les trois pour obtenir le tampon Journée terminée et des XP en prime.",
+          "Deux nouvelles quêtes de la semaine et trois nouveaux badges."
+        ]
+      },
+      {
+        "v": "1.1.13",
+        "date": "2026-11-13",
+        "key": "news_26",
+        "big": false,
+        "title": null,
+        "items": [
+          "Le montant qu’il reste à épargner s’affiche maintenant aussi dans votre devise, sur l’accueil et dans Épargne.",
+          "Dans Plus, Visiter notre site Web ouvre maintenant le site directement."
+        ]
+      },
+      {
+        "v": "1.1.12",
+        "date": "2026-11-13",
+        "key": "news_25",
+        "big": false,
+        "title": null,
+        "items": [
+          "Sur l’accueil, le bouton d’un objectif indique maintenant la prochaine étape : Lancer le déblocage, Terminer le déblocage ou Obtenir ma carte.",
+          "Les quêtes sont maintenant dans Profil, avec un raccourci sur l’accueil.",
+          "Plus est réorganisé, et Plus > Récompenses se lit plus facilement."
+        ]
+      },
+      {
+        "v": "1.1.11",
+        "date": "2026-11-13",
+        "key": "news_24",
+        "big": false,
+        "title": null,
+        "items": [
+          "La page publique Dibs en chiffres a un nouveau look, avec les mêmes chiffres honnêtes."
+        ]
+      },
+      {
+        "v": "1.1.10",
+        "date": "2026-11-13",
+        "key": "news_23",
+        "big": false,
+        "title": null,
+        "items": [
+          "La taille des textes est maintenant uniforme dans toute l’appli, et les points d’état pulsent doucement pour montrer ce qui est actif.",
+          "La page Ajouter des NIM affiche votre montant dans votre devise, et vous indique quand vous êtes en avance sur votre plan."
+        ]
+      },
+      {
+        "v": "1.1.9",
+        "date": "2026-11-13",
+        "key": "news_22",
+        "big": true,
+        "title": "Un correctif important pour le déblocage",
+        "items": [
+          "Corrigé : après un paiement échoué, un objectif déjà débloqué pouvait proposer un nouveau déblocage. Dibs refuse maintenant un deuxième déblocage et garde en staking les NIM de vos autres objectifs."
+        ]
+      },
+      {
+        "v": "1.1.8",
+        "date": "2026-11-13",
+        "key": "news_21",
+        "big": false,
+        "title": null,
+        "items": [
+          "Vous choisissez maintenant la valeur de la carte sur la fiche de la marque, avec le montant en NIM sous chaque valeur.",
+          "La page du plan montre votre montant visé, le taux et votre portefeuille dans une seule carte, avec une ligne du temps simple."
+        ]
+      },
+      {
+        "v": "1.1.7",
+        "date": "2026-11-13",
+        "key": "news_20",
+        "big": false,
+        "title": null,
+        "items": [
+          "Steam, Best Buy, Apple, Uber et Fortnite affichent maintenant leurs logos officiels."
+        ]
+      },
+      {
+        "v": "1.1.6",
+        "date": "2026-11-13",
+        "key": "news_19",
+        "big": false,
+        "title": null,
+        "items": [
+          "Votre série hebdomadaire est maintenant dans la carte de niveau du Profil, avec son bonus d’XP.",
+          "En mode clair, les logos des marques ont un fin contour pour que les logos blancs restent visibles."
+        ]
+      },
+      {
+        "v": "1.1.5",
+        "date": "2026-11-13",
+        "key": "news_18",
+        "big": false,
+        "title": null,
+        "items": [
+          "Le Profil est plus simple : une bannière s’affiche quand une récompense est prête à réclamer.",
+          "Votre total épargné s’affiche maintenant dans votre devise."
+        ]
+      },
+      {
+        "v": "1.1.4",
+        "date": "2026-11-13",
+        "key": "news_17",
+        "big": false,
+        "title": null,
+        "items": [
+          "Plus a un lien vers le nouveau site Web de Dibs : touchez-le pour copier le lien.",
+          "Récompenses est maintenant sous Comment ça marche, et la ligne du Catalogue est plus courte."
+        ]
+      },
+      {
+        "v": "1.1.3",
+        "date": "2026-11-13",
+        "key": "news_16",
+        "big": false,
+        "title": null,
+        "items": [
+          "L’historique regroupe maintenant chaque journée dans une carte, avec la marque, le montant et l’heure sur chaque ligne.",
+          "Touchez une ligne pour voir sa transaction et la copier."
+        ]
+      },
+      {
+        "v": "1.1.2",
+        "date": "2026-11-13",
+        "key": "news_15",
+        "big": false,
+        "title": null,
+        "items": [
+          "Épargne a un nouveau look : votre total, ce qui rapporte, ce qui est hors objectifs et ce qui se débloque, d’un coup d’œil.",
+          "Le minuteur de déblocage et son bouton tiennent maintenant sur une ligne."
+        ]
+      },
+      {
+        "v": "1.1.1",
+        "date": "2026-11-13",
+        "key": "news_14",
+        "big": false,
+        "title": null,
+        "items": [
+          "Un point sur Plus vous signale maintenant les nouvelles importantes, comme de nouvelles marques. Ouvrez Plus > Nouveautés pour les lire."
+        ]
+      },
+      {
+        "v": "1.1",
+        "date": "2026-11-13",
+        "key": "news_13",
+        "big": true,
+        "title": "5 nouvelles marques",
+        "items": [
+          "Nouvelles marques : Bolt, Twitch, H&M, Nike, Burger King."
+        ]
+      },
+      {
+        "v": "1.0.10",
+        "date": "2026-11-12",
+        "key": "news_12",
+        "big": false,
+        "title": null,
+        "items": [
+          "Épargne indique maintenant pourquoi les gains affichent 0 : les premiers gains arrivent au prochain versement du pool, et les NIM en cours de déblocage ne rapportent plus.",
+          "La FAQ explique quand les gains arrivent.",
+          "Avec plusieurs objectifs, chaque carte s’ajuste maintenant à son contenu."
+        ]
+      },
+      {
+        "v": "1.0.9",
+        "date": "2026-11-12",
+        "key": "news_11",
+        "big": false,
+        "title": null,
+        "items": [
+          "La recherche ne zoome plus l’écran.",
+          "La page d’objectif explique mieux les gains et l’attente.",
+          "Nouvel objectif ressort de nouveau quand vous n’avez aucun objectif en cours."
+        ]
+      },
+      {
+        "v": "1.0.8",
+        "date": "2026-11-12",
+        "key": "news_9",
+        "big": false,
+        "title": null,
+        "items": [
+          "L’Accueil est plus clair : votre objectif indique si vous êtes dans les temps.",
+          "Le bouton Ajouter précise à quoi correspond le montant, comme « L’étape de la semaine ».",
+          "Nouvel objectif est maintenant un bouton plus discret sous les photos."
+        ]
+      },
+      {
+        "v": "1.0.7",
+        "date": "2026-11-12",
+        "key": "news_8",
+        "big": false,
+        "title": null,
+        "items": [
+          "Choisissez votre devise : Plus > Préférences > Devise.",
+          "La valeur de votre solde la suit.",
+          "Les marques s’ouvrent sur la version de carte dans cette devise. Un compte enregistré dans Plus > Vos comptes passe toujours en premier."
+        ]
+      },
+      {
+        "v": "1.0.6",
+        "date": "2026-11-12",
+        "key": "news_7",
+        "big": false,
+        "title": null,
+        "items": [
+          "Votre solde en NIM affiche maintenant sa valeur dans la devise de votre Nimiq Pay.",
+          "Le choix de la langue se trouve maintenant en haut de Plus.",
+          "Nouveautés change d’allure : un bloc par version."
+        ]
+      },
+      {
+        "v": "1.0.5",
+        "date": "2026-11-12",
+        "key": "news_10",
+        "big": false,
+        "title": null,
+        "items": [
+          "Des mots plus clairs : Vos comptes dit maintenant « compte » au lieu de « préférence ».",
+          "Nouvel objectif dit « valeur de la carte » au lieu de « montant »."
+        ]
+      },
+      {
+        "v": "1.0.4",
+        "date": "2026-11-12",
+        "key": "news_6",
+        "big": false,
+        "title": null,
+        "items": [
+          "Le mode clair est arrivé : Plus > Préférences > Apparence.",
+          "Le mode sombre reste celui par défaut."
+        ]
+      },
+      {
+        "v": "1.0.3",
+        "date": "2026-11-12",
+        "key": "news_5",
+        "big": false,
+        "title": null,
+        "items": [
+          "Le bouton Changer de carte d’un objectif fonctionne maintenant pendant que vos NIM se débloquent.",
+          "Au moment de payer une carte, Dibs vous rappelle de choisir NIM si Nimiq Pay vous demande NIM ou USDT.",
+          "Les prix des cartes restent plus à jour."
+        ]
+      },
+      {
+        "v": "1.0.2",
+        "date": "2026-11-11",
+        "key": "news_4",
+        "big": false,
+        "title": null,
+        "items": [
+          "Dibs retient la version de carte qui convient à chacun de vos comptes, enregistrée quand vous réservez. Changez-la dans Plus > Vos comptes.",
+          "Nouvelle page pour la langue, le son et les statistiques d’utilisation : Plus > Préférences.",
+          "Un objectif prêt à acheter indique combien de NIM la carte demande encore et si votre portefeuille le couvre.",
+          "L’historique garde la carte pour laquelle chaque étape a été faite."
+        ]
+      },
+      {
+        "v": "1.0.1",
+        "date": "2026-11-11",
+        "key": "news_3",
+        "big": false,
+        "title": null,
+        "items": [
+          "Choisissez une carte compatible avec votre compte. Vérifiez les indications de la boutique.",
+          "Toutes les valeurs offertes par la boutique, jusqu’à 100 USD.",
+          "Changer de carte sur un objectif, même prêt à acheter : mêmes NIM, aucune transaction.",
+          "Au moment de payer, Dibs indique maintenant si une carte coûte plus que vos économies.",
+          "Nouveau : Fortnite."
+        ]
+      },
+      {
+        "v": "1.0",
+        "date": "2026-11-10",
+        "key": "news_1",
+        "big": false,
+        "title": null,
+        "items": [
+          "Une bannière photo à l’Accueil.",
+          "Le nouveau logo au d corail.",
+          "Suivre Dibs sur X dans Plus.",
+          "Une introduction au premier lancement avec Comment ça marche.",
+          "Cette semaine passe dans Épargne.",
+          "Partager Dibs.",
+          "Confidentialité, Conditions et Nouveautés.",
+          "Badges et récompenses en NIM.",
+          "Niveaux, rangs et une quête par semaine.",
+          "Plein écran dans Nimiq Pay."
+        ]
+      }
+    ]
+  },
+  "es": {
+    "live": "1.7.7",
+    "lastDate": "2026-11-22",
+    "firstDate": "2026-11-10",
+    "releases": 62,
+    "big": [
+      {
+        "v": "1.6",
+        "date": "2026-11-21",
+        "key": "news_52",
+        "big": true,
+        "title": "Electrónica, números sobre NIM y elección de pool.",
+        "items": [
+          "Nueva categoría: Electrónica, con 7 marcas."
+        ]
+      },
+      {
+        "v": "1.4",
+        "date": "2026-11-20",
+        "key": "news_44",
+        "big": true,
+        "title": "Amigos, una lista de deseos, y tú eliges lo que ven.",
+        "items": [
+          "Amigos: añade amigos con un código en Perfil > Amigos. Desactivado hasta que lo actives.",
+          "Tú eliges quién ve qué, elemento por elemento. Nada se comparte por defecto.",
+          "Una lista de deseos: toca el corazón en una tarjeta del catálogo.",
+          "Sin correo, sin contraseña: tu perfil está vinculado a tu billetera y vuelve en un teléfono nuevo."
+        ]
+      },
+      {
+        "v": "1.3",
+        "date": "2026-11-20",
+        "key": "news_39",
+        "big": true,
+        "title": "Tu ahorro de un vistazo: Estadísticas, un resumen cada semana y tu mes para compartir.",
+        "items": [
+          "Tu ahorro de un vistazo: Ahorros > Estadísticas muestra tus semanas, tus días y tus metas lado a lado.",
+          "Un resumen cada semana: el ahorro de la semana pasada, en Inicio.",
+          "Comparte tu mes: una imagen de tu mes, +30 XP una vez al mes.",
+          "Cada meta muestra su ahorro semana a semana.",
+          "Récords personales, dos insignias nuevas (Semana récord, 8 semanas seguidas) y una nueva misión diaria."
+        ]
+      },
+      {
+        "v": "1.2",
+        "date": "2026-11-14",
+        "key": "news_27",
+        "big": true,
+        "title": "Llegan las misiones diarias",
+        "items": [
+          "Misiones diarias: tres cosas pequeñas que hacer cada día, en Perfil > Misiones. Toca una para ir a hacerla.",
+          "Completa las tres para conseguir el sello Día completado y XP extra.",
+          "Dos nuevas misiones semanales y tres nuevas insignias."
+        ]
+      },
+      {
+        "v": "1.1.9",
+        "date": "2026-11-13",
+        "key": "news_22",
+        "big": true,
+        "title": "Una corrección importante para el desbloqueo",
+        "items": [
+          "Corregido: tras un pago fallido, una meta ya desbloqueada podía ofrecer desbloquearse otra vez. Dibs ahora rechaza un segundo desbloqueo y mantiene en staking los NIM de tus otras metas."
+        ]
+      },
+      {
+        "v": "1.1",
+        "date": "2026-11-13",
+        "key": "news_13",
+        "big": true,
+        "title": "5 marcas nuevas",
+        "items": [
+          "Nuevas marcas: Bolt, Twitch, H&M, Nike, Burger King."
+        ]
+      }
+    ],
+    "all": [
+      {
+        "v": "1.7.7",
+        "date": "2026-11-22",
+        "key": "news_63",
+        "big": false,
+        "title": null,
+        "items": [
+          "El perfil tiene un botón Ver como para ver lo que ven tus amigos.",
+          "Los marcos de avatar captan la luz.",
+          "Nuevo acento en el nivel 20: Cítrico.",
+          "Las tarjetas del catálogo vuelven a los colores de las marcas."
+        ]
+      },
+      {
+        "v": "1.7.6",
+        "date": "2026-11-22",
+        "key": "news_62",
+        "big": false,
+        "title": null,
+        "items": [
+          "Un regalo ahora muestra su valor a tu amigo.",
+          "El perfil cuenta los regalos recibidos y enviados."
+        ]
+      },
+      {
+        "v": "1.7.5",
+        "date": "2026-11-22",
+        "key": "news_61",
+        "big": false,
+        "title": null,
+        "items": [
+          "Las tarjetas del catálogo muestran las fotos de las marcas."
+        ]
+      },
+      {
+        "v": "1.7.4",
+        "date": "2026-11-22",
+        "key": "news_60",
+        "big": false,
+        "title": null,
+        "items": [
+          "Regala cualquier tarjeta que estás ahorrando a un amigo, desde el menú del objetivo. No se entera hasta que la envíes."
+        ]
+      },
+      {
+        "v": "1.7.3",
+        "date": "2026-11-21",
+        "key": "news_59",
+        "big": false,
+        "title": null,
+        "items": [
+          "Envía el código de una tarjeta regalo a un amigo dentro de Dibs, bloqueado para que solo su teléfono pueda abrirlo. Ves cuándo se entrega y se abre."
+        ]
+      },
+      {
+        "v": "1.7.2",
+        "date": "2026-11-21",
+        "key": "news_58",
+        "big": false,
+        "title": null,
+        "items": [
+          "Cuando un amigo te envía un regalo, ábrelo en Dibs y da las gracias.",
+          "Siete nuevos banners de regalo para desbloquear al subir de nivel."
+        ]
+      },
+      {
+        "v": "1.7.1",
+        "date": "2026-11-21",
+        "key": "news_57",
+        "big": false,
+        "title": null,
+        "items": [
+          "Los regalos pueden llevar un mensaje y un banner, vistos solo por tu amigo.",
+          "El perfil está reorganizado: tu nivel junto a tu nombre, los ajustes agrupados abajo."
+        ]
+      },
+      {
+        "v": "1.7",
+        "date": "2026-11-21",
+        "key": "news_56",
+        "big": false,
+        "title": null,
+        "items": [
+          "Clasificaciones: mira dónde se clasifican tus XP, entre amigos o con todos, solo si te unes."
+        ]
+      },
+      {
+        "v": "1.6.3",
+        "date": "2026-11-21",
+        "key": "news_55",
+        "big": false,
+        "title": null,
+        "items": [
+          "Agregar NIM con una billetera vacía ahora lo dice con claridad.",
+          "El cambio entre oscuro y claro pasó a Más > Preferencias > Apariencia.",
+          "Al volver, regresas a donde estabas en la página.",
+          "El coral ahora colorea tu nombre, y los marcos de avatar rodean el avatar."
+        ]
+      },
+      {
+        "v": "1.6.2",
+        "date": "2026-11-21",
+        "key": "news_54",
+        "big": false,
+        "title": null,
+        "items": [
+          "Un conversor de NIM en Ahorros, al tipo en vivo.",
+          "Los logos de electrónica se ven mejor.",
+          "La ventana de novedades vuelve."
+        ]
+      },
+      {
+        "v": "1.6.1",
+        "date": "2026-11-21",
+        "key": "news_53",
+        "big": false,
+        "title": null,
+        "items": [
+          "Nuevas imágenes en el inicio para las marcas de electrónica y Bolt."
+        ]
+      },
+      {
+        "v": "1.6",
+        "date": "2026-11-21",
+        "key": "news_52",
+        "big": true,
+        "title": "Electrónica, números sobre NIM y elección de pool.",
+        "items": [
+          "Nueva categoría: Electrónica, con 7 marcas."
+        ]
+      },
+      {
+        "v": "1.5.2",
+        "date": "2026-11-21",
+        "key": "news_51",
+        "big": false,
+        "title": null,
+        "items": [
+          "Añadir NIM a una meta ya completa indica cuánto más de lo necesario tiene.",
+          "Desbloquear muestra hacia qué hora se liberan tus NIM, antes de empezar.",
+          "Detalles para soporte más claros."
+        ]
+      },
+      {
+        "v": "1.5.1",
+        "date": "2026-11-21",
+        "key": "news_50",
+        "big": false,
+        "title": null,
+        "items": [
+          "El botón Nueva meta del inicio tiene un nuevo aspecto."
+        ]
+      },
+      {
+        "v": "1.5",
+        "date": "2026-11-21",
+        "key": "news_49",
+        "big": false,
+        "title": null,
+        "items": [
+          "Elige tu pool de staking en tu primer depósito: cinco pools que Dibs ha verificado, cada uno con su comisión y cada cuánto paga.",
+          "Garuda Pool sigue siendo la opción por defecto. El desbloqueo tarda lo mismo con cualquier pool.",
+          "Ahorros muestra tu propio pool."
+        ]
+      },
+      {
+        "v": "1.4.4",
+        "date": "2026-11-21",
+        "key": "news_48",
+        "big": false,
+        "title": null,
+        "items": [
+          "Los rangos ahora desbloquean estilos: un color para tu nombre, un marco para tu avatar y un estilo para tus anillos de objetivo.",
+          "Elige el tuyo en Perfil > Mi estilo. Solo apariencia: sin XP, nada más cambia.",
+          "Tus amigos ven tu marco y tu color solo si compartes tu nivel y rango."
+        ]
+      },
+      {
+        "v": "1.4.3",
+        "date": "2026-11-21",
+        "key": "news_47",
+        "big": false,
+        "title": null,
+        "items": [
+          "Reserva el deseo de un amigo: ahorra para una tarjeta de su lista en tu propia cuenta. Sigue siendo una sorpresa.",
+          "Cuando la compres, envía el código tú mismo con el menú de compartir de tu teléfono. Dibs nunca lo guarda ni lo envía.",
+          "Puede darte las gracias desde su lista de deseos."
+        ]
+      },
+      {
+        "v": "1.4.2",
+        "date": "2026-11-21",
+        "key": "news_46",
+        "big": false,
+        "title": null,
+        "items": [
+          "Comparte más con tus amigos, solo si quieres: tu avatar de Nimiq, lo que ahorraste y ganaste, y el valor de tus metas y tarjetas.",
+          "Dibs pregunta una vez antes de compartir el primer monto.",
+          "Los amigos que no comparten su avatar reciben un avatar de Dibs con su inicial."
+        ]
+      },
+      {
+        "v": "1.4.1",
+        "date": "2026-11-21",
+        "key": "news_45",
+        "big": false,
+        "title": null,
+        "items": [
+          "Invita a tus amigos con tu código: el mensaje ahora explica dónde escribirlo.",
+          "Quién ve qué tiene su propia fila en Amigos, Perfil y Más > Preferencias.",
+          "Tu avatar de Nimiq en tus pantallas de Amigos, y campos de nombre legibles.",
+          "La hoja de la actualización 1.4 ahora aparece para quien se la perdió."
+        ]
+      },
+      {
+        "v": "1.4",
+        "date": "2026-11-20",
+        "key": "news_44",
+        "big": true,
+        "title": "Amigos, una lista de deseos, y tú eliges lo que ven.",
+        "items": [
+          "Amigos: añade amigos con un código en Perfil > Amigos. Desactivado hasta que lo actives.",
+          "Tú eliges quién ve qué, elemento por elemento. Nada se comparte por defecto.",
+          "Una lista de deseos: toca el corazón en una tarjeta del catálogo.",
+          "Sin correo, sin contraseña: tu perfil está vinculado a tu billetera y vuelve en un teléfono nuevo."
+        ]
+      },
+      {
+        "v": "1.3.4",
+        "date": "2026-11-20",
+        "key": "news_43",
+        "big": false,
+        "title": null,
+        "items": [
+          "Palabras más claras: billetera, pool, onchain. Notas más cortas en Ahorros y al desbloquear."
+        ]
+      },
+      {
+        "v": "1.3.3",
+        "date": "2026-11-20",
+        "key": "news_42",
+        "big": false,
+        "title": null,
+        "items": [
+          "La pantalla de carga muestra tarjetas de regalo reales y la versión de la app."
+        ]
+      },
+      {
+        "v": "1.3.2",
+        "date": "2026-11-20",
+        "key": "news_41",
+        "big": false,
+        "title": null,
+        "items": [
+          "Añadir NIM muestra hasta dónde lleva tu meta el depósito: una barra y el porcentaje antes y después.",
+          "Desbloquear muestra qué pasa y hacia qué hora vuelven tus NIM a tu billetera."
+        ]
+      },
+      {
+        "v": "1.3.1",
+        "date": "2026-11-20",
+        "key": "news_40",
+        "big": false,
+        "title": null,
+        "items": [
+          "Apariencia tiene una nueva opción, Auto, que sigue el ajuste de tu teléfono. Más también tiene un botón para cambiar entre oscuro y claro.",
+          "Ahorros muestra la hora de tu próximo pago.",
+          "Atajos: toca tu saldo para abrir Ahorros, el anillo de una meta para abrirla, la dirección de staking para copiarla.",
+          "Los mensajes al pie de la pantalla se cierran con un toque."
+        ]
+      },
+      {
+        "v": "1.3",
+        "date": "2026-11-20",
+        "key": "news_39",
+        "big": true,
+        "title": "Tu ahorro de un vistazo: Estadísticas, un resumen cada semana y tu mes para compartir.",
+        "items": [
+          "Tu ahorro de un vistazo: Ahorros > Estadísticas muestra tus semanas, tus días y tus metas lado a lado.",
+          "Un resumen cada semana: el ahorro de la semana pasada, en Inicio.",
+          "Comparte tu mes: una imagen de tu mes, +30 XP una vez al mes.",
+          "Cada meta muestra su ahorro semana a semana.",
+          "Récords personales, dos insignias nuevas (Semana récord, 8 semanas seguidas) y una nueva misión diaria."
+        ]
+      },
+      {
+        "v": "1.2.11",
+        "date": "2026-11-15",
+        "key": "news_38",
+        "big": false,
+        "title": null,
+        "items": [
+          "Cuando Ahorros indica que algunos NIM de tus metas no están en staking, ahora hay una segunda respuesta: dejarlos en tu billetera y elegir la meta que deja de contarlos. No se envía nada."
+        ]
+      },
+      {
+        "v": "1.2.10",
+        "date": "2026-11-15",
+        "key": "news_37",
+        "big": false,
+        "title": null,
+        "items": [
+          "Cuando Ahorros indica que algunos NIM de tus metas no están en staking, un toque los devuelve: tu billetera vuelve a poner en staking la cantidad que falta, con una sola aprobación en Nimiq Pay. Tus metas no cambian."
+        ]
+      },
+      {
+        "v": "1.2.9",
+        "date": "2026-11-15",
+        "key": "news_36",
+        "big": false,
+        "title": null,
+        "items": [
+          "Ahorros ahora indica cuándo algunos NIM de tus metas no están en staking, y cuántos. Están seguros en tu billetera; Más > Preguntas frecuentes explica por qué.",
+          "Entre bastidores: tus metas ahora se guardan en un solo lugar de tu teléfono."
+        ]
+      },
+      {
+        "v": "1.2.8",
+        "date": "2026-11-15",
+        "key": "news_35",
+        "big": false,
+        "title": null,
+        "items": [
+          "Más > ¿Necesitas ayuda? tiene un nuevo botón «Copiar diagnóstico»: muestra lo que Dibs ve en tu teléfono, para que soporte te ayude más rápido. Solo lee, no envía nada y nunca incluye tu correo ni tus códigos."
+        ]
+      },
+      {
+        "v": "1.2.7",
+        "date": "2026-11-15",
+        "key": "news_34",
+        "big": false,
+        "title": null,
+        "items": [
+          "Entre bastidores: Dibs ya puede mostrar un breve resumen la primera vez que abres una gran actualización. Lo verás con la próxima."
+        ]
+      },
+      {
+        "v": "1.2.6",
+        "date": "2026-11-15",
+        "key": "news_33",
+        "big": false,
+        "title": null,
+        "items": [
+          "Un breve «¿Sabías que...?» aparece ahora mientras esperas: bajo el reloj de una meta en desbloqueo, y en la pantalla del código mientras la tienda entrega tu código.",
+          "47 datos sobre Dibs, Nimiq y las marcas del catálogo. Uno nuevo en cada visita."
+        ]
+      },
+      {
+        "v": "1.2.5",
+        "date": "2026-11-15",
+        "key": "news_32",
+        "big": false,
+        "title": null,
+        "items": [
+          "Las imágenes de Inicio son nuevas: fondos nuevos para las 15 marcas que ya tenían uno.",
+          "11 marcas más tienen la suya: Nintendo eShop, Google Play, Roblox, Fortnite, Valorant, Riot Access, Discord Nitro, H&M, Nike, Twitch y Burger King."
+        ]
+      },
+      {
+        "v": "1.2.4",
+        "date": "2026-11-14",
+        "key": "news_31",
+        "big": false,
+        "title": null,
+        "items": [
+          "Sin sorpresas al pagar: la página de una meta muestra ahora lo que cuesta la tarjeta en NIM hoy, y cómo cambió desde tu reserva y en 7 días.",
+          "Al 100%, ves lo que falta antes de empezar el desbloqueo, y puedes añadirlo antes.",
+          "La pantalla de pago te avisa con claridad cuando tu billetera no alcanza."
+        ]
+      },
+      {
+        "v": "1.2.3",
+        "date": "2026-11-14",
+        "key": "news_30",
+        "big": false,
+        "title": null,
+        "items": [
+          "En Inicio, tus metas ahora aparecen según lo que te toca: primero las listas para comprar, luego los desbloqueos por terminar y luego las metas al 100 %.",
+          "Ahorros > Lo siguiente sigue el mismo orden."
+        ]
+      },
+      {
+        "v": "1.2.2",
+        "date": "2026-11-14",
+        "key": "news_29",
+        "big": false,
+        "title": null,
+        "items": [
+          "Pagar una tarjeta es más claro: un solo total en NIM, lo que sale de tu meta y de tu billetera, y cuánto tiempo está garantizado el precio.",
+          "Dos pasos, un solo botón: el correo para tu recibo y luego Pagar."
+        ]
+      },
+      {
+        "v": "1.2.1",
+        "date": "2026-11-14",
+        "key": "news_28",
+        "big": false,
+        "title": null,
+        "items": [
+          "La pantalla que muestra tu código tiene un nuevo aspecto: un sello Dibs!, tu tarjeta como un boleto y tu ahorro en tres cifras.",
+          "Toca el código para copiarlo."
+        ]
+      },
+      {
+        "v": "1.2",
+        "date": "2026-11-14",
+        "key": "news_27",
+        "big": true,
+        "title": "Llegan las misiones diarias",
+        "items": [
+          "Misiones diarias: tres cosas pequeñas que hacer cada día, en Perfil > Misiones. Toca una para ir a hacerla.",
+          "Completa las tres para conseguir el sello Día completado y XP extra.",
+          "Dos nuevas misiones semanales y tres nuevas insignias."
+        ]
+      },
+      {
+        "v": "1.1.13",
+        "date": "2026-11-13",
+        "key": "news_26",
+        "big": false,
+        "title": null,
+        "items": [
+          "La cantidad que falta ahora también se muestra en tu moneda, en Inicio y en Ahorros.",
+          "En Más, Visita nuestro sitio web ahora abre el sitio directamente."
+        ]
+      },
+      {
+        "v": "1.1.12",
+        "date": "2026-11-13",
+        "key": "news_25",
+        "big": false,
+        "title": null,
+        "items": [
+          "En Inicio, el botón de una meta ahora indica el siguiente paso: Iniciar desbloqueo, Terminar el desbloqueo u Obtener mi tarjeta.",
+          "Las misiones ahora están en Perfil, con un acceso directo en Inicio.",
+          "Más está reorganizado, y Más > Recompensas se lee con más facilidad."
+        ]
+      },
+      {
+        "v": "1.1.11",
+        "date": "2026-11-13",
+        "key": "news_24",
+        "big": false,
+        "title": null,
+        "items": [
+          "La página pública Dibs en cifras tiene un nuevo aspecto, con las mismas cifras honestas."
+        ]
+      },
+      {
+        "v": "1.1.10",
+        "date": "2026-11-13",
+        "key": "news_23",
+        "big": false,
+        "title": null,
+        "items": [
+          "El tamaño del texto es ahora uniforme en toda la app, y los puntos de estado laten suavemente para mostrar lo que está activo.",
+          "La página Añadir NIM muestra tu cantidad en tu moneda, y te avisa cuando vas por delante de tu plan."
+        ]
+      },
+      {
+        "v": "1.1.9",
+        "date": "2026-11-13",
+        "key": "news_22",
+        "big": true,
+        "title": "Una corrección importante para el desbloqueo",
+        "items": [
+          "Corregido: tras un pago fallido, una meta ya desbloqueada podía ofrecer desbloquearse otra vez. Dibs ahora rechaza un segundo desbloqueo y mantiene en staking los NIM de tus otras metas."
+        ]
+      },
+      {
+        "v": "1.1.8",
+        "date": "2026-11-13",
+        "key": "news_21",
+        "big": false,
+        "title": null,
+        "items": [
+          "Ahora eliges el valor de la tarjeta en la ficha de la marca, con su cantidad en NIM bajo cada valor.",
+          "La página del plan muestra tu meta, el tipo y tu billetera en una sola tarjeta, y una línea de tiempo simple."
+        ]
+      },
+      {
+        "v": "1.1.7",
+        "date": "2026-11-13",
+        "key": "news_20",
+        "big": false,
+        "title": null,
+        "items": [
+          "Steam, Best Buy, Apple, Uber y Fortnite muestran ahora sus logos oficiales."
+        ]
+      },
+      {
+        "v": "1.1.6",
+        "date": "2026-11-13",
+        "key": "news_19",
+        "big": false,
+        "title": null,
+        "items": [
+          "Tu racha semanal está ahora en la tarjeta de nivel del Perfil, con su bonus de XP.",
+          "En modo claro, los logos de las marcas tienen un borde fino para que los logos blancos sigan visibles."
+        ]
+      },
+      {
+        "v": "1.1.5",
+        "date": "2026-11-13",
+        "key": "news_18",
+        "big": false,
+        "title": null,
+        "items": [
+          "El Perfil es más simple: aparece un aviso cuando una recompensa está lista para reclamar.",
+          "Tu total ahorrado se muestra ahora en tu moneda."
+        ]
+      },
+      {
+        "v": "1.1.4",
+        "date": "2026-11-13",
+        "key": "news_17",
+        "big": false,
+        "title": null,
+        "items": [
+          "Más tiene un enlace al nuevo sitio web de Dibs: tócalo para copiar el enlace.",
+          "Recompensas está ahora bajo Cómo funciona, y la línea del Catálogo es más corta."
+        ]
+      },
+      {
+        "v": "1.1.3",
+        "date": "2026-11-13",
+        "key": "news_16",
+        "big": false,
+        "title": null,
+        "items": [
+          "El historial agrupa ahora cada día en una tarjeta, con la marca, el importe y la hora en cada fila.",
+          "Toca una fila para ver su transacción y copiarla."
+        ]
+      },
+      {
+        "v": "1.1.2",
+        "date": "2026-11-13",
+        "key": "news_15",
+        "big": false,
+        "title": null,
+        "items": [
+          "Ahorros tiene un nuevo aspecto: tu total, lo que genera, lo que está fuera de tus metas y lo que se está desbloqueando, de un vistazo.",
+          "El temporizador de desbloqueo y su botón ahora comparten una fila."
+        ]
+      },
+      {
+        "v": "1.1.1",
+        "date": "2026-11-13",
+        "key": "news_14",
+        "big": false,
+        "title": null,
+        "items": [
+          "Un punto en Más te avisa ahora de las novedades importantes, como marcas nuevas. Abre Más > Novedades para leerlas."
+        ]
+      },
+      {
+        "v": "1.1",
+        "date": "2026-11-13",
+        "key": "news_13",
+        "big": true,
+        "title": "5 marcas nuevas",
+        "items": [
+          "Nuevas marcas: Bolt, Twitch, H&M, Nike, Burger King."
+        ]
+      },
+      {
+        "v": "1.0.10",
+        "date": "2026-11-12",
+        "key": "news_12",
+        "big": false,
+        "title": null,
+        "items": [
+          "Ahorros ahora indica por qué las ganancias muestran 0: las primeras llegan con el próximo pago del pool, y los NIM que se están desbloqueando ya no generan ganancias.",
+          "Las preguntas frecuentes explican cuándo llegan las ganancias.",
+          "Con varias metas, cada tarjeta se ajusta ahora a su contenido."
+        ]
+      },
+      {
+        "v": "1.0.9",
+        "date": "2026-11-12",
+        "key": "news_11",
+        "big": false,
+        "title": null,
+        "items": [
+          "La búsqueda ya no amplía la pantalla.",
+          "La página de la meta explica mejor las ganancias y la espera.",
+          "Nueva meta vuelve a destacar cuando no tienes ninguna meta activa."
+        ]
+      },
+      {
+        "v": "1.0.8",
+        "date": "2026-11-12",
+        "key": "news_9",
+        "big": false,
+        "title": null,
+        "items": [
+          "Inicio es más claro: tu meta indica si vas al día.",
+          "El botón Añadir te dice qué es el monto, como «El paso de esta semana».",
+          "Nueva meta es ahora un botón más discreto bajo las fotos."
+        ]
+      },
+      {
+        "v": "1.0.7",
+        "date": "2026-11-12",
+        "key": "news_8",
+        "big": false,
+        "title": null,
+        "items": [
+          "Elige tu moneda: Más > Preferencias > Moneda.",
+          "El valor de tu saldo la sigue.",
+          "Las marcas se abren en la versión de tarjeta de esa moneda. Una cuenta guardada en Más > Tus cuentas sigue teniendo prioridad."
+        ]
+      },
+      {
+        "v": "1.0.6",
+        "date": "2026-11-12",
+        "key": "news_7",
+        "big": false,
+        "title": null,
+        "items": [
+          "Tu saldo en NIM ahora muestra su valor en la moneda de tu Nimiq Pay.",
+          "El cambio de idioma está ahora arriba en Más.",
+          "Novedades tiene un nuevo aspecto: un bloque por versión."
+        ]
+      },
+      {
+        "v": "1.0.5",
+        "date": "2026-11-12",
+        "key": "news_10",
+        "big": false,
+        "title": null,
+        "items": [
+          "Palabras más claras: Tus cuentas ahora dice «cuenta» en lugar de «preferencia».",
+          "Nueva meta dice «valor de la tarjeta» en lugar de «monto»."
+        ]
+      },
+      {
+        "v": "1.0.4",
+        "date": "2026-11-12",
+        "key": "news_6",
+        "big": false,
+        "title": null,
+        "items": [
+          "Llegó el modo claro: Más > Preferencias > Apariencia.",
+          "El modo oscuro sigue siendo el predeterminado."
+        ]
+      },
+      {
+        "v": "1.0.3",
+        "date": "2026-11-12",
+        "key": "news_5",
+        "big": false,
+        "title": null,
+        "items": [
+          "El botón Cambiar tarjeta de una meta ahora funciona mientras tus NIM se desbloquean.",
+          "Al pagar una tarjeta, Dibs te recuerda elegir NIM si Nimiq Pay te pregunta NIM o USDT.",
+          "Los precios de las tarjetas se mantienen más al día."
+        ]
+      },
+      {
+        "v": "1.0.2",
+        "date": "2026-11-11",
+        "key": "news_4",
+        "big": false,
+        "title": null,
+        "items": [
+          "Dibs recuerda la versión de tarjeta que sirve para cada una de tus cuentas, guardada cuando reservas. Cámbiala en Más > Tus cuentas.",
+          "Nueva página para el idioma, el sonido y las estadísticas de uso: Más > Preferencias.",
+          "Una meta lista para comprar muestra cuántos NIM necesita aún la tarjeta y si tu billetera lo cubre.",
+          "El historial guarda la tarjeta para la que se hizo cada paso."
+        ]
+      },
+      {
+        "v": "1.0.1",
+        "date": "2026-11-11",
+        "key": "news_3",
+        "big": false,
+        "title": null,
+        "items": [
+          "Elige una tarjeta compatible con tu cuenta. Revisa las indicaciones de la tienda.",
+          "Todos los valores que vende la tienda, hasta 100 USD.",
+          "Cambia la tarjeta de una meta, incluso lista para comprar: los mismos NIM, sin transacción.",
+          "Al pagar, Dibs ahora muestra si una tarjeta cuesta más de lo que ahorraste.",
+          "Nuevo: Fortnite."
+        ]
+      },
+      {
+        "v": "1.0",
+        "date": "2026-11-10",
+        "key": "news_1",
+        "big": false,
+        "title": null,
+        "items": [
+          "Un banner de fotos en Inicio.",
+          "El nuevo logo con la d coral.",
+          "Sigue a Dibs en X en Más.",
+          "Una introducción al primer uso con Cómo funciona.",
+          "Esta semana pasa a Ahorros.",
+          "Comparte Dibs.",
+          "Privacidad, Términos y Novedades.",
+          "Insignias y recompensas en NIM.",
+          "Niveles, rangos y una misión semanal.",
+          "Pantalla completa en Nimiq Pay."
+        ]
+      }
+    ]
+  }
+}

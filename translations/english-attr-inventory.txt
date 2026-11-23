@@ -1,0 +1,65 @@
+001 content [index] Dibs is a savings Mini App for Nimiq Pay. Save NIM toward a gift card. Staking rewards are not guaranteed. One tap to get it. Your NIM stays in your own wallet.
+002 content [about,catalog,faq,how,index,privacy,safety,terms,updates] Dibs: call dibs, save up, it's yours
+003 content [about,catalog,faq,how,index,privacy,safety,terms,updates] A savings Mini App for Nimiq Pay. Save NIM toward something you want. Staking rewards are not guaranteed. One tap to get it.
+004 alt [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Dibs, home
+005 aria-label [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Main
+006 aria-label [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Language: English
+007 aria-label [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Menu
+008 aria-label [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Main, mobile
+009 alt [index] Dibs Electronics gift card catalog, shown behind the active goal screen
+010 alt [index] Dibs Home with two active savings goals and progress rings
+011 alt [index] Dibs catalog filtered to Electronics with gift cards to choose from
+012 alt [index] Dibs Add NIM screen showing the deposit preview and staking pool
+013 alt [index] Dibs goal screen at 100 percent, ready to unlock
+014 aria-label [index] Dibs at a glance
+015 alt [index] Dibs Electronics catalog with gift cards and filters
+016 alt [index] Dibs Add NIM screen with deposit preview and pool row
+017 alt [index] Dibs Savings screen showing total NIM, next reward and converter
+018 alt [index] Dibs gift card completion screen with the code hidden
+019 aria-label [index] Things you could save for
+020 alt [index] Dibs Profile with avatar, level, badges and Wishlist
+021 alt [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] QR code of the Dibs app address, dibs-sepia.vercel.app
+022 aria-label [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Footer
+023 aria-label [about,catalog,faq,how,index,litepaper,privacy,safety,terms,updates] Language
+024 content [safety] Your NIM never leaves your own wallet. What Dibs can and cannot do, how payment works, and every step you can check on chain.
+025 aria-label [safety] What Dibs can and cannot do
+026 alt [safety] Dibs Savings screen with next reward time, pool name and NIM converter
+027 content [litepaper] The Dibs Litepaper: a practical explanation of saving NIM toward real gift cards, self-custody, staking, checkout, privacy and the product roadmap.
+028 content [litepaper] Dibs Litepaper | Call dibs. Save up. It's yours.
+029 content [litepaper] Why we built Dibs, how saving with NIM works, and the design choices behind the product.
+030 aria-label [litepaper] A real Dibs savings goal displayed in the application
+031 alt [litepaper] Dibs v1.7.7 Home screen with two active goals, progress and the option to add NIM
+032 aria-label [litepaper] Dibs principles
+033 aria-label [litepaper] Litepaper table of contents
+034 aria-label [litepaper] Jump to section
+035 alt [how,litepaper] Dibs Electronics catalog screen
+036 alt [litepaper] Dibs Add NIM screen with deposit preview and pool
+037 alt [litepaper] Dibs completed goal at 100 percent
+038 alt [litepaper] Dibs paid gift card screen with code hidden
+039 aria-label [litepaper] Dibs Mini App interfaces with Nimiq Pay to approve wallet and staking transactions, while the Dibs service obtains gift card data and orders from Bitrefill. Payments are confirmed in Nimiq Pay using Lightning.
+040 content [faq] Short answers about saving NIM with Dibs: where your NIM is, why there is a wait, where cards come from, fees, and your data.
+041 placeholder [faq] Search, for example: fee, wait, Bitrefill
+042 aria-label [faq] Topics
+043 content [how] How Dibs works: pick a card, approve NIM deposits, choose a staking pool, unlock and buy. Staking rewards are not guaranteed.
+044 alt [how] Dibs Add NIM screen with deposit preview
+045 alt [how] Dibs goal at 100 percent, with the unlock button
+046 alt [how] Dibs Done screen with the gift card code hidden
+047 aria-label [how] Nine weekly steps, one week skipped and caught up the week after
+048 aria-label [how] Cost breakdown
+049 aria-label [how] Dibs app screens
+050 alt [how] Dibs brand sheet with card values and delivery details
+051 alt [how] Dibs plan screen showing value, target and date
+052 alt [how] Dibs Savings screen with next staking reward and live rate converter
+053 alt [how] Dibs Unlock screen with three steps and estimated network release time
+054 alt [how] Dibs My look screen with rank-based accent choices
+055 content [terms] Terms for the Dibs website and a short version of the app terms.
+056 content [privacy] How Dibs handles data on the website and in the app, including optional Friends, sharing controls and encrypted gifts.
+057 content [about] Why Dibs exists, our story through v{{LIVE_VERSION}}, the principles behind the app, and how to reach us.
+058 aria-label [about] A balance versus the thing you wanted
+059 content [updates] Browse {{RELEASE_COUNT}} Dibs releases, with official notes from the app and the plans ahead.
+060 aria-label [updates] Release numbers
+061 aria-label [updates] Show
+062 content [catalog] Browse {{BRAND_COUNT}} gift card brands in {{CATEGORY_COUNT}} categories, including Electronics. Choose the version for your account.
+063 alt [catalog] Dibs Electronics catalog showing {{ELECTRONICS_COUNT}} brands
+064 aria-label [catalog] Category
+065 placeholder [catalog] Search a brand

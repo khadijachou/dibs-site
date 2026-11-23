@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Privacy · Dibs</title>
+<meta content="How Dibs handles data on the website and in the app, including optional Friends, sharing controls and encrypted gifts." name="description"/>
+<meta content="#1B1920" name="theme-color"/>
+<link href="assets/favicon.svg?v=2" rel="icon" type="image/svg+xml"/>
+<link href="assets/favicon-96.png?v=2" rel="icon" sizes="96x96" type="image/png"/>
+<link href="assets/apple-touch-icon.png" rel="apple-touch-icon"/>
+<meta content="website" property="og:type"/>
+<meta content="Dibs: call dibs, save up, it's yours" property="og:title"/>
+<meta content="A savings Mini App for Nimiq Pay. Save NIM toward something you want. Staking rewards are not guaranteed. One tap to get it." property="og:description"/>
+<meta content="https://calldibs-ashen.vercel.app/privacy.html" property="og:url"/>
+<meta content="https://calldibs-ashen.vercel.app/assets/og-dibs-v177.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="630" property="og:image:height"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@calldibs_app" name="twitter:site"/>
+<link as="font" crossorigin="" href="assets/fonts/poppins-latin-700-normal.woff2" rel="preload" type="font/woff2"/>
+<link href="styles.css" rel="stylesheet"/>
+<link href="https://calldibs-ashen.vercel.app/privacy.html" hreflang="en" rel="alternate"/><link href="https://calldibs-ashen.vercel.app/fr/privacy.html" hreflang="fr" rel="alternate"/><link href="https://calldibs-ashen.vercel.app/es/privacy.html" hreflang="es" rel="alternate"/><link href="https://calldibs-ashen.vercel.app/privacy.html" hreflang="x-default" rel="alternate"/></head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div aria-hidden="true" class="progress"><i></i></div>
+<div aria-hidden="true" class="bg"><i class="g-coral"></i><i class="g-mint"></i></div>
+<div aria-hidden="true" class="grain"></div>
+<div class="bar">
+<header class="wrap top">
+<a class="logo" href="./"><img alt="Dibs, home" height="34" src="assets/dibs-wordmark.svg" width="88"/></a>
+<nav aria-label="Main" class="nav"><a href="./">Home</a><a href="how.html">How it works</a><a href="catalog.html">Catalog</a><a href="safety.html">Safety</a><a href="updates.html">Updates</a><a href="litepaper.html">Litepaper</a><a href="about.html">About</a></nav>
+<div class="top-end">
+<div class="lang">
+<button aria-controls="lang-menu" aria-expanded="false" aria-label="Language: English" class="lang-btn" type="button"><svg aria-hidden="true" fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="18"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9S9.5 5.6 12 3z"></path></svg><span>EN</span></button>
+<ul class="lang-menu" hidden="" id="lang-menu"><li><a aria-current="true" href="privacy.html" lang="en">English</a></li><li><a href="fr/privacy.html" lang="fr">Français</a></li><li><a href="es/privacy.html" lang="es">Español</a></li></ul>
+</div>
+<a class="btn btn-primary btn-sm top-cta" href="#open">Open in Nimiq Pay</a>
+<button aria-controls="menu" aria-expanded="false" aria-label="Menu" class="menu-btn" type="button"><i></i><i></i></button>
+</div>
+</header>
+</div>
+<div class="menu" hidden="" id="menu">
+<nav aria-label="Main, mobile"><a href="./">Home</a><a href="how.html">How it works</a><a href="catalog.html">Catalog</a><a href="safety.html">Safety</a><a href="updates.html">Updates</a><a href="litepaper.html">Litepaper</a><a href="about.html">About</a><a href="faq.html">FAQ</a></nav>
+<a class="btn btn-primary" href="#open">Open in Nimiq Pay</a>
+</div>
+<main id="main">
+<div class="legal"><h1>Privacy</h1><p class="date">Last updated: 22 November 2026</p>
+<p>Dibs keeps your goals on your phone. Friends, leaderboards and anonymous usage stats are optional. Here is what stays on the device, what leaves it, and why.</p>
+<h2>This website</h2><p>No cookies, advertising, analytics or trackers. The images, scripts and fonts are served from this website. The public figures on Home are fetched through <code>/api/stats</code> from the Dibs stats server. Release history is read through <code>/api/updates</code> from the public app files on GitHub. No personal details are requested for either request.</p>
+<h2>Hosting</h2><p>Vercel hosts this website and can receive routine technical data such as an IP address when your browser requests a page. Dibs does not use that data for advertising or analytics.</p>
+<h2>Links to other sites</h2><p>You can choose to open the app, a demonstration video, the code repository, the chain explorer, the public stats page or our X account. Those services have their own privacy practices. Nothing from them loads just because you read this site.</p>
+<h2>Copying the app link</h2><p>The Copy button puts the Dibs app address in your device's clipboard. It does not send a request.</p>
+<h2>If you write to us</h2><p>Emailing <a href="mailto:calldibs.contact@gmail.com">calldibs.contact@gmail.com</a> shares your email address and message with us. We use them to answer you.</p>
+<h2>In the app: on your phone</h2><p>Your goals, settings, badges, XP and quests are stored on your phone. Your display name also stays on your phone unless you choose to enable Friends. Dibs does not send your name with usage statistics or purchases.</p>
+<h2>Your wallet</h2><p>Dibs reads your NIM address and balance through Nimiq Pay. You approve deposits, staking steps and payments in Nimiq Pay. Dibs never holds your NIM or private keys.</p>
+<h2>Buying a gift card</h2><p>Our server asks Bitrefill for a payment invoice and passes the email you type to Bitrefill for a receipt. Our server keeps the order number and a random access key, not your email address. Your code, PIN or link reaches your phone and is not stored on our server.</p>
+<h2>Usage statistics: only if you agree</h2><p>If you tap Share stats, Dibs counts goals created, NIM deposited through Dibs and cards bought, plus total NIM staked and any rewards, anonymously with a random ID. Transaction IDs are checked against the chain once and then deleted. Never your name, email or codes. Turn sharing off or delete shared stats in Settings.</p>
+<h2>Friends: only if you turn it on</h2><p>Friends keeps your display name, a random ID and friend code on a separate server. Your wallet signs once to link the profile; the server keeps a scrambled fingerprint of the wallet, not the address. You choose what to share, including level and rank, badges, cards bought, active goals and wishlist. You may also choose to share your Nimiq avatar, NIM saved and earned, and the value of goals or cards. Each control starts off and can be set to friends or everyone. Turning a setting off removes that detail from the server. Your wallet balance, wallet address and email are not shared through Friends.</p>
+<h2>Gift records and locked codes</h2><p>Calling dibs on a friend's wish records which wish you chose and that you marked it sent, not the value. Gift messages, banners and card values are shown only to their recipient. Sending one of your own goals records who sent it, who received it and the card's brand.</p><p>A gift card code sent within Dibs is end-to-end encrypted on the sending phone so only the recipient's phone can open it. The Friends server relays it but cannot read it. Encrypted codes are deleted after opening or after 30 days.</p>
+<h2>Leaderboards: only if you join</h2><p>Friends and global leaderboards are opt-in. If you join, the board uses your chosen profile name, level and checked XP. For deposit-related progress, Dibs checks a deposit on the Nimiq chain without storing its transaction hash or your wallet address. You can remove your Friends data in Profile &gt; Friends &gt; You.</p>
+<h2>Other services</h2><p>Bitrefill sells and delivers gift cards under its own privacy policy. Nimiq's validators service loads the list of staking pools and may see technical data such as your IP address. Vercel and Render host the app and server, and the app uses Google Fonts. Those services may also receive technical data. This website serves its own fonts locally.</p>
+<h2>NIM rewards claimed outside the app</h2><p>If you claim a promotional NIM reward by email, you may choose to send your Nimiq address so it can be paid. The app does not send that address for you. It is used only for that payment.</p>
+<h2>What we never do</h2><p>No ads, no trackers, no data sales. Read the app's matching privacy text under More &gt; Legal &gt; Privacy.</p></div>
+</main>
+<section aria-labelledby="open-h" class="wrap foot-band" id="open">
+<div class="open">
+<div class="open-text">
+<h2 id="open-h">Call dibs on something</h2>
+<p class="open-sub">Dibs runs inside Nimiq Pay. Three steps and you are in.</p>
+<ol>
+<li>Open Nimiq Pay on your phone.</li>
+<li>Go to Mini Apps &gt; Custom URL.</li>
+<li><span>Enter <span class="addr">dibs-sepia.vercel.app</span> or scan the code.</span></li>
+</ol>
+<div class="open-actions">
+<button class="btn btn-ink" data-link="https://dibs-sepia.vercel.app" id="copy" type="button">Copy the app link</button>
+<a class="plain" href="https://dibs-sepia.vercel.app" rel="noopener" target="_blank">Try the demo in your browser</a>
+</div>
+<p aria-live="polite" class="copied" id="copied" role="status"></p>
+</div>
+<div class="qr">
+<img alt="QR code of the Dibs app address, dibs-sepia.vercel.app" height="196" src="assets/qr-app.svg" width="196"/>
+<span>Scan in Nimiq Pay</span>
+</div>
+</div>
+</section>
+<footer>
+<div class="wrap foot2">
+<div class="f-brand">
+<a class="f-logo" href="./"><img alt="Dibs, home" height="40" src="assets/dibs-wordmark.svg" width="104"/></a>
+<p>Save NIM toward a gift card. Your NIM stays in your own wallet. Staking rewards are not guaranteed.</p>
+<p class="f-status"><i aria-hidden="true"></i><span id="f-ver">Live on Nimiq mainnet</span></p>
+</div>
+<nav aria-label="Footer" class="f-cols">
+<div><b>Product</b><a href="how.html">How it works</a><a href="catalog.html">Catalog</a><a href="safety.html">Safety</a><a href="updates.html">Updates</a><a href="litepaper.html">Litepaper</a></div>
+<div><b>Dibs</b><a href="about.html">About</a><a href="about.html#contact">Contact</a><a href="https://dibs-qi5y.onrender.com/stats" rel="noopener" target="_blank">Dibs in numbers</a></div>
+<div><b>Help</b><a href="faq.html">FAQ</a><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="mailto:calldibs.contact@gmail.com">Email us</a></div>
+<div class="contact"><b>Follow</b><a href="https://x.com/calldibs_app" rel="noopener" target="_blank"><svg aria-hidden="true" fill="currentColor" height="17" viewbox="0 0 24 24" width="17"><path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"></path></svg>@calldibs_app</a><a href="https://github.com/khadijachou/dibs" rel="noopener" target="_blank"><svg aria-hidden="true" fill="currentColor" height="17" viewbox="0 0 24 24" width="17"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"></path></svg>GitHub</a><a href="https://www.youtube.com/watch?v=y2SuazkWBkM" rel="noopener" target="_blank"><svg aria-hidden="true" fill="currentColor" height="17" viewbox="0 0 24 24" width="17"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"></path></svg>Demo video</a></div>
+</nav>
+</div>
+<div class="wrap f-bottom">
+<div aria-label="Language" class="f-lang"><svg aria-hidden="true" fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.9" viewbox="0 0 24 24" width="18"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9S9.5 5.6 12 3z"></path></svg><a aria-current="true" href="privacy.html" lang="en">English</a><a href="fr/privacy.html" lang="fr">Français</a><a href="es/privacy.html" lang="es">Español</a></div>
+<p class="f-ind">Dibs is independent. It is not sponsored by, partnered with or endorsed by Bitrefill or any brand shown on this site. Brand names and logos belong to their owners.</p>
+<p class="f-copy">© 2026 Dibs. Built for the Nimiq Mini Apps Competition, Cycle III (Save). Open source under the MIT licence.</p>
+</div>
+</footer>
+<script>
+(function () {
+  var still = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var bar = document.querySelector('.progress i');
+  if (bar && !(window.CSS && CSS.supports && CSS.supports('animation-timeline: scroll()'))) {
+    var t = false;
+    window.addEventListener('scroll', function () { if (t) return; t = true; requestAnimationFrame(function () {
+      t = false; var h = document.documentElement.scrollHeight - window.innerHeight; bar.style.transform = 'scaleX(' + (h > 0 ? window.pageYOffset / h : 0) + ')'; }); }, { passive: true });
+  }
+  if (!still && window.matchMedia('(pointer: fine)').matches) {
+    [].slice.call(document.querySelectorAll('.btn-primary')).forEach(function (b) {
+      b.addEventListener('pointermove', function (e) { var r = b.getBoundingClientRect();
+        b.style.transform = 'translate(' + (((e.clientX - r.left) / r.width - .5) * 8).toFixed(1) + 'px,' + (((e.clientY - r.top) / r.height - .5) * 6).toFixed(1) + 'px)'; });
+      b.addEventListener('pointerleave', function () { b.style.transform = ''; });
+    });
+  }
+  /* language menu */
+  var lb = document.querySelector('.lang-btn'), lm = document.getElementById('lang-menu');
+  if (lb && lm) {
+    function lset(o) { lm.hidden = !o; lb.setAttribute('aria-expanded', o ? 'true' : 'false'); }
+    lb.addEventListener('click', function (e) { e.stopPropagation(); lset(lm.hidden); });
+    document.addEventListener('click', function (e) { if (!lm.hidden && !lm.contains(e.target)) lset(false); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') { lset(false); } });
+  }
+  /* mobile menu */
+  var mb = document.querySelector('.menu-btn'), menu = document.getElementById('menu');
+  if (mb && menu) {
+    function mset(o) { menu.hidden = !o; mb.setAttribute('aria-expanded', o ? 'true' : 'false'); document.documentElement.classList.toggle('menu-open', o); }
+    mb.addEventListener('click', function () { mset(menu.hidden); });
+    menu.addEventListener('click', function (e) { if (e.target.closest('a')) mset(false); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !menu.hidden) { mset(false); mb.focus(); } });
+    window.addEventListener('resize', function () { if (window.innerWidth > 1020 && !menu.hidden) mset(false); });
+  }
+  /* copy app link */
+  var cb = document.getElementById('copy'), cs = document.getElementById('copied');
+  if (cb) cb.addEventListener('click', function () {
+    var l = cb.getAttribute('data-link');
+    var done = function () { cs.textContent = 'Link copied. Paste it in Nimiq Pay > Mini Apps > Custom URL.'; };
+    if (navigator.clipboard) navigator.clipboard.writeText(l).then(done, function () { cs.textContent = l; }); else cs.textContent = l;
+  });
+  /* background zone: mint around [data-zone=mint] */
+  var mint = [].slice.call(document.querySelectorAll('[data-zone="mint"]'));
+  if ('IntersectionObserver' in window && mint.length) {
+    var seen = new Map();
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) { seen.set(e.target, e.isIntersecting); });
+      var on = false; seen.forEach(function (v) { if (v) on = true; });
+      document.documentElement.classList.toggle('zone-mint', on);
+    }, { rootMargin: '-45% 0px -45% 0px' });
+    mint.forEach(function (el) { io.observe(el); });
+  }
+  /* footer: live version */
+  var fv = document.getElementById('f-ver');
+  if (fv && window.fetch) fetch('/api/updates').then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+    if (d && d.live) fv.textContent = 'v' + d.live + ' live on Nimiq mainnet';
+  }).catch(function () {});
+})();
+</script>
+</body>
+</html>
+
