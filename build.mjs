@@ -13,6 +13,8 @@ import { fileURLToPath } from 'node:url';
 import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 const { parseNews, parseI18n, parseBrands, releaseData } = require('./lib/app-data.cjs');
+// Approved inline SVG artwork copied unchanged from the original supplied website.
+const SITE_ICONS = require('./data/site-original-icons.json');
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const RAW = 'https://raw.githubusercontent.com/khadijachou/dibs/main/';
 const INPUTS = { package:'app/package.json', news:'app/src/lib/news.js',
@@ -70,7 +72,14 @@ function logoTile(brand,lang,small=false){
   const css=`b-logo${small?' sm':''}${image?' contain':''}`;
   const prefix=lang==='en'?'assets/':'../assets/';
   if(image)return `<span class="${css}" style="background:${esc(bg)}"><img alt="" loading="lazy" width="52" height="52" src="${prefix}logos/${esc(image)}"></span>`;
-  return `<span class="${css} b-letter" aria-hidden="true" style="background:#36323F;color:#CFC8D6">CARD</span>`;
+  // Some official app brands have no logo file. Reuse the icon that already
+  // appeared on the supplied website, rather than showing a fake CARD label.
+  const original = SITE_ICONS.brandIcons[brand.key];
+  if(original)return small ? original.replace('class="b-logo"','class="b-logo sm"') : original;
+  // Future brands: the app's own letter-tile is a neutral fallback, not a logo.
+  const tile=brand.tile||{};
+  const safeColor=(value,fallback)=>/^#[0-9a-fA-F]{3,8}$/.test(value||'')?value:fallback;
+  return `<span class="${css} b-letter" aria-hidden="true" style="background:${safeColor(tile.bg,'#36323F')};color:${safeColor(tile.fg,'#FFFFFF')}">${esc(tile.letter||brand.name?.[0]||'?')}</span>`;
 }
 function aboutBrand(b,lang,dict,enDescriptions){
   if(UI[lang].alt[b.key])return UI[lang].alt[b.key];
@@ -88,7 +97,7 @@ function categoryTabs(counts,lang){
 }
 function categoryCards(brands,counts,lang){
   const icons=category=>brands.filter(b=>b.chip===category).slice(0,3).map(b=>logoTile(b,lang,true)).join('');
-  const cards=ORDER.map(key=>`<li><a class="cc" href="catalog.html#${key}"><span class="cc-top"><span class="cc-ico" aria-hidden="true"></span><span class="cc-n">${counts[key]}</span></span><span class="cc-stack" aria-hidden="true">${icons(key)}</span><strong>${esc(LABELS[lang][key])}</strong><span class="cc-ex">${esc(UI[lang].examples[key])}</span><span class="cc-go" aria-hidden="true">→</span></a></li>`);
+  const cards=ORDER.map(key=>`<li><a class="cc" href="catalog.html#${key}"><span class="cc-top">${SITE_ICONS.categoryIcons[key]}<span class="cc-n">${counts[key]}</span></span><span class="cc-stack" aria-hidden="true">${icons(key)}</span><strong>${esc(LABELS[lang][key])}</strong><span class="cc-ex">${esc(UI[lang].examples[key])}</span><span class="cc-go" aria-hidden="true">→</span></a></li>`);
   cards.push(`<li class="cc-all-li"><a class="cc cc-all" href="catalog.html"><span class="cc-n">${brands.length}</span><strong>${esc(UI[lang].seeAll)}</strong><span class="cc-ex">${esc(UI[lang].seeAllSub)}</span><span class="cc-go" aria-hidden="true">→</span></a></li>`);
   return cards.join('\n');
 }
